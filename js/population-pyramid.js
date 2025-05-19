@@ -45,12 +45,16 @@ function showLoading(show = true) {
 function processRawData(rawData) {
     // Assuming rawData is the direct JSON content for one country/year
     // or an array of such objects if you adapt for multiple years in one file.
+    
+    // Reverse the array to have youngest ages at bottom
+    const reversedData = [...rawData.data].reverse();
+    
     const yearData = {
         year: rawData.year,
         country: rawData.country,
-        ageGroups: rawData.data.map(d => d.ageGroup),
-        male: rawData.data.map(d => d.male),
-        female: rawData.data.map(d => d.female)
+        ageGroups: reversedData.map(d => d.ageGroup),
+        male: reversedData.map(d => d.male),
+        female: reversedData.map(d => d.female)
     };
     return [yearData]; // Return as an array for consistency with multi-year potential
 }
