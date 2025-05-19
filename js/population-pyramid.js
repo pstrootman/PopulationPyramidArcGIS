@@ -118,6 +118,7 @@ function initializeChart(dataIndex) {
                 y: {
                     stacked: true, // This doesn't stack bars on top of each other in this config
                                 // but ensures age groups are treated as distinct categories.
+                    reverse: true, // Reverse the order to have youngest at bottom
                     title: {
                         display: true,
                         text: 'Age Group'
