@@ -108,6 +108,12 @@ function initializeChart(dataIndex) {
             indexAxis: 'y', // Horizontal bar chart
             responsive: true,
             maintainAspectRatio: false,
+            layout: { // Added this section to extend white background left/right
+                padding: {
+                    left: 200,
+                    right: 200
+                }
+            },
             scales: {
                 x: {
                     stacked: false,
@@ -120,9 +126,8 @@ function initializeChart(dataIndex) {
                     }
                 },
                 y: {
-                    stacked: true, // This doesn't stack bars on top of each other in this config
-                                // but ensures age groups are treated as distinct categories.
-                    reverse: false, // Reverse the order to have youngest at bottom
+                    stacked: true, 
+                    reverse: false, // Youngest at bottom
                     title: {
                         display: true,
                         text: 'Age Group'
@@ -197,7 +202,6 @@ function setupControls() {
     if (allYearsData.length <= 1) {
         playPauseButton.classList.add('hidden-controls');
         sliderComponents.classList.add('hidden-controls');
-        // If only one year, no need for play/pause or slider
         if (allYearsData.length === 1) {
             currentYearDisplay.textContent = `Year: ${allYearsData[0].year}`;
             dataSourceInfo.textContent = `Data for \"${allYearsData[0].country}\"`;
@@ -235,9 +239,8 @@ async function loadAndDisplayChart(countryName = 'Algeria') {
             throw new Error(`HTTP error! status: ${response.status} - Could not fetch ${jsonFilePath}`);
         }
         const rawData = await response.json();
-        allYearsData = processRawData(rawData); // Expects processRawData to return an array
+        allYearsData = processRawData(rawData); 
 
-        // Determine initial year index from URL or default to 0
         const params = new URLSearchParams(window.location.search);
         const yearParam = params.get('year');
         if (yearParam && allYearsData.length > 0) {
@@ -259,7 +262,6 @@ async function loadAndDisplayChart(countryName = 'Algeria') {
         showMessage(`Error: ${error.message}`, 'error');
         dataSourceInfo.textContent = "Error: Could not load data.";
         currentYearDisplay.textContent = "Year: ---";
-        // Hide all controls if data loading fails
         controlsContainer.classList.add('hidden-controls');
         showLoading(false);
     }
@@ -274,7 +276,6 @@ async function loadCountryList() {
         }
         countryList = await response.json();
         
-        // Populate country selector
         countrySelector.innerHTML = '<option value=\"\">Select a country</option>';
         countryList.forEach(country => {
             const option = document.createElement('option');
@@ -283,14 +284,12 @@ async function loadCountryList() {
             countrySelector.appendChild(option);
         });
 
-        // Set initial country from URL
         const params = new URLSearchParams(window.location.search);
         const countryParam = params.get('country');
         if (countryParam && countryList.includes(countryParam)) {
             countrySelector.value = countryParam;
             loadAndDisplayChart(countryParam);
         } else {
-            // Default to first country (or Algeria)
             const defaultCountry = countryList.includes('Algeria') ? 'Algeria' : countryList[0];
             countrySelector.value = defaultCountry;
             loadAndDisplayChart(defaultCountry);
@@ -298,17 +297,15 @@ async function loadCountryList() {
     } catch (error) {
         console.error("Error loading country list:", error);
         showMessage('Could not load country list. Using default country.', 'error');
-        loadAndDisplayChart('Algeria'); // Fallback to Algeria
+        loadAndDisplayChart('Algeria'); 
     }
 }
 
 // Event Handlers
 function setupEventListeners() {
-    // Country selection change
     countrySelector.addEventListener('change', (event) => {
         const selectedCountry = event.target.value;
         if (selectedCountry) {
-            // Update URL for shareable link
             const url = new URL(window.location);
             url.searchParams.set('country', selectedCountry);
             window.history.pushState({}, '', url);
@@ -317,7 +314,6 @@ function setupEventListeners() {
         }
     });
 
-    // Window resize event
     let resizeTimeout;
     window.addEventListener('resize', () => {
         clearTimeout(resizeTimeout);
@@ -334,3 +330,4 @@ window.onload = function() {
     setupEventListeners();
     loadCountryList();
 };
+
