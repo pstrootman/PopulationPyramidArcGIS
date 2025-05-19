@@ -70,7 +70,7 @@ function initializeChart(dataIndex) {
 
     const currentData = allYearsData[dataIndex];
     currentYearDisplay.textContent = `Year: ${currentData.year}`;
-    dataSourceInfo.textContent = `Data for "${currentData.country}"`;
+    dataSourceInfo.textContent = `Data for \"${currentData.country}\"`;
     yearSlider.value = dataIndex;
 
     const maleDataNegative = currentData.male.map(val => -val);
@@ -122,7 +122,7 @@ function initializeChart(dataIndex) {
                 y: {
                     stacked: true, // This doesn't stack bars on top of each other in this config
                                 // but ensures age groups are treated as distinct categories.
-                    reverse: true, // Reverse the order to have youngest at bottom
+                    reverse: false, // Reverse the order to have youngest at bottom
                     title: {
                         display: true,
                         text: 'Age Group'
@@ -200,7 +200,7 @@ function setupControls() {
         // If only one year, no need for play/pause or slider
         if (allYearsData.length === 1) {
             currentYearDisplay.textContent = `Year: ${allYearsData[0].year}`;
-            dataSourceInfo.textContent = `Data for "${allYearsData[0].country}"`;
+            dataSourceInfo.textContent = `Data for \"${allYearsData[0].country}\"`;
         }
     } else {
         playPauseButton.classList.remove('hidden-controls');
@@ -275,7 +275,7 @@ async function loadCountryList() {
         countryList = await response.json();
         
         // Populate country selector
-        countrySelector.innerHTML = '<option value="">Select a country</option>';
+        countrySelector.innerHTML = '<option value=\"\">Select a country</option>';
         countryList.forEach(country => {
             const option = document.createElement('option');
             option.value = country;
