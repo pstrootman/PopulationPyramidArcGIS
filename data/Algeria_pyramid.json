@@ -1,0 +1,107 @@
+{
+  "country": "Algeria",
+  "population": 43850000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2074816,
+      "female": 2149382
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1979705,
+      "female": 1919722
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1805978,
+      "female": 1793646
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1658948,
+      "female": 1663924
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1512139,
+      "female": 1555258
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1415245,
+      "female": 1416319
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1300582,
+      "female": 1313282
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1205326,
+      "female": 1207574
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1093348,
+      "female": 1134039
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1009037,
+      "female": 1047100
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 951744,
+      "female": 946310
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 872519,
+      "female": 879606
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 811627,
+      "female": 805788
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 741459,
+      "female": 751603
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 689767,
+      "female": 688502
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 639793,
+      "female": 632511
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 587205,
+      "female": 587279
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 546757,
+      "female": 537429
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 497246,
+      "female": 503583
+    },
+    {
+      "ageGroup": "100+",
+      "male": 455427,
+      "female": 468454
+    }
+  ]
+}

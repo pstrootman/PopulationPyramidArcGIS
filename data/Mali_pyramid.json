@@ -1,0 +1,107 @@
+{
+  "country": "Mali",
+  "population": 20250000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1472357,
+      "female": 1496097
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1264124,
+      "female": 1290847
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1082845,
+      "female": 1116239
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 964325,
+      "female": 928444
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 818831,
+      "female": 810291
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 698228,
+      "female": 703970
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 593932,
+      "female": 612950
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 518066,
+      "female": 520707
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 445638,
+      "female": 448442
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 381769,
+      "female": 387773
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 326456,
+      "female": 335894
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 285285,
+      "female": 284805
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 246975,
+      "female": 243706
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 207409,
+      "female": 214924
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 185051,
+      "female": 178455
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 153472,
+      "female": 159399
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 133307,
+      "female": 135984
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 117482,
+      "female": 114299
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 101267,
+      "female": 98228
+    },
+    {
+      "ageGroup": "100+",
+      "male": 85492,
+      "female": 86216
+    }
+  ]
+}

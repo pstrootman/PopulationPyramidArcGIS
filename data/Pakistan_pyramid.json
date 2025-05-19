@@ -1,0 +1,107 @@
+{
+  "country": "Pakistan",
+  "population": 220900000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 16066034,
+      "female": 16315768
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 13739409,
+      "female": 14131866
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 12043830,
+      "female": 11945199
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 10118982,
+      "female": 10528566
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 8790971,
+      "female": 8980539
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 7514071,
+      "female": 7782009
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 6563844,
+      "female": 6601613
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 5609857,
+      "female": 5721757
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 4916235,
+      "female": 4836976
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 4276425,
+      "female": 4118241
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3615760,
+      "female": 3609596
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3118755,
+      "female": 3100166
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2713772,
+      "female": 2638903
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2346465,
+      "female": 2260625
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1972916,
+      "female": 1992443
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1704213,
+      "female": 1708803
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1453868,
+      "female": 1483742
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1281728,
+      "female": 1246696
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1080467,
+      "female": 1095768
+    },
+    {
+      "ageGroup": "100+",
+      "male": 951310,
+      "female": 921792
+    }
+  ]
+}

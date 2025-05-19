@@ -1,0 +1,107 @@
+{
+  "country": "Indonesia",
+  "population": 273800000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 13351663,
+      "female": 13024295
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 12315140,
+      "female": 12032937
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 11067164,
+      "female": 11408945
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 10333611,
+      "female": 10414452
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 9589311,
+      "female": 9563565
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 8853678,
+      "female": 8826655
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 8107025,
+      "female": 8213979
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 7623463,
+      "female": 7442723
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 6815805,
+      "female": 7092037
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 6358273,
+      "female": 6480283
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 5997651,
+      "female": 5853830
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 5439737,
+      "female": 5500558
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 5002612,
+      "female": 5096554
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 4705005,
+      "female": 4617700
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 4312670,
+      "female": 4293271
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 3992481,
+      "female": 3951804
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 3633005,
+      "female": 3700495
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 3413519,
+      "female": 3356154
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 3135266,
+      "female": 3113930
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2867302,
+      "female": 2901432
+    }
+  ]
+}

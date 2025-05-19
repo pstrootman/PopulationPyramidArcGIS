@@ -1,0 +1,107 @@
+{
+  "country": "Japan",
+  "population": 126500000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2293376,
+      "female": 2219896
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2927366,
+      "female": 2848506
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 3515066,
+      "female": 3586788
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 4131994,
+      "female": 4257855
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 4710843,
+      "female": 4811960
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 5132816,
+      "female": 5252116
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 5341992,
+      "female": 5539056
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 5467641,
+      "female": 5486190
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 5396919,
+      "female": 5197802
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 4879152,
+      "female": 4966427
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 4423209,
+      "female": 4367445
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3838457,
+      "female": 3702551
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 3169143,
+      "female": 3046210
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2490892,
+      "female": 2430981
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1878412,
+      "female": 1866342
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1369905,
+      "female": 1367532
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 947023,
+      "female": 975597
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 639456,
+      "female": 657935
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 417529,
+      "female": 423626
+    },
+    {
+      "ageGroup": "100+",
+      "male": 260288,
+      "female": 263686
+    }
+  ]
+}

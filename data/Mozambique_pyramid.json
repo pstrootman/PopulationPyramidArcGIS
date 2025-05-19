@@ -1,0 +1,107 @@
+{
+  "country": "Mozambique",
+  "population": 31260000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2277124,
+      "female": 2305289
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1969059,
+      "female": 1975060
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1681662,
+      "female": 1713072
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1489034,
+      "female": 1432841
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1278232,
+      "female": 1236649
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1072610,
+      "female": 1091967
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 937992,
+      "female": 925077
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 806978,
+      "female": 796580
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 687251,
+      "female": 692945
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 597605,
+      "female": 590340
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 508877,
+      "female": 513597
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 447838,
+      "female": 432213
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 371240,
+      "female": 386227
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 323852,
+      "female": 328106
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 278049,
+      "female": 283096
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 243215,
+      "female": 239766
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 210174,
+      "female": 205532
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 181167,
+      "female": 176634
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 151999,
+      "female": 155964
+    },
+    {
+      "ageGroup": "100+",
+      "male": 130069,
+      "female": 134997
+    }
+  ]
+}

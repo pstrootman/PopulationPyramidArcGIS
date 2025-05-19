@@ -1,0 +1,107 @@
+{
+  "country": "Turkey",
+  "population": 84340000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 4097986,
+      "female": 4026734
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 3758457,
+      "female": 3741604
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 3498254,
+      "female": 3425175
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 3196498,
+      "female": 3194632
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3007427,
+      "female": 2892329
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2719959,
+      "female": 2726203
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2525277,
+      "female": 2502164
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2309946,
+      "female": 2330966
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2113491,
+      "female": 2170611
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1960845,
+      "female": 1993879
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1850275,
+      "female": 1800396
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1670896,
+      "female": 1699098
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1564556,
+      "female": 1546340
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1422221,
+      "female": 1449499
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1309587,
+      "female": 1341344
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1234763,
+      "female": 1212355
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1131329,
+      "female": 1127645
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1029341,
+      "female": 1055955
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 951476,
+      "female": 973495
+    },
+    {
+      "ageGroup": "100+",
+      "male": 896474,
+      "female": 880497
+    }
+  ]
+}

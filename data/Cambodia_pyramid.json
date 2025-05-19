@@ -1,0 +1,107 @@
+{
+  "country": "Cambodia",
+  "population": 16720000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 813720,
+      "female": 796965
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 734987,
+      "female": 751863
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 694804,
+      "female": 677732
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 634789,
+      "female": 632221
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 577818,
+      "female": 591779
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 549418,
+      "female": 530257
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 493290,
+      "female": 503375
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 459397,
+      "female": 460641
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 431774,
+      "female": 417528
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 387401,
+      "female": 396603
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 366521,
+      "female": 357206
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 334563,
+      "female": 333521
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 313894,
+      "female": 302825
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 287261,
+      "female": 282043
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 260488,
+      "female": 265046
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 244093,
+      "female": 241036
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 227016,
+      "female": 220814
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 204422,
+      "female": 208977
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 193622,
+      "female": 187994
+    },
+    {
+      "ageGroup": "100+",
+      "male": 174905,
+      "female": 177370
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country": "Finland",
+  "population": 5531000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 98682,
+      "female": 98652
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 124831,
+      "female": 127708
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 154199,
+      "female": 156317
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 183271,
+      "female": 183560
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 204991,
+      "female": 211377
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 228825,
+      "female": 225237
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 236780,
+      "female": 238974
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 240182,
+      "female": 238755
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 228190,
+      "female": 235046
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 215359,
+      "female": 215122
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 195277,
+      "female": 189079
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 162966,
+      "female": 166751
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 136491,
+      "female": 135264
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 106071,
+      "female": 109129
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 81952,
+      "female": 81780
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 59038,
+      "female": 60651
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 41525,
+      "female": 42537
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 28848,
+      "female": 27878
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 18647,
+      "female": 18130
+    },
+    {
+      "ageGroup": "100+",
+      "male": 11626,
+      "female": 11283
+    }
+  ]
+}

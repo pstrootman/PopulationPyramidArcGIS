@@ -1,0 +1,107 @@
+{
+  "country": "India",
+  "population": 1380000000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 65684586,
+      "female": 67254868
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 61854333,
+      "female": 60864250
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 57583664,
+      "female": 55699866
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 52091960,
+      "female": 52481919
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 48276483,
+      "female": 48257373
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 43713093,
+      "female": 45398887
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 41473815,
+      "female": 40786911
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 37217813,
+      "female": 38718408
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 34988754,
+      "female": 35109212
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 32814491,
+      "female": 31894087
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 29599027,
+      "female": 30134520
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 27192571,
+      "female": 27948442
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 25419717,
+      "female": 25481854
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 23240272,
+      "female": 23747800
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 22054885,
+      "female": 21320572
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 19650740,
+      "female": 20389854
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 18248381,
+      "female": 18713745
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 16842480,
+      "female": 17277862
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 15626126,
+      "female": 15870920
+    },
+    {
+      "ageGroup": "100+",
+      "male": 14641004,
+      "female": 14434434
+    }
+  ]
+}

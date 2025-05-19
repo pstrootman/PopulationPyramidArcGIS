@@ -1,0 +1,107 @@
+{
+  "country": "Russia",
+  "population": 144100000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 7036644,
+      "female": 6844931
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 6505941,
+      "female": 6308368
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 5921126,
+      "female": 5907972
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 5529819,
+      "female": 5389815
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 4997464,
+      "female": 5082628
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 4616918,
+      "female": 4688180
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 4369059,
+      "female": 4220629
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 3953483,
+      "female": 3975798
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 3702783,
+      "female": 3616866
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3411705,
+      "female": 3345183
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3061534,
+      "female": 3175859
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2925654,
+      "female": 2832185
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2701243,
+      "female": 2613912
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2492558,
+      "female": 2413949
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 2255522,
+      "female": 2273755
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2061995,
+      "female": 2119054
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1956168,
+      "female": 1903427
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1803040,
+      "female": 1759815
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1650925,
+      "female": 1638004
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1547980,
+      "female": 1488085
+    }
+  ]
+}

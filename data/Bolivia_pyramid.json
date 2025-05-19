@@ -1,0 +1,107 @@
+{
+  "country": "Bolivia",
+  "population": 11670000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 572744,
+      "female": 551460
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 512059,
+      "female": 525712
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 470233,
+      "female": 487751
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 442630,
+      "female": 441700
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 411039,
+      "female": 405301
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 369492,
+      "female": 384085
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 352201,
+      "female": 343438
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 326919,
+      "female": 315236
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 297291,
+      "female": 295493
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 272209,
+      "female": 274999
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 253232,
+      "female": 251905
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 232126,
+      "female": 234174
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 211752,
+      "female": 218698
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 196335,
+      "female": 201020
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 180862,
+      "female": 185943
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 168211,
+      "female": 170392
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 158340,
+      "female": 154230
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 144553,
+      "female": 143985
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 135134,
+      "female": 131221
+    },
+    {
+      "ageGroup": "100+",
+      "male": 121386,
+      "female": 124490
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country": "Cote d'Ivoire",
+  "population": 26380000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1951191,
+      "female": 1915861
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1658496,
+      "female": 1669906
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1455405,
+      "female": 1409377
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1216256,
+      "female": 1249485
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1074369,
+      "female": 1047914
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 908330,
+      "female": 918336
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 795219,
+      "female": 777006
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 683632,
+      "female": 669594
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 585713,
+      "female": 579020
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 495502,
+      "female": 506993
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 438305,
+      "female": 424551
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 370855,
+      "female": 371811
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 315728,
+      "female": 323490
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 269781,
+      "female": 280399
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 240204,
+      "female": 233340
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 201482,
+      "female": 206101
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 177140,
+      "female": 173670
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 148950,
+      "female": 152995
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 131516,
+      "female": 128370
+    },
+    {
+      "ageGroup": "100+",
+      "male": 112696,
+      "female": 110990
+    }
+  ]
+}

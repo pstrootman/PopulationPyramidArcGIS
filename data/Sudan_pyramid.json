@@ -1,0 +1,107 @@
+{
+  "country": "Sudan",
+  "population": 43850000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 3173319,
+      "female": 3254666
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2717920,
+      "female": 2814698
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2368695,
+      "female": 2393273
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2083599,
+      "female": 2015064
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1787468,
+      "female": 1740284
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1516414,
+      "female": 1519950
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1308312,
+      "female": 1305111
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1105652,
+      "female": 1143742
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 985891,
+      "female": 950180
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 836022,
+      "female": 830370
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 721252,
+      "female": 713025
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 615139,
+      "female": 619354
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 535861,
+      "female": 526677
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 448732,
+      "female": 465803
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 400178,
+      "female": 386969
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 333952,
+      "female": 343552
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 286609,
+      "female": 296523
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 250286,
+      "female": 251621
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 218667,
+      "female": 213328
+    },
+    {
+      "ageGroup": "100+",
+      "male": 189494,
+      "female": 182328
+    }
+  ]
+}

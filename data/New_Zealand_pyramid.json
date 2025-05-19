@@ -1,0 +1,107 @@
+{
+  "country": "New Zealand",
+  "population": 5090000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 245684,
+      "female": 244650
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 223246,
+      "female": 229389
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 209156,
+      "female": 208678
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 195375,
+      "female": 190335
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 175437,
+      "female": 180618
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 166195,
+      "female": 162485
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 153583,
+      "female": 149827
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 140611,
+      "female": 139472
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 127962,
+      "female": 130587
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 120714,
+      "female": 117956
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 108857,
+      "female": 111464
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 100074,
+      "female": 103307
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 92258,
+      "female": 95487
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 85702,
+      "female": 87608
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 78784,
+      "female": 81201
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 74746,
+      "female": 72939
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 68303,
+      "female": 68028
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 61943,
+      "female": 63905
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 59062,
+      "female": 57111
+    },
+    {
+      "ageGroup": "100+",
+      "male": 52804,
+      "female": 54437
+    }
+  ]
+}

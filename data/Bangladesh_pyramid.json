@@ -1,0 +1,107 @@
+{
+  "country": "Bangladesh",
+  "population": 164700000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 8065120,
+      "female": 7800914
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 7222238,
+      "female": 7423958
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 6805297,
+      "female": 6714845
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 6349927,
+      "female": 6130737
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 5743012,
+      "female": 5778093
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 5407932,
+      "female": 5227388
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 4821898,
+      "female": 4995740
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 4441293,
+      "female": 4621529
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 4204529,
+      "female": 4161510
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3927498,
+      "female": 3795329
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3514152,
+      "female": 3614916
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3255637,
+      "female": 3325322
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 3013905,
+      "female": 3061086
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2844727,
+      "female": 2763197
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 2574486,
+      "female": 2602280
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2391941,
+      "female": 2386816
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 2246856,
+      "female": 2164492
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 2075351,
+      "female": 1996837
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1882396,
+      "female": 1876707
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1727712,
+      "female": 1742377
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country": "Uganda",
+  "population": 45740000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 3417862,
+      "female": 3287179
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2884621,
+      "female": 2886461
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2498135,
+      "female": 2469081
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2145780,
+      "female": 2129542
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1817395,
+      "female": 1862409
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1577964,
+      "female": 1589272
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1354148,
+      "female": 1371918
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1173808,
+      "female": 1172539
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1004811,
+      "female": 1014707
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 865088,
+      "female": 873128
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 744202,
+      "female": 751894
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 633196,
+      "female": 654506
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 556925,
+      "female": 551410
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 477792,
+      "female": 476161
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 403227,
+      "female": 417848
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 353702,
+      "female": 353003
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 300181,
+      "female": 308086
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 260288,
+      "female": 263252
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 224356,
+      "female": 226259
+    },
+    {
+      "ageGroup": "100+",
+      "male": 192189,
+      "female": 195658
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country": "Morocco",
+  "population": 36910000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1790594,
+      "female": 1765053
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1641634,
+      "female": 1640642
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1512763,
+      "female": 1517160
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1389269,
+      "female": 1407702
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1267912,
+      "female": 1314018
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1197886,
+      "female": 1185536
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1089834,
+      "female": 1110341
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1004591,
+      "female": 1026427
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 949311,
+      "female": 925555
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 869738,
+      "female": 860981
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 804145,
+      "female": 793510
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 730592,
+      "female": 744230
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 682725,
+      "female": 678707
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 631696,
+      "female": 625063
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 572752,
+      "female": 587383
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 533020,
+      "female": 537919
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 502419,
+      "female": 486183
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 455467,
+      "female": 457127
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 413778,
+      "female": 428653
+    },
+    {
+      "ageGroup": "100+",
+      "male": 391463,
+      "female": 386199
+    }
+  ]
+}

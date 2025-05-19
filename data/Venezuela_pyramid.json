@@ -1,0 +1,107 @@
+{
+  "country": "Venezuela",
+  "population": 28440000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1392945,
+      "female": 1346763
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1261945,
+      "female": 1267124
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1171404,
+      "female": 1163221
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1087418,
+      "female": 1067712
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 981328,
+      "female": 1008107
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 934450,
+      "female": 902030
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 858615,
+      "female": 836670
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 768336,
+      "female": 796610
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 713267,
+      "female": 731359
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 654736,
+      "female": 678822
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 620640,
+      "female": 610389
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 575389,
+      "female": 560994
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 530737,
+      "female": 518277
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 480313,
+      "female": 488049
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 445904,
+      "female": 448006
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 419709,
+      "female": 405475
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 381854,
+      "female": 379887
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 348618,
+      "female": 354557
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 327400,
+      "female": 321712
+    },
+    {
+      "ageGroup": "100+",
+      "male": 298847,
+      "female": 300359
+    }
+  ]
+}

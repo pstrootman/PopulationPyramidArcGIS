@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Interactive population pyramid visualizations by country with age and gender distribution data - Embed Version">
+    <title>Population Pyramid - Embed</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        /* Embedded version specific styles */
+        body {
+            padding: 0;
+            margin: 0;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+        .embed-container {
+            border-radius: 0;
+            box-shadow: none;
+            padding: 10px;
+            height: 100vh;
+        }
+        .chart-container {
+            height: 60vh;
+        }
+        @media (max-width: 640px) {
+            .chart-container {
+                height: 50vh;
+            }
+        }
+    </style>
+</head>
+<body class="flex flex-col items-center justify-center">
+
+    <div class="bg-white w-full embed-container">
+        <h1 class="text-xl font-bold text-center text-gray-800 mb-3">
+            Population Pyramid
+        </h1>
+        
+        <div class="mb-3 flex flex-col items-center">
+            <select id="countrySelector" class="country-selector">
+                <option value="">Loading countries...</option>
+            </select>
+            <p class="text-center text-gray-600 text-sm mb-1" id="currentYearDisplay">Year: Loading...</p>
+            <p class="text-center text-gray-500 text-xs" id="dataSourceInfo">Data: Loading...</p>
+        </div>
+        
+        <div id="loadingIndicator" class="loading hidden">
+            <div class="spinner"></div>
+        </div>
+
+        <div class="chart-container mb-4">
+            <canvas id="populationPyramidChart"></canvas>
+        </div>
+
+        <div id="controlsContainer" class="flex flex-col sm:flex-row items-center justify-center space-y-2 sm:space-y-0 sm:space-x-2">
+            <button id="playPauseButton" class="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-1 px-4 rounded-lg shadow-md transition duration-150 ease-in-out focus:outline-none text-sm w-full sm:w-auto">
+                Play
+            </button>
+            <div id="sliderComponents" class="flex items-center space-x-2 w-full sm:w-auto sm:flex-1">
+                <span id="sliderMinYear" class="text-xs text-gray-600"></span>
+                <input type="range" id="yearSlider" min="0" max="0" value="0" class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-blue-500">
+                <span id="sliderMaxYear" class="text-xs text-gray-600"></span>
+            </div>
+        </div>
+        <div id="messageBox" class="mt-2 p-2 text-center text-xs rounded-lg hidden"></div>
+    </div>
+
+    <script>
+        // Parse URL parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const defaultCountry = urlParams.get('country') || 'Algeria';
+        
+        // Send message to parent frame
+        function sendHeightToParent() {
+            if (window.parent) {
+                const height = document.body.scrollHeight;
+                window.parent.postMessage({ height: height, type: 'resize' }, '*');
+            }
+        }
+        
+        // Add resize event listener
+        window.addEventListener('resize', () => {
+            sendHeightToParent();
+        });
+        
+        // Call once on load
+        window.addEventListener('load', () => {
+            sendHeightToParent();
+        });
+    </script>
+    <script src="js/population-pyramid.js"></script>
+</body>
+</html>

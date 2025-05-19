@@ -1,0 +1,107 @@
+{
+  "country": "Taiwan",
+  "population": 23570000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 412603,
+      "female": 428328
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 531638,
+      "female": 544545
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 667278,
+      "female": 655968
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 772842,
+      "female": 790388
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 886757,
+      "female": 887570
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 978424,
+      "female": 956539
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1001983,
+      "female": 1025417
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1020133,
+      "female": 1020829
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1004225,
+      "female": 969826
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 927996,
+      "female": 906472
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 814668,
+      "female": 823242
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 716299,
+      "female": 688772
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 584818,
+      "female": 573252
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 455349,
+      "female": 461713
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 344958,
+      "female": 352779
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 250763,
+      "female": 259287
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 182085,
+      "female": 176145
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 121645,
+      "female": 120089
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 77630,
+      "female": 79097
+    },
+    {
+      "ageGroup": "100+",
+      "male": 48705,
+      "female": 48923
+    }
+  ]
+}

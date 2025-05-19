@@ -1,0 +1,107 @@
+{
+  "country": "Chile",
+  "population": 19120000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 937841,
+      "female": 904044
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 865389,
+      "female": 834885
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 769334,
+      "female": 800216
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 732283,
+      "female": 716594
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 672184,
+      "female": 665299
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 615121,
+      "female": 619531
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 571068,
+      "female": 568659
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 518857,
+      "female": 533243
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 491507,
+      "female": 479704
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 441516,
+      "female": 455025
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 418742,
+      "female": 408870
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 377629,
+      "female": 386353
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 352307,
+      "female": 352937
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 325665,
+      "female": 325357
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 300953,
+      "female": 300016
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 279418,
+      "female": 275346
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 259017,
+      "female": 253094
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 238091,
+      "female": 234648
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 216999,
+      "female": 219394
+    },
+    {
+      "ageGroup": "100+",
+      "male": 204544,
+      "female": 198297
+    }
+  ]
+}

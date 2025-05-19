@@ -1,0 +1,107 @@
+{
+  "country": "Israel",
+  "population": 8655000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 411296,
+      "female": 422464
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 387787,
+      "female": 381871
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 351782,
+      "female": 358702
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 333823,
+      "female": 322036
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 300619,
+      "female": 304815
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 277986,
+      "female": 280900
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 256572,
+      "female": 259345
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 240325,
+      "female": 235926
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 217062,
+      "female": 222573
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 203476,
+      "female": 202358
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 183627,
+      "female": 191006
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 175482,
+      "female": 170347
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 162094,
+      "female": 157146
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 144957,
+      "female": 149739
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 133703,
+      "female": 138336
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 123194,
+      "female": 127929
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 117505,
+      "female": 114311
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 107759,
+      "female": 106234
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 99264,
+      "female": 98276
+    },
+    {
+      "ageGroup": "100+",
+      "male": 91361,
+      "female": 90991
+    }
+  ]
+}

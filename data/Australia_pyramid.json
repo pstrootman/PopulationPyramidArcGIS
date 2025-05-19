@@ -1,0 +1,107 @@
+{
+  "country": "Australia",
+  "population": 25700000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1216034,
+      "female": 1259722
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1162856,
+      "female": 1122554
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1056747,
+      "female": 1052953
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 991835,
+      "female": 955664
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 885208,
+      "female": 912559
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 833068,
+      "female": 826480
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 778583,
+      "female": 753373
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 712451,
+      "female": 701723
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 640405,
+      "female": 665042
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 607613,
+      "female": 597466
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 560775,
+      "female": 551653
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 505619,
+      "female": 521281
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 467719,
+      "female": 480230
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 431166,
+      "female": 443900
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 403966,
+      "female": 403823
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 372438,
+      "female": 373245
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 345686,
+      "female": 342666
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 320987,
+      "female": 314441
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 290932,
+      "female": 295643
+    },
+    {
+      "ageGroup": "100+",
+      "male": 272016,
+      "female": 269461
+    }
+  ]
+}

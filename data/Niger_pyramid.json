@@ -1,0 +1,107 @@
+{
+  "country": "Niger",
+  "population": 24210000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1750387,
+      "female": 1798564
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1524354,
+      "female": 1530256
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1291902,
+      "female": 1337225
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1127477,
+      "female": 1135434
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 991074,
+      "female": 956631
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 823053,
+      "female": 853352
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 720632,
+      "female": 722263
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 622517,
+      "female": 619394
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 540145,
+      "female": 528778
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 455498,
+      "female": 464533
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 403513,
+      "female": 388364
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 335844,
+      "female": 345731
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 297728,
+      "female": 288909
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 250751,
+      "female": 254172
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 213372,
+      "female": 221219
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 190080,
+      "female": 183976
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 162589,
+      "female": 159364
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 140909,
+      "female": 136198
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 118894,
+      "female": 119614
+    },
+    {
+      "ageGroup": "100+",
+      "male": 103402,
+      "female": 101883
+    }
+  ]
+}

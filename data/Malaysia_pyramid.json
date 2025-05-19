@@ -1,0 +1,107 @@
+{
+  "country": "Malaysia",
+  "population": 32370000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1553931,
+      "female": 1564365
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1435276,
+      "female": 1443274
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1323829,
+      "female": 1333408
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1214339,
+      "female": 1238600
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1132421,
+      "female": 1131926
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1026471,
+      "female": 1063785
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 982208,
+      "female": 947341
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 878012,
+      "female": 903186
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 821291,
+      "female": 822962
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 757063,
+      "female": 760775
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 712934,
+      "female": 688207
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 638046,
+      "female": 655370
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 586954,
+      "female": 607019
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 559948,
+      "female": 542227
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 507533,
+      "female": 509904
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 461593,
+      "female": 477619
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 437380,
+      "female": 429622
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 397535,
+      "female": 402809
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 368492,
+      "female": 370318
+    },
+    {
+      "ageGroup": "100+",
+      "male": 334756,
+      "female": 347252
+    }
+  ]
+}

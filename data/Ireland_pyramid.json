@@ -1,0 +1,107 @@
+{
+  "country": "Ireland",
+  "population": 4942000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 240873,
+      "female": 235203
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 221746,
+      "female": 217727
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 204195,
+      "female": 201490
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 186495,
+      "female": 188000
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 170817,
+      "female": 174886
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 161111,
+      "female": 158013
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 146703,
+      "female": 147885
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 134194,
+      "female": 137745
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 125941,
+      "female": 125090
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 113601,
+      "female": 118130
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 108877,
+      "female": 105037
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 99815,
+      "female": 97653
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 90933,
+      "female": 91352
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 83051,
+      "female": 85219
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 77906,
+      "female": 77427
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 71128,
+      "female": 72263
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 65868,
+      "female": 66498
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 61406,
+      "female": 60784
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 56490,
+      "female": 56305
+    },
+    {
+      "ageGroup": "100+",
+      "male": 51364,
+      "female": 52759
+    }
+  ]
+}

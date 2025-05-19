@@ -1,0 +1,107 @@
+{
+  "country": "South Africa",
+  "population": 59300000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2871269,
+      "female": 2841274
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2627270,
+      "female": 2646071
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2430666,
+      "female": 2437242
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2256951,
+      "female": 2236693
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2114664,
+      "female": 2033493
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1910086,
+      "female": 1919145
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1778591,
+      "female": 1756234
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1654247,
+      "female": 1608808
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1486266,
+      "female": 1525914
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1374512,
+      "female": 1406081
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1300703,
+      "female": 1266107
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1183843,
+      "female": 1185622
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1093827,
+      "female": 1093464
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1023554,
+      "female": 995571
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 927222,
+      "female": 936664
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 858320,
+      "female": 862264
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 785167,
+      "female": 803132
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 724165,
+      "female": 742020
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 682786,
+      "female": 670673
+    },
+    {
+      "ageGroup": "100+",
+      "male": 612304,
+      "female": 637096
+    }
+  ]
+}

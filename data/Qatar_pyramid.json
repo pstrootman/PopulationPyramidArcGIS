@@ -1,0 +1,107 @@
+{
+  "country": "Qatar",
+  "population": 2832000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 133904,
+      "female": 138910
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 127998,
+      "female": 123841
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 115544,
+      "female": 116932
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 106979,
+      "female": 107623
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 98676,
+      "female": 99428
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 91658,
+      "female": 91214
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 84057,
+      "female": 84756
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 76838,
+      "female": 78996
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 70826,
+      "female": 73027
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 66382,
+      "female": 66410
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 62212,
+      "female": 60371
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 57250,
+      "female": 55907
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 52027,
+      "female": 52431
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 47287,
+      "female": 49140
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 43760,
+      "female": 45253
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 40645,
+      "female": 41525
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 37649,
+      "female": 38202
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 35396,
+      "female": 34624
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 32085,
+      "female": 32551
+    },
+    {
+      "ageGroup": "100+",
+      "male": 29766,
+      "female": 29901
+    }
+  ]
+}

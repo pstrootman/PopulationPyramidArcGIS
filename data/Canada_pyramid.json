@@ -1,0 +1,107 @@
+{
+  "country": "Canada",
+  "population": 38000000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 683836,
+      "female": 671929
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 856702,
+      "female": 878341
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1066461,
+      "female": 1066901
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1247716,
+      "female": 1272554
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1417821,
+      "female": 1442783
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1551346,
+      "female": 1568238
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1630953,
+      "female": 1637662
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1667715,
+      "female": 1622763
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1579287,
+      "female": 1603316
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1473251,
+      "female": 1484314
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1325281,
+      "female": 1315389
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1130999,
+      "female": 1134283
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 920785,
+      "female": 946277
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 737400,
+      "female": 741106
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 569069,
+      "female": 555836
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 404467,
+      "female": 417846
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 292777,
+      "female": 284768
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 196938,
+      "female": 192791
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 126566,
+      "female": 126113
+    },
+    {
+      "ageGroup": "100+",
+      "male": 79705,
+      "female": 77694
+    }
+  ]
+}

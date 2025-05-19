@@ -1,0 +1,107 @@
+{
+  "country": "Sweden",
+  "population": 10380000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 182285,
+      "female": 188052
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 240530,
+      "female": 233410
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 291111,
+      "female": 291633
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 337812,
+      "female": 350619
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 388765,
+      "female": 392631
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 425446,
+      "female": 426692
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 441747,
+      "female": 451100
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 447895,
+      "female": 450925
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 432368,
+      "female": 436985
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 402164,
+      "female": 405718
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 359573,
+      "female": 361747
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 307566,
+      "female": 311213
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 258483,
+      "female": 251519
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 202369,
+      "female": 201496
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 153236,
+      "female": 154040
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 113046,
+      "female": 111574
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 79462,
+      "female": 78299
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 53215,
+      "female": 53242
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 34384,
+      "female": 34637
+    },
+    {
+      "ageGroup": "100+",
+      "male": 21364,
+      "female": 21630
+    }
+  ]
+}

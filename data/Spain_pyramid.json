@@ -1,0 +1,107 @@
+{
+  "country": "Spain",
+  "population": 46750000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 847064,
+      "female": 820884
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1080108,
+      "female": 1054453
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1318806,
+      "female": 1305792
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1542602,
+      "female": 1557994
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1750872,
+      "female": 1768424
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1923889,
+      "female": 1914020
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2031890,
+      "female": 1989367
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1992417,
+      "female": 2055738
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1943947,
+      "female": 1971493
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1829355,
+      "female": 1809228
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1648645,
+      "female": 1600075
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1412411,
+      "female": 1374483
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1168461,
+      "female": 1128516
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 895283,
+      "female": 923669
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 701810,
+      "female": 682120
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 512692,
+      "female": 498969
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 353966,
+      "female": 356567
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 241698,
+      "female": 237772
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 156188,
+      "female": 154673
+    },
+    {
+      "ageGroup": "100+",
+      "male": 98162,
+      "female": 95480
+    }
+  ]
+}

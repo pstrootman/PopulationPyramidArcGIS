@@ -1,0 +1,107 @@
+{
+  "country": "Rwanda",
+  "population": 12950000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 939494,
+      "female": 958850
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 810946,
+      "female": 822974
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 708489,
+      "female": 697839
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 615078,
+      "female": 595359
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 526114,
+      "female": 515719
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 445778,
+      "female": 450936
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 378493,
+      "female": 393316
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 334710,
+      "female": 329592
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 288561,
+      "female": 283208
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 243480,
+      "female": 248646
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 210710,
+      "female": 212867
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 182464,
+      "female": 182112
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 157412,
+      "female": 156381
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 133915,
+      "female": 136169
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 117319,
+      "female": 115144
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 98564,
+      "female": 101519
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 86290,
+      "female": 85923
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 73624,
+      "female": 74601
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 62883,
+      "female": 64695
+    },
+    {
+      "ageGroup": "100+",
+      "male": 54213,
+      "female": 55595
+    }
+  ]
+}

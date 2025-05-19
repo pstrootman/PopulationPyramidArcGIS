@@ -1,0 +1,107 @@
+{
+  "country": "Switzerland",
+  "population": 8655000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 152583,
+      "female": 156210
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 197260,
+      "female": 197918
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 242112,
+      "female": 243789
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 282230,
+      "female": 291794
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 323671,
+      "female": 327869
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 354704,
+      "female": 355821
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 370783,
+      "female": 373686
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 380314,
+      "female": 369135
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 365758,
+      "female": 359121
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 336435,
+      "female": 337189
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 294836,
+      "female": 306610
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 257809,
+      "female": 258138
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 213627,
+      "female": 211620
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 165885,
+      "female": 170864
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 128826,
+      "female": 127385
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 91854,
+      "female": 95437
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 64659,
+      "female": 66884
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 43719,
+      "female": 45046
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 29232,
+      "female": 28318
+    },
+    {
+      "ageGroup": "100+",
+      "male": 17817,
+      "female": 18031
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country": "China",
+  "population": 1411780000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 67518177,
+      "female": 68482738
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 63435875,
+      "female": 62108793
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 57089224,
+      "female": 58803111
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 53058132,
+      "female": 53923977
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 49780565,
+      "female": 48976368
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 45673141,
+      "female": 45490998
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 41517669,
+      "female": 42637438
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 38712321,
+      "female": 38972634
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 35186553,
+      "female": 36525699
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 33326840,
+      "female": 32871912
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 30232081,
+      "female": 30877069
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 28439339,
+      "female": 27971516
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 26287348,
+      "female": 25786434
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 24484363,
+      "female": 23585796
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 21836929,
+      "female": 22537421
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 20086429,
+      "female": 20876259
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 19265649,
+      "female": 18547678
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 17317918,
+      "female": 17588182
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 16256458,
+      "female": 15965933
+    },
+    {
+      "ageGroup": "100+",
+      "male": 14687842,
+      "female": 15057174
+    }
+  ]
+}

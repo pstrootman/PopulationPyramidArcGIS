@@ -1,0 +1,107 @@
+{
+  "country": "Singapore",
+  "population": 5850000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 105519,
+      "female": 103197
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 132641,
+      "female": 134464
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 162555,
+      "female": 165870
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 196029,
+      "female": 191960
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 220216,
+      "female": 220166
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 235849,
+      "female": 244401
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 253557,
+      "female": 249637
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 255279,
+      "female": 251281
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 249665,
+      "female": 240288
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 227433,
+      "female": 227876
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 206109,
+      "female": 200414
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 171047,
+      "female": 177686
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 144706,
+      "female": 142723
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 112373,
+      "female": 115238
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 85004,
+      "female": 88171
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 62333,
+      "female": 64259
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 44898,
+      "female": 44013
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 30395,
+      "female": 29602
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 19795,
+      "female": 19103
+    },
+    {
+      "ageGroup": "100+",
+      "male": 12233,
+      "female": 11997
+    }
+  ]
+}

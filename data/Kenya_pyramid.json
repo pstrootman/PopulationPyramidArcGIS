@@ -1,0 +1,107 @@
+{
+  "country": "Kenya",
+  "population": 53770000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 3889109,
+      "female": 3993052
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 3404329,
+      "female": 3379910
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2865574,
+      "female": 2973674
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2490702,
+      "female": 2535186
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2135150,
+      "female": 2190671
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1833788,
+      "female": 1889481
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1607652,
+      "female": 1596995
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1392920,
+      "female": 1365345
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1190936,
+      "female": 1183124
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1003336,
+      "female": 1040037
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 895547,
+      "female": 863200
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 758149,
+      "female": 755618
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 638844,
+      "female": 664068
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 567726,
+      "female": 553701
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 474019,
+      "female": 491202
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 409504,
+      "female": 421269
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 359861,
+      "female": 355192
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 302293,
+      "female": 313159
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 267197,
+      "female": 262527
+    },
+    {
+      "ageGroup": "100+",
+      "male": 224944,
+      "female": 230994
+    }
+  ]
+}

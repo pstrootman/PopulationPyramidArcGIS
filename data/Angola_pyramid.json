@@ -1,0 +1,107 @@
+{
+  "country": "Angola",
+  "population": 32870000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2434797,
+      "female": 2383626
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2049190,
+      "female": 2098065
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1753428,
+      "female": 1816148
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1562333,
+      "female": 1510029
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1310681,
+      "female": 1333725
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1138718,
+      "female": 1137343
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 984806,
+      "female": 974218
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 840297,
+      "female": 845851
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 737553,
+      "female": 713728
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 631546,
+      "female": 617583
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 533723,
+      "female": 541412
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 461532,
+      "female": 463845
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 405070,
+      "female": 391409
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 345316,
+      "female": 340220
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 299263,
+      "female": 290783
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 253910,
+      "female": 253947
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 220187,
+      "female": 216930
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 184453,
+      "female": 191777
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 159462,
+      "female": 164361
+    },
+    {
+      "ageGroup": "100+",
+      "male": 140734,
+      "female": 137983
+    }
+  ]
+}

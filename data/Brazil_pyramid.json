@@ -1,0 +1,107 @@
+{
+  "country": "Brazil",
+  "population": 212600000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 10197936,
+      "female": 10282445
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 9527002,
+      "female": 9378773
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 8725119,
+      "female": 8727111
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 8150810,
+      "female": 7959629
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 7463934,
+      "female": 7407875
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 6805271,
+      "female": 6923139
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 6251437,
+      "female": 6421482
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 5752482,
+      "female": 5946097
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 5441999,
+      "female": 5357150
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 4958578,
+      "female": 5010293
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 4588667,
+      "female": 4613761
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 4203838,
+      "female": 4291073
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 3956593,
+      "female": 3885199
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 3563404,
+      "female": 3675483
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 3389922,
+      "female": 3292412
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 3031522,
+      "female": 3137049
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 2880053,
+      "female": 2814256
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 2593396,
+      "female": 2663114
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 2403126,
+      "female": 2449244
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2228282,
+      "female": 2251020
+    }
+  ]
+}

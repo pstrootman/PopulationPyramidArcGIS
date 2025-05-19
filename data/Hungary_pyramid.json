@@ -1,0 +1,107 @@
+{
+  "country": "Hungary",
+  "population": 9660000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 171093,
+      "female": 173555
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 224631,
+      "female": 216434
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 266472,
+      "female": 275850
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 314513,
+      "female": 326166
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 359108,
+      "female": 368087
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 399301,
+      "female": 393729
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 417180,
+      "female": 413735
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 419276,
+      "female": 417197
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 407107,
+      "female": 401943
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 368613,
+      "female": 383230
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 334707,
+      "female": 336578
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 291755,
+      "female": 284102
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 232585,
+      "female": 242041
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 187013,
+      "female": 188839
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 143774,
+      "female": 142188
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 106342,
+      "female": 102698
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 73332,
+      "female": 73485
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 49769,
+      "female": 49303
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 31508,
+      "female": 32725
+    },
+    {
+      "ageGroup": "100+",
+      "male": 19722,
+      "female": 20290
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country": "Kuwait",
+  "population": 4271000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 209345,
+      "female": 202092
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 188430,
+      "female": 191374
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 172065,
+      "female": 178539
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 160421,
+      "female": 163226
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 149034,
+      "female": 149731
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 139560,
+      "female": 136234
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 126431,
+      "female": 128159
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 118888,
+      "female": 116128
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 106366,
+      "female": 110581
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 100601,
+      "female": 99666
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 91748,
+      "female": 93122
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 86541,
+      "female": 84115
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 78768,
+      "female": 78767
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 72968,
+      "female": 72456
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 67837,
+      "female": 66406
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 62959,
+      "female": 60963
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 56987,
+      "female": 57407
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 52001,
+      "female": 53598
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 48851,
+      "female": 48629
+    },
+    {
+      "ageGroup": "100+",
+      "male": 45297,
+      "female": 44689
+    }
+  ]
+}

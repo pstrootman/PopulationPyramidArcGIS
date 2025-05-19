@@ -1,0 +1,107 @@
+{
+  "country": "Nepal",
+  "population": 29140000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2112501,
+      "female": 2159140
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1821700,
+      "female": 1854936
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1552165,
+      "female": 1612345
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1349528,
+      "female": 1374190
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1176510,
+      "female": 1167816
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1014174,
+      "female": 1003606
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 871025,
+      "female": 865694
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 760585,
+      "female": 734223
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 635818,
+      "female": 650775
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 559317,
+      "female": 548063
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 484466,
+      "female": 468665
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 410162,
+      "female": 410205
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 347400,
+      "female": 358696
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 300489,
+      "female": 307254
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 259375,
+      "female": 263714
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 223446,
+      "female": 226781
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 190662,
+      "female": 196852
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 164268,
+      "female": 169268
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 142015,
+      "female": 145062
+    },
+    {
+      "ageGroup": "100+",
+      "male": 125500,
+      "female": 121590
+    }
+  ]
+}

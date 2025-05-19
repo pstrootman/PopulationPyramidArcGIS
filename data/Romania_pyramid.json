@@ -1,0 +1,107 @@
+{
+  "country": "Romania",
+  "population": 19240000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 346700,
+      "female": 339744
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 447584,
+      "female": 430895
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 549519,
+      "female": 530636
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 647898,
+      "female": 628154
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 726912,
+      "female": 721456
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 783579,
+      "female": 795915
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 843642,
+      "female": 811309
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 844524,
+      "female": 821497
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 801114,
+      "female": 810288
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 744145,
+      "female": 753316
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 669717,
+      "female": 667296
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 566372,
+      "female": 580576
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 465425,
+      "female": 479898
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 375719,
+      "female": 372872
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 280244,
+      "female": 289313
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 209709,
+      "female": 206641
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 144526,
+      "female": 147894
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 99429,
+      "female": 97897
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 63403,
+      "female": 64532
+    },
+    {
+      "ageGroup": "100+",
+      "male": 40620,
+      "female": 39073
+    }
+  ]
+}
