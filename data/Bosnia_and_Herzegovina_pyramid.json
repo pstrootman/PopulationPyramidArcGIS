@@ -1,0 +1,112 @@
+{
+  "country": "Bosnia and Herzegovina",
+  "population": 3653499,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 67094,
+      "female": 63135
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 73820,
+      "female": 68355
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 77174,
+      "female": 72542
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 83202,
+      "female": 78191
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 89885,
+      "female": 84989
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 118919,
+      "female": 111360
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 121907,
+      "female": 114488
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 142297,
+      "female": 137344
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 141617,
+      "female": 140582
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 137741,
+      "female": 141508
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 144314,
+      "female": 148285
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 151353,
+      "female": 149166
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 142588,
+      "female": 149183
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 117578,
+      "female": 135515
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 86641,
+      "female": 112208
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 49071,
+      "female": 75102
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 21737,
+      "female": 44336
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 9859,
+      "female": 33458
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1646,
+      "female": 12493
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 104,
+      "female": 2488
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 223
+    }
+  ]
+}

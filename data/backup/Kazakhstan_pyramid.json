@@ -1,0 +1,107 @@
+{
+  "country": "Kazakhstan",
+  "population": 18750000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 914595,
+      "female": 891647
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 849122,
+      "female": 818249
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 758267,
+      "female": 780910
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 715876,
+      "female": 704964
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 661076,
+      "female": 650525
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 603840,
+      "female": 606919
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 557983,
+      "female": 559689
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 518511,
+      "female": 513230
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 477028,
+      "female": 475389
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 444736,
+      "female": 434456
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 410188,
+      "female": 401408
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 369135,
+      "female": 380063
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 348352,
+      "female": 343244
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 318749,
+      "female": 319675
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 290528,
+      "female": 298812
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 268713,
+      "female": 275316
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 251949,
+      "female": 250253
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 228784,
+      "female": 234807
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 213267,
+      "female": 214681
+    },
+    {
+      "ageGroup": "100+",
+      "male": 200233,
+      "female": 194813
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "West Bank",
+  "population": 3310554,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 225230,
+      "female": 213907
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 212579,
+      "female": 201967
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 182159,
+      "female": 173250
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 165110,
+      "female": 157587
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 152972,
+      "female": 147027
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 142546,
+      "female": 138543
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 127347,
+      "female": 124896
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 103037,
+      "female": 101605
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 79610,
+      "female": 78659
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 71560,
+      "female": 70409
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 62354,
+      "female": 60533
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 52764,
+      "female": 50181
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 41946,
+      "female": 39869
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 28592,
+      "female": 27870
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 16754,
+      "female": 16979
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 10089,
+      "female": 11846
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 5088,
+      "female": 7547
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 2048,
+      "female": 3737
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 608,
+      "female": 1359
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 93,
+      "female": 265
+    },
+    {
+      "ageGroup": "100+",
+      "male": 7,
+      "female": 25
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Montserrat",
+  "population": 5499,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 155,
+      "female": 146
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 145,
+      "female": 135
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 148,
+      "female": 142
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 145,
+      "female": 135
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 190,
+      "female": 179
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 388,
+      "female": 345
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 174,
+      "female": 180
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 182,
+      "female": 196
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 254,
+      "female": 261
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 232,
+      "female": 266
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 200,
+      "female": 211
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 161,
+      "female": 182
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 140,
+      "female": 155
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 91,
+      "female": 108
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 48,
+      "female": 64
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 40,
+      "female": 26
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 26,
+      "female": 16
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 18,
+      "female": 8
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 6,
+      "female": 0
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 0,
+      "female": 0
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 0
+    }
+  ]
+}

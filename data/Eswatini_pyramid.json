@@ -1,0 +1,112 @@
+{
+  "country": "Eswatini",
+  "population": 1145871,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 59167,
+      "female": 58192
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 59429,
+      "female": 59109
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 59990,
+      "female": 60734
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 56263,
+      "female": 58957
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 49139,
+      "female": 54318
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 43011,
+      "female": 50272
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 49233,
+      "female": 56927
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 45989,
+      "female": 53302
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 36028,
+      "female": 41274
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 26385,
+      "female": 29382
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 17713,
+      "female": 20823
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 13052,
+      "female": 17153
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 9611,
+      "female": 13758
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 7238,
+      "female": 10847
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 4865,
+      "female": 8341
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 3016,
+      "female": 5653
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1515,
+      "female": 2991
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 524,
+      "female": 1199
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 115,
+      "female": 301
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 13,
+      "female": 40
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 2
+    }
+  ]
+}

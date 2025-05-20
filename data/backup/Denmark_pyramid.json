@@ -1,0 +1,107 @@
+{
+  "country": "Denmark",
+  "population": 5831000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 104058,
+      "female": 103979
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 135052,
+      "female": 131185
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 163963,
+      "female": 163395
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 191847,
+      "female": 194881
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 215758,
+      "female": 223193
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 236106,
+      "female": 242586
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 249128,
+      "female": 252432
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 250085,
+      "female": 254830
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 242608,
+      "female": 245753
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 223386,
+      "female": 230443
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 203587,
+      "female": 201616
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 174433,
+      "female": 173168
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 142218,
+      "female": 144277
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 112110,
+      "female": 114762
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 86226,
+      "female": 86387
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 63163,
+      "female": 63018
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 45043,
+      "female": 43579
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 29858,
+      "female": 29944
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 19313,
+      "female": 19459
+    },
+    {
+      "ageGroup": "100+",
+      "male": 12092,
+      "female": 12059
+    }
+  ]
+}

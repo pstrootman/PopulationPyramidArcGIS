@@ -1,0 +1,112 @@
+{
+  "country": "Vanuatu",
+  "population": 322915,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 16700,
+      "female": 15953
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 16890,
+      "female": 16155
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 16844,
+      "female": 16221
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 16188,
+      "female": 16151
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 15082,
+      "female": 15591
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 13732,
+      "female": 14319
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 12189,
+      "female": 12828
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 10343,
+      "female": 10597
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 9090,
+      "female": 9457
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 7808,
+      "female": 8384
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 6707,
+      "female": 7268
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 5765,
+      "female": 6145
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 4673,
+      "female": 4929
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 3395,
+      "female": 3532
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 2337,
+      "female": 2424
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1441,
+      "female": 1514
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 732,
+      "female": 793
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 267,
+      "female": 306
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 63,
+      "female": 80
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 8,
+      "female": 13
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 0
+    }
+  ]
+}

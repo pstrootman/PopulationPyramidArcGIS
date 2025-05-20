@@ -1,0 +1,112 @@
+{
+  "country": "New Caledonia",
+  "population": 307612,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 10646,
+      "female": 10175
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 10695,
+      "female": 10247
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 10922,
+      "female": 10456
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 11086,
+      "female": 10606
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 11425,
+      "female": 10967
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 12298,
+      "female": 11798
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 12401,
+      "female": 12009
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 11457,
+      "female": 11145
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 10798,
+      "female": 10620
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 10461,
+      "female": 10410
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 10116,
+      "female": 10133
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 9065,
+      "female": 9277
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 6905,
+      "female": 7485
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 5085,
+      "female": 5881
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 4102,
+      "female": 4850
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2941,
+      "female": 3756
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1652,
+      "female": 2536
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 718,
+      "female": 1432
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 218,
+      "female": 597
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 41,
+      "female": 165
+    },
+    {
+      "ageGroup": "100+",
+      "male": 4,
+      "female": 31
+    }
+  ]
+}

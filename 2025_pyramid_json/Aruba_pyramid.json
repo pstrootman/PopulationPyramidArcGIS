@@ -1,0 +1,112 @@
+{
+  "country": "Aruba",
+  "population": 126402,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 3607,
+      "female": 3575
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 3638,
+      "female": 3613
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 3636,
+      "female": 3621
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 3555,
+      "female": 3563
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3489,
+      "female": 3523
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 4034,
+      "female": 4023
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 4154,
+      "female": 4288
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 4187,
+      "female": 4476
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 4423,
+      "female": 4825
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 4043,
+      "female": 4203
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3893,
+      "female": 4259
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3682,
+      "female": 4434
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 4280,
+      "female": 5079
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 3648,
+      "female": 4238
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 2532,
+      "female": 3634
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1586,
+      "female": 2561
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 842,
+      "female": 1587
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 377,
+      "female": 826
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 98,
+      "female": 292
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 14,
+      "female": 56
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 6
+    }
+  ]
+}

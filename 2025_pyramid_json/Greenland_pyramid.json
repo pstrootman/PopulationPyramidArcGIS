@@ -1,0 +1,112 @@
+{
+  "country": "Greenland",
+  "population": 57713,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1983,
+      "female": 1899
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1990,
+      "female": 1940
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1957,
+      "female": 1925
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1939,
+      "female": 1927
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1987,
+      "female": 1932
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2121,
+      "female": 2067
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2409,
+      "female": 2247
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2112,
+      "female": 2052
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1688,
+      "female": 1618
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1439,
+      "female": 1328
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1426,
+      "female": 1243
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2359,
+      "female": 2014
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2326,
+      "female": 2140
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1767,
+      "female": 1472
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1078,
+      "female": 946
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 657,
+      "female": 547
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 363,
+      "female": 379
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 126,
+      "female": 170
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 39,
+      "female": 68
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 8,
+      "female": 21
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 3
+    }
+  ]
+}

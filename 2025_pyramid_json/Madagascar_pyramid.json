@@ -1,0 +1,112 @@
+{
+  "country": "Madagascar",
+  "population": 30093073,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1952603,
+      "female": 1911239
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1861206,
+      "female": 1826740
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1745800,
+      "female": 1714251
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1589827,
+      "female": 1561165
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1410537,
+      "female": 1388730
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1269266,
+      "female": 1261536
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1112894,
+      "female": 1116324
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 931265,
+      "female": 926424
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 764919,
+      "female": 759367
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 624063,
+      "female": 624524
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 501504,
+      "female": 507972
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 427720,
+      "female": 431468
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 329623,
+      "female": 336478
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 240093,
+      "female": 254366
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 156436,
+      "female": 181184
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 94929,
+      "female": 116882
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 45263,
+      "female": 59890
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 17615,
+      "female": 24772
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 4949,
+      "female": 7263
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 720,
+      "female": 1130
+    },
+    {
+      "ageGroup": "100+",
+      "male": 52,
+      "female": 84
+    }
+  ]
+}

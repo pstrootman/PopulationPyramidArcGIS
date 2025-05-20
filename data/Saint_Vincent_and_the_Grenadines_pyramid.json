@@ -1,0 +1,112 @@
+{
+  "country": "Saint Vincent and the Grenadines",
+  "population": 100498,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 3007,
+      "female": 2940
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 3129,
+      "female": 3072
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 3238,
+      "female": 3189
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 3308,
+      "female": 3258
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3412,
+      "female": 3340
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3478,
+      "female": 3379
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3632,
+      "female": 3473
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 3671,
+      "female": 3451
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 3692,
+      "female": 3422
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3699,
+      "female": 3405
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3545,
+      "female": 3199
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3464,
+      "female": 3125
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 3265,
+      "female": 3021
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2667,
+      "female": 2549
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1863,
+      "female": 1865
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1079,
+      "female": 1166
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 622,
+      "female": 786
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 290,
+      "female": 450
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 90,
+      "female": 183
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 18,
+      "female": 47
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 7
+    }
+  ]
+}

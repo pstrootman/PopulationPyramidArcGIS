@@ -1,0 +1,107 @@
+{
+  "country": "Norway",
+  "population": 5408000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 257364,
+      "female": 263603
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 244885,
+      "female": 236028
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 217593,
+      "female": 226346
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 205992,
+      "female": 203816
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 186367,
+      "female": 191933
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 175433,
+      "female": 173782
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 160229,
+      "female": 162137
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 149979,
+      "female": 147601
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 137989,
+      "female": 136713
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 124953,
+      "female": 128628
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 116902,
+      "female": 117183
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 108903,
+      "female": 107185
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 98250,
+      "female": 101224
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 92527,
+      "female": 91611
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 84225,
+      "female": 85756
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 79740,
+      "female": 77172
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 71344,
+      "female": 73503
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 65691,
+      "female": 68020
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 61135,
+      "female": 62296
+    },
+    {
+      "ageGroup": "100+",
+      "male": 56216,
+      "female": 57726
+    }
+  ]
+}

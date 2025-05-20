@@ -1,0 +1,112 @@
+{
+  "country": "Libya",
+  "population": 7464417,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 382871,
+      "female": 368078
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 406874,
+      "female": 392597
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 412919,
+      "female": 399527
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 348394,
+      "female": 337426
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 274284,
+      "female": 267622
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 247132,
+      "female": 242809
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 244110,
+      "female": 235849
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 278333,
+      "female": 256474
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 289680,
+      "female": 256351
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 271850,
+      "female": 244747
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 212744,
+      "female": 205298
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 157472,
+      "female": 159540
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 106377,
+      "female": 110201
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 66518,
+      "female": 75660
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 37972,
+      "female": 50449
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 29888,
+      "female": 36492
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 15932,
+      "female": 18594
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 6941,
+      "female": 9763
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 2002,
+      "female": 3539
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 302,
+      "female": 716
+    },
+    {
+      "ageGroup": "100+",
+      "male": 22,
+      "female": 68
+    }
+  ]
+}

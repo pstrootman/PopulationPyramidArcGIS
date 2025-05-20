@@ -1,0 +1,112 @@
+{
+  "country": "Namibia",
+  "population": 2852777,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 165572,
+      "female": 161886
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 161819,
+      "female": 158720
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 157582,
+      "female": 154802
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 148070,
+      "female": 146032
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 138805,
+      "female": 137303
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 121825,
+      "female": 123487
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 109487,
+      "female": 113868
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 90657,
+      "female": 97056
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 77152,
+      "female": 83781
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 64205,
+      "female": 69655
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 51429,
+      "female": 56590
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 37463,
+      "female": 45407
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 28734,
+      "female": 36696
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 19949,
+      "female": 25658
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 13683,
+      "female": 17322
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 8652,
+      "female": 11354
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 4622,
+      "female": 6735
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1923,
+      "female": 3285
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 458,
+      "female": 904
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 47,
+      "female": 95
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 5
+    }
+  ]
+}

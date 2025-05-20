@@ -1,0 +1,112 @@
+{
+  "country": "Sierra Leone",
+  "population": 9331203,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 653534,
+      "female": 641535
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 626296,
+      "female": 616143
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 583167,
+      "female": 573559
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 518621,
+      "female": 515394
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 447168,
+      "female": 462503
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 383718,
+      "female": 424299
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 316219,
+      "female": 372398
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 255741,
+      "female": 304526
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 209478,
+      "female": 231713
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 171727,
+      "female": 166820
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 144567,
+      "female": 125756
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 117898,
+      "female": 98931
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 75222,
+      "female": 58870
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 46901,
+      "female": 37872
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 33363,
+      "female": 34732
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 21408,
+      "female": 25440
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 10971,
+      "female": 13628
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 3832,
+      "female": 5299
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 730,
+      "female": 1037
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 73,
+      "female": 105
+    },
+    {
+      "ageGroup": "100+",
+      "male": 4,
+      "female": 5
+    }
+  ]
+}

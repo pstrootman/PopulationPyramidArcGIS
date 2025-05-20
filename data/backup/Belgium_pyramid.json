@@ -1,0 +1,107 @@
+{
+  "country": "Belgium",
+  "population": 11590000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 209691,
+      "female": 203817
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 268740,
+      "female": 260448
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 320305,
+      "female": 330370
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 383876,
+      "female": 384806
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 429377,
+      "female": 443106
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 480411,
+      "female": 471062
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 498608,
+      "female": 498319
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 506450,
+      "female": 497145
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 475971,
+      "female": 494722
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 446956,
+      "female": 455100
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 402757,
+      "female": 402647
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 346740,
+      "female": 344171
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 289445,
+      "female": 280008
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 221238,
+      "female": 229706
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 174568,
+      "female": 168528
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 123582,
+      "female": 127223
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 89217,
+      "female": 86934
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 60124,
+      "female": 58743
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 38695,
+      "female": 38372
+    },
+    {
+      "ageGroup": "100+",
+      "male": 23674,
+      "female": 24332
+    }
+  ]
+}

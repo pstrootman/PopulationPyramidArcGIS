@@ -1,0 +1,112 @@
+{
+  "country": "Saint Pierre and Miquelon",
+  "population": 5070,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 91,
+      "female": 88
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 113,
+      "female": 105
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 131,
+      "female": 124
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 122,
+      "female": 109
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 107,
+      "female": 97
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 91,
+      "female": 91
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 88,
+      "female": 94
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 112,
+      "female": 126
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 159,
+      "female": 178
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 170,
+      "female": 190
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 215,
+      "female": 242
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 265,
+      "female": 249
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 201,
+      "female": 199
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 167,
+      "female": 176
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 161,
+      "female": 171
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 120,
+      "female": 160
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 70,
+      "female": 112
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 43,
+      "female": 65
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 12,
+      "female": 38
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 3,
+      "female": 11
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 3
+    }
+  ]
+}

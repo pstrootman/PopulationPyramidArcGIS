@@ -1,0 +1,112 @@
+{
+  "country": "Bahamas, The",
+  "population": 415306,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 14156,
+      "female": 15060
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 13585,
+      "female": 14721
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 13959,
+      "female": 16110
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 15706,
+      "female": 19500
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 16681,
+      "female": 20814
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 18123,
+      "female": 20487
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 18560,
+      "female": 21167
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 11487,
+      "female": 12277
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 10053,
+      "female": 11200
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 11470,
+      "female": 13452
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 10988,
+      "female": 13245
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 10645,
+      "female": 12631
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 9877,
+      "female": 11736
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 7534,
+      "female": 9123
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 4774,
+      "female": 5738
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2516,
+      "female": 3047
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1288,
+      "female": 1775
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 513,
+      "female": 857
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 123,
+      "female": 260
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 15,
+      "female": 46
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 5
+    }
+  ]
+}

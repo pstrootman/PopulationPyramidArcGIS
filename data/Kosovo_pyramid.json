@@ -1,0 +1,112 @@
+{
+  "country": "Kosovo",
+  "population": 1991020,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 72618,
+      "female": 67629
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 77079,
+      "female": 71652
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 80970,
+      "female": 74982
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 83270,
+      "female": 76964
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 83946,
+      "female": 78023
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 84119,
+      "female": 76908
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 80953,
+      "female": 72505
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 91760,
+      "female": 82334
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 77900,
+      "female": 69075
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 63390,
+      "female": 57800
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 56036,
+      "female": 50838
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 52388,
+      "female": 48525
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 44650,
+      "female": 42968
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 32259,
+      "female": 33403
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 20887,
+      "female": 25208
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 12084,
+      "female": 17644
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 6726,
+      "female": 11241
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 3034,
+      "female": 5887
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 834,
+      "female": 1995
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 128,
+      "female": 368
+    },
+    {
+      "ageGroup": "100+",
+      "male": 8,
+      "female": 32
+    }
+  ]
+}

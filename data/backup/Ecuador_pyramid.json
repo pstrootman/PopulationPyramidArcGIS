@@ -1,0 +1,107 @@
+{
+  "country": "Ecuador",
+  "population": 17640000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 860012,
+      "female": 839300
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 776488,
+      "female": 792174
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 718519,
+      "female": 729539
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 658823,
+      "female": 677903
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 612830,
+      "female": 621123
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 569205,
+      "female": 569877
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 518891,
+      "female": 532615
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 483957,
+      "female": 486705
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 453983,
+      "female": 442051
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 418477,
+      "female": 408667
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 380212,
+      "female": 383337
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 347802,
+      "female": 357043
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 329781,
+      "female": 320873
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 301770,
+      "female": 298859
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 276783,
+      "female": 277667
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 257821,
+      "female": 254002
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 235879,
+      "female": 236592
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 217663,
+      "female": 218483
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 199997,
+      "female": 202616
+    },
+    {
+      "ageGroup": "100+",
+      "male": 185751,
+      "female": 185908
+    }
+  ]
+}

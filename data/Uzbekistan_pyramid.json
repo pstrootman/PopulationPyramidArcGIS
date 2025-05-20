@@ -1,0 +1,112 @@
+{
+  "country": "Uzbekistan",
+  "population": 37015151,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2055450,
+      "female": 1922923
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1922515,
+      "female": 1780570
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1660516,
+      "female": 1546951
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1492096,
+      "female": 1408580
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1279243,
+      "female": 1213799
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1374018,
+      "female": 1318033
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1546240,
+      "female": 1536642
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1516101,
+      "female": 1490569
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1267471,
+      "female": 1264120
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1037101,
+      "female": 1046946
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 883840,
+      "female": 917728
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 723267,
+      "female": 790506
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 668867,
+      "female": 750604
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 509081,
+      "female": 592800
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 303997,
+      "female": 379244
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 155589,
+      "female": 207537
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 80612,
+      "female": 105856
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 68970,
+      "female": 107045
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 23173,
+      "female": 41410
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 7150,
+      "female": 14800
+    },
+    {
+      "ageGroup": "100+",
+      "male": 751,
+      "female": 2440
+    }
+  ]
+}

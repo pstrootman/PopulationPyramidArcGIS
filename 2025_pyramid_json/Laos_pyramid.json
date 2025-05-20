@@ -1,0 +1,112 @@
+{
+  "country": "Laos",
+  "population": 8052913,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 390403,
+      "female": 378702
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 410008,
+      "female": 398949
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 408192,
+      "female": 398423
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 383863,
+      "female": 377200
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 381376,
+      "female": 379800
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 363101,
+      "female": 368005
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 339526,
+      "female": 341352
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 295435,
+      "female": 298275
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 251276,
+      "female": 246946
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 197814,
+      "female": 206442
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 170012,
+      "female": 172114
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 136196,
+      "female": 146255
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 102101,
+      "female": 109519
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 86385,
+      "female": 92778
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 49745,
+      "female": 55874
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 29787,
+      "female": 35431
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 14220,
+      "female": 20466
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 5327,
+      "female": 7996
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1173,
+      "female": 2029
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 131,
+      "female": 264
+    },
+    {
+      "ageGroup": "100+",
+      "male": 6,
+      "female": 16
+    }
+  ]
+}

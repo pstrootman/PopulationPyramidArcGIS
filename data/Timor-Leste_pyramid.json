@@ -1,0 +1,112 @@
+{
+  "country": "Timor-Leste",
+  "population": 1404785,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 80187,
+      "female": 75589
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 80535,
+      "female": 76116
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 81306,
+      "female": 76906
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 77039,
+      "female": 73723
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 68236,
+      "female": 67036
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 62729,
+      "female": 63832
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 54024,
+      "female": 56822
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 42787,
+      "female": 47603
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 32558,
+      "female": 38738
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 22319,
+      "female": 27929
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 25540,
+      "female": 28040
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 19523,
+      "female": 21972
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 16285,
+      "female": 20351
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 11477,
+      "female": 14464
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 9677,
+      "female": 10844
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 5163,
+      "female": 5642
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 3232,
+      "female": 3626
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1061,
+      "female": 1266
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 231,
+      "female": 304
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 29,
+      "female": 41
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 1
+    }
+  ]
+}

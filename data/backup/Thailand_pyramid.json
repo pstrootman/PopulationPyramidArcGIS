@@ -1,0 +1,107 @@
+{
+  "country": "Thailand",
+  "population": 69800000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1252050,
+      "female": 1238277
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1589975,
+      "female": 1597027
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1961714,
+      "female": 1956937
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2284972,
+      "female": 2344368
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2599192,
+      "female": 2655287
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2853772,
+      "female": 2876411
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3017413,
+      "female": 2986517
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2969718,
+      "female": 3074372
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2963602,
+      "female": 2882339
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2680540,
+      "female": 2752040
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2447073,
+      "female": 2403422
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2090806,
+      "female": 2070161
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1740066,
+      "female": 1689432
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1362212,
+      "female": 1353572
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1014164,
+      "female": 1052111
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 758070,
+      "female": 752389
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 523587,
+      "female": 537273
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 353309,
+      "female": 362564
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 230854,
+      "female": 233277
+    },
+    {
+      "ageGroup": "100+",
+      "male": 144614,
+      "female": 144503
+    }
+  ]
+}

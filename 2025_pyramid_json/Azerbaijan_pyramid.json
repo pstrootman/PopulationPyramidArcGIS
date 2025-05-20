@@ -1,0 +1,112 @@
+{
+  "country": "Azerbaijan",
+  "population": 10694370,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 324592,
+      "female": 283626
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 401489,
+      "female": 353050
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 512645,
+      "female": 443324
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 427372,
+      "female": 369057
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 344389,
+      "female": 297591
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 367585,
+      "female": 330394
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 474090,
+      "female": 451504
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 478806,
+      "female": 464327
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 398898,
+      "female": 398049
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 326183,
+      "female": 339522
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 298267,
+      "female": 325805
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 287184,
+      "female": 340004
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 280105,
+      "female": 345997
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 212869,
+      "female": 264384
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 115069,
+      "female": 156258
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 56196,
+      "female": 86074
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 22342,
+      "female": 38954
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 20334,
+      "female": 38863
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 5184,
+      "female": 11104
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 746,
+      "female": 1976
+    },
+    {
+      "ageGroup": "100+",
+      "male": 31,
+      "female": 131
+    }
+  ]
+}

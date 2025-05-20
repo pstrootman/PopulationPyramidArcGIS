@@ -1,0 +1,112 @@
+{
+  "country": "Guernsey",
+  "population": 67923,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1674,
+      "female": 1559
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1653,
+      "female": 1561
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1666,
+      "female": 1591
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1732,
+      "female": 1686
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1751,
+      "female": 1729
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1998,
+      "female": 1959
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2217,
+      "female": 2138
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2346,
+      "female": 2213
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2308,
+      "female": 2079
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2203,
+      "female": 2153
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2349,
+      "female": 2359
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2504,
+      "female": 2683
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2436,
+      "female": 2470
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2011,
+      "female": 2089
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1711,
+      "female": 1768
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1543,
+      "female": 1780
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 857,
+      "female": 1027
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 521,
+      "female": 730
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 212,
+      "female": 392
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 57,
+      "female": 159
+    },
+    {
+      "ageGroup": "100+",
+      "male": 11,
+      "female": 38
+    }
+  ]
+}

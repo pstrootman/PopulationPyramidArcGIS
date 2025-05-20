@@ -1,0 +1,107 @@
+{
+  "country": "Greece",
+  "population": 10720000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 188178,
+      "female": 194290
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 248976,
+      "female": 240488
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 305916,
+      "female": 295916
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 356846,
+      "female": 354135
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 399634,
+      "female": 407357
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 442518,
+      "female": 437532
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 461409,
+      "female": 460684
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 460579,
+      "female": 467681
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 454737,
+      "female": 443092
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 421961,
+      "female": 412383
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 369588,
+      "female": 375358
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 322026,
+      "female": 317022
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 265996,
+      "female": 260712
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 206843,
+      "female": 210251
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 161658,
+      "female": 155683
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 117609,
+      "female": 114369
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 82035,
+      "female": 80893
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 54992,
+      "female": 54952
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 36108,
+      "female": 35173
+    },
+    {
+      "ageGroup": "100+",
+      "male": 21853,
+      "female": 22549
+    }
+  ]
+}

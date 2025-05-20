@@ -1,0 +1,112 @@
+{
+  "country": "Jersey",
+  "population": 103944,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 3241,
+      "female": 3057
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 3125,
+      "female": 2943
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2831,
+      "female": 2642
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2829,
+      "female": 2612
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3171,
+      "female": 2995
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 4116,
+      "female": 3910
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 4324,
+      "female": 4135
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 4259,
+      "female": 4100
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 3333,
+      "female": 2978
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2209,
+      "female": 2066
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2640,
+      "female": 2728
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3497,
+      "female": 3752
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 3388,
+      "female": 3609
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2759,
+      "female": 3062
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 2096,
+      "female": 2565
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1682,
+      "female": 2278
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 935,
+      "female": 1474
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 593,
+      "female": 1015
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 227,
+      "female": 487
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 54,
+      "female": 179
+    },
+    {
+      "ageGroup": "100+",
+      "male": 8,
+      "female": 40
+    }
+  ]
+}

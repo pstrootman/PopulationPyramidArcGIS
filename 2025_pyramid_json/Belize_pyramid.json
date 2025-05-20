@@ -1,0 +1,112 @@
+{
+  "country": "Belize",
+  "population": 421960,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 19126,
+      "female": 18344
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 19544,
+      "female": 18945
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 19830,
+      "female": 19481
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 19794,
+      "female": 19837
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 19370,
+      "female": 19895
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 18075,
+      "female": 18990
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 16649,
+      "female": 17658
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 15101,
+      "female": 16143
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 12958,
+      "female": 13903
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 11322,
+      "female": 12022
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 9222,
+      "female": 9555
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 8747,
+      "female": 8968
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 7066,
+      "female": 7133
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 4990,
+      "female": 4966
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 3443,
+      "female": 3442
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1983,
+      "female": 1981
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1046,
+      "female": 1104
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 445,
+      "female": 546
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 116,
+      "female": 172
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 15,
+      "female": 29
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 2
+    }
+  ]
+}

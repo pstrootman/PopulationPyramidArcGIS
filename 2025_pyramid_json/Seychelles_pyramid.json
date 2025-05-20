@@ -1,0 +1,112 @@
+{
+  "country": "Seychelles",
+  "population": 98724,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2911,
+      "female": 2797
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2963,
+      "female": 2783
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2949,
+      "female": 2775
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2921,
+      "female": 2677
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3088,
+      "female": 2692
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3410,
+      "female": 2887
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 4139,
+      "female": 3509
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 4496,
+      "female": 3696
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 4703,
+      "female": 3811
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 4505,
+      "female": 3813
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 4226,
+      "female": 3646
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3527,
+      "female": 3434
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2940,
+      "female": 3060
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2149,
+      "female": 2202
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1213,
+      "female": 1349
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 684,
+      "female": 939
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 311,
+      "female": 651
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 121,
+      "female": 454
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 31,
+      "female": 201
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 3,
+      "female": 50
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 8
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Dominican Republic",
+  "population": 10899292,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 453455,
+      "female": 440043
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 473443,
+      "female": 457893
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 470616,
+      "female": 455686
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 475999,
+      "female": 460975
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 475598,
+      "female": 460239
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 459877,
+      "female": 444101
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 435616,
+      "female": 419542
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 403111,
+      "female": 387358
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 363034,
+      "female": 347246
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 316798,
+      "female": 306641
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 285355,
+      "female": 280212
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 261677,
+      "female": 262560
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 217788,
+      "female": 222778
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 158905,
+      "female": 165284
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 105584,
+      "female": 111099
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 66309,
+      "female": 71436
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 38996,
+      "female": 44563
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 24367,
+      "female": 29370
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 13969,
+      "female": 17618
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 5427,
+      "female": 6873
+    },
+    {
+      "ageGroup": "100+",
+      "male": 755,
+      "female": 1096
+    }
+  ]
+}

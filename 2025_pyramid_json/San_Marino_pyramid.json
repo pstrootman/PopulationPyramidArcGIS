@@ -1,0 +1,112 @@
+{
+  "country": "San Marino",
+  "population": 35291,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 843,
+      "female": 773
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 868,
+      "female": 792
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 902,
+      "female": 825
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 999,
+      "female": 870
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1064,
+      "female": 962
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1077,
+      "female": 1066
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 957,
+      "female": 1049
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 904,
+      "female": 1019
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 988,
+      "female": 1096
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1092,
+      "female": 1270
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1208,
+      "female": 1354
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1335,
+      "female": 1511
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1291,
+      "female": 1445
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1034,
+      "female": 1078
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 840,
+      "female": 904
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 707,
+      "female": 834
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 469,
+      "female": 618
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 288,
+      "female": 439
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 127,
+      "female": 247
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 35,
+      "female": 84
+    },
+    {
+      "ageGroup": "100+",
+      "male": 7,
+      "female": 20
+    }
+  ]
+}

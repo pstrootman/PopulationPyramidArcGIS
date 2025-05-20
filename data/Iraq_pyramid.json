@@ -1,0 +1,112 @@
+{
+  "country": "Iraq",
+  "population": 42917742,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2498642,
+      "female": 2388048
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2474754,
+      "female": 2369603
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2481939,
+      "female": 2380130
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2334234,
+      "female": 2241610
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2085824,
+      "female": 2017438
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1785952,
+      "female": 1740723
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1498434,
+      "female": 1490662
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1427318,
+      "female": 1439432
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1233875,
+      "female": 1267204
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1032626,
+      "female": 1051903
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 878775,
+      "female": 862861
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 717394,
+      "female": 706675
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 459445,
+      "female": 466019
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 280345,
+      "female": 324676
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 222465,
+      "female": 276977
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 119170,
+      "female": 155138
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 57007,
+      "female": 79002
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 20887,
+      "female": 32897
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 5005,
+      "female": 9804
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 779,
+      "female": 1961
+    },
+    {
+      "ageGroup": "100+",
+      "male": 24,
+      "female": 85
+    }
+  ]
+}

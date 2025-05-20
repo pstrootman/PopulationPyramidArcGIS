@@ -1,0 +1,112 @@
+{
+  "country": "Hong Kong",
+  "population": 7305556,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 150873,
+      "female": 141415
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 172074,
+      "female": 156050
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 187053,
+      "female": 163593
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 140443,
+      "female": 128401
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 146103,
+      "female": 140294
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 193255,
+      "female": 183384
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 226563,
+      "female": 239414
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 210212,
+      "female": 260667
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 230983,
+      "female": 304451
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 220425,
+      "female": 306733
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 212057,
+      "female": 323450
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 221301,
+      "female": 334968
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 286148,
+      "female": 354330
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 273439,
+      "female": 302561
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 203763,
+      "female": 229142
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 145234,
+      "female": 161646
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 75102,
+      "female": 83427
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 47131,
+      "female": 69395
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 20482,
+      "female": 40782
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 4192,
+      "female": 12467
+    },
+    {
+      "ageGroup": "100+",
+      "male": 389,
+      "female": 1764
+    }
+  ]
+}

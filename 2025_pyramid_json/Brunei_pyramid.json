@@ -1,0 +1,112 @@
+{
+  "country": "Brunei",
+  "population": 498766,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 19363,
+      "female": 18435
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 18543,
+      "female": 17374
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 17396,
+      "female": 16261
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 16788,
+      "female": 16493
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 19272,
+      "female": 19793
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 22128,
+      "female": 23176
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 21777,
+      "female": 23918
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 21270,
+      "female": 23850
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 18104,
+      "female": 20828
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 15847,
+      "female": 18418
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 12855,
+      "female": 15129
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 10396,
+      "female": 12548
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 9218,
+      "female": 10135
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 8536,
+      "female": 8676
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 5756,
+      "female": 5983
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2872,
+      "female": 3182
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1265,
+      "female": 1409
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 495,
+      "female": 785
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 127,
+      "female": 290
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 21,
+      "female": 49
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 4
+    }
+  ]
+}

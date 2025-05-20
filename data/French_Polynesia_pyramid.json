@@ -1,0 +1,112 @@
+{
+  "country": "French Polynesia",
+  "population": 305507,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 10126,
+      "female": 9675
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 10499,
+      "female": 10006
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 10806,
+      "female": 10118
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 10998,
+      "female": 10166
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 10905,
+      "female": 10039
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 11180,
+      "female": 10326
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 12338,
+      "female": 11648
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 12578,
+      "female": 12078
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 11062,
+      "female": 10771
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 10056,
+      "female": 9531
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 10161,
+      "female": 9605
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 9939,
+      "female": 9420
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 8348,
+      "female": 8041
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 6484,
+      "female": 6351
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 4607,
+      "female": 4749
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2950,
+      "female": 3169
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1837,
+      "female": 2068
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 858,
+      "female": 1093
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 290,
+      "female": 437
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 57,
+      "female": 112
+    },
+    {
+      "ageGroup": "100+",
+      "male": 5,
+      "female": 20
+    }
+  ]
+}

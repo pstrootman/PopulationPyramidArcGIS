@@ -1,0 +1,107 @@
+{
+  "country": "Myanmar",
+  "population": 54410000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2575319,
+      "female": 2666155
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2404282,
+      "female": 2434209
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2205091,
+      "female": 2261399
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2063573,
+      "female": 2059516
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1935869,
+      "female": 1870222
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1723556,
+      "female": 1789908
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1624572,
+      "female": 1618765
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1486413,
+      "female": 1507564
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1368246,
+      "female": 1395544
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1287573,
+      "female": 1263726
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1184544,
+      "female": 1170602
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1083244,
+      "female": 1090830
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1018668,
+      "female": 988254
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 925992,
+      "female": 926631
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 861140,
+      "female": 849047
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 790049,
+      "female": 788652
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 719328,
+      "female": 737997
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 684844,
+      "female": 660436
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 626996,
+      "female": 614854
+    },
+    {
+      "ageGroup": "100+",
+      "male": 582339,
+      "female": 564033
+    }
+  ]
+}

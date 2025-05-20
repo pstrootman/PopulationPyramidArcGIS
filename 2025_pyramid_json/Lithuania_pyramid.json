@@ -1,0 +1,112 @@
+{
+  "country": "Lithuania",
+  "population": 2815687,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 57996,
+      "female": 55301
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 78222,
+      "female": 73947
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 78282,
+      "female": 74429
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 73533,
+      "female": 70359
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 68608,
+      "female": 65441
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 81521,
+      "female": 74379
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 98744,
+      "female": 86731
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 113236,
+      "female": 97567
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 104592,
+      "female": 92117
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 91639,
+      "female": 86612
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 94913,
+      "female": 97749
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 91954,
+      "female": 100839
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 93342,
+      "female": 114716
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 77286,
+      "female": 109755
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 51190,
+      "female": 86119
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 35375,
+      "female": 72142
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 24537,
+      "female": 60340
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 13603,
+      "female": 39755
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 3602,
+      "female": 10910
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 824,
+      "female": 2236
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1601,
+      "female": 9643
+    }
+  ]
+}

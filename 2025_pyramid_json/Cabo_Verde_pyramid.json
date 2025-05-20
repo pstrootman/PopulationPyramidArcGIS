@@ -1,0 +1,112 @@
+{
+  "country": "Cabo Verde",
+  "population": 618014,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 26750,
+      "female": 26266
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 27159,
+      "female": 26835
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 27064,
+      "female": 27012
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 26030,
+      "female": 26001
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 25648,
+      "female": 25641
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 26148,
+      "female": 26385
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 26322,
+      "female": 26942
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 24772,
+      "female": 25822
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 21409,
+      "female": 22210
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 15767,
+      "female": 17617
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 13006,
+      "female": 14018
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 12913,
+      "female": 14415
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 11270,
+      "female": 12682
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 7023,
+      "female": 9671
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 4139,
+      "female": 6412
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2360,
+      "female": 3598
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1605,
+      "female": 3055
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 885,
+      "female": 2044
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 262,
+      "female": 673
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 42,
+      "female": 129
+    },
+    {
+      "ageGroup": "100+",
+      "male": 3,
+      "female": 9
+    }
+  ]
+}

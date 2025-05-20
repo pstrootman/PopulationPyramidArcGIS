@@ -1,0 +1,112 @@
+{
+  "country": "Saint Helena, Ascension, and Tristan da Cunha",
+  "population": 7950,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 185,
+      "female": 178
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 189,
+      "female": 180
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 200,
+      "female": 193
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 219,
+      "female": 212
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 236,
+      "female": 228
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 241,
+      "female": 235
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 229,
+      "female": 222
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 226,
+      "female": 224
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 262,
+      "female": 266
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 278,
+      "female": 294
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 347,
+      "female": 339
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 331,
+      "female": 356
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 242,
+      "female": 268
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 246,
+      "female": 238
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 216,
+      "female": 205
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 170,
+      "female": 152
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 106,
+      "female": 97
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 38,
+      "female": 50
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 13,
+      "female": 27
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 2,
+      "female": 8
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 2
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Korea, North",
+  "population": 26402841,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 889675,
+      "female": 842117
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 904103,
+      "female": 859710
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 879405,
+      "female": 843289
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 871085,
+      "female": 843500
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 922359,
+      "female": 901552
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 969978,
+      "female": 962337
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1035158,
+      "female": 1009430
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 952923,
+      "female": 923443
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 865622,
+      "female": 852302
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 770279,
+      "female": 774285
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 952631,
+      "female": 977347
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1009275,
+      "female": 1040863
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 719221,
+      "female": 785600
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 531843,
+      "female": 656996
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 252965,
+      "female": 363930
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 220567,
+      "female": 411249
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 101894,
+      "female": 275275
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 30809,
+      "female": 144171
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 4190,
+      "female": 43545
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 278,
+      "female": 7101
+    },
+    {
+      "ageGroup": "100+",
+      "male": 9,
+      "female": 530
+    }
+  ]
+}

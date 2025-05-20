@@ -1,0 +1,112 @@
+{
+  "country": "Benin",
+  "population": 15186090,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1359876,
+      "female": 1316901
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1148604,
+      "female": 1131752
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 956000,
+      "female": 945908
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 800198,
+      "female": 790875
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 699422,
+      "female": 698416
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 589008,
+      "female": 606985
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 458369,
+      "female": 501187
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 355364,
+      "female": 407693
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 287515,
+      "female": 332135
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 245994,
+      "female": 276510
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 206498,
+      "female": 225886
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 123620,
+      "female": 137530
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 97157,
+      "female": 107556
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 75640,
+      "female": 85782
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 49741,
+      "female": 57519
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 28905,
+      "female": 35681
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 13339,
+      "female": 18504
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 4437,
+      "female": 6656
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 958,
+      "female": 1603
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 118,
+      "female": 225
+    },
+    {
+      "ageGroup": "100+",
+      "male": 8,
+      "female": 15
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Latvia",
+  "population": 1888439,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 39549,
+      "female": 37759
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 52145,
+      "female": 48879
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 53145,
+      "female": 49687
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 54501,
+      "female": 51804
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 48046,
+      "female": 46120
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 46754,
+      "female": 43835
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 62867,
+      "female": 59085
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 74545,
+      "female": 72396
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 66606,
+      "female": 65747
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 59188,
+      "female": 62453
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 62692,
+      "female": 68639
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 60210,
+      "female": 67162
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 60359,
+      "female": 75892
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 50605,
+      "female": 71617
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 35987,
+      "female": 60816
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 23154,
+      "female": 49382
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 16780,
+      "female": 42710
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 7821,
+      "female": 27244
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1494,
+      "female": 8438
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 197,
+      "female": 1927
+    },
+    {
+      "ageGroup": "100+",
+      "male": 9,
+      "female": 193
+    }
+  ]
+}

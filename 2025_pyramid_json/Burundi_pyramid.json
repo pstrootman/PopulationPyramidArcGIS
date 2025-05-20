@@ -1,0 +1,112 @@
+{
+  "country": "Burundi",
+  "population": 13976678,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1102984,
+      "female": 1080714
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 970473,
+      "female": 954704
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 876613,
+      "female": 865940
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 789141,
+      "female": 782820
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 648906,
+      "female": 648515
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 529782,
+      "female": 535288
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 434602,
+      "female": 443311
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 369731,
+      "female": 377010
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 308081,
+      "female": 311383
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 245530,
+      "female": 252943
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 192887,
+      "female": 201012
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 151651,
+      "female": 164049
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 120835,
+      "female": 138267
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 92340,
+      "female": 111964
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 63278,
+      "female": 81325
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 31477,
+      "female": 44085
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 13895,
+      "female": 21776
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 5385,
+      "female": 9555
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1288,
+      "female": 2599
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 152,
+      "female": 353
+    },
+    {
+      "ageGroup": "100+",
+      "male": 9,
+      "female": 25
+    }
+  ]
+}

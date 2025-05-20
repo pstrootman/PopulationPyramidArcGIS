@@ -1,0 +1,112 @@
+{
+  "country": "Cook Islands",
+  "population": 7592,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 230,
+      "female": 218
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 234,
+      "female": 215
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 249,
+      "female": 216
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 260,
+      "female": 225
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 253,
+      "female": 222
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 248,
+      "female": 232
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 240,
+      "female": 245
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 194,
+      "female": 203
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 167,
+      "female": 198
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 198,
+      "female": 217
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 290,
+      "female": 288
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 348,
+      "female": 313
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 351,
+      "female": 271
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 251,
+      "female": 201
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 163,
+      "female": 156
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 122,
+      "female": 112
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 56,
+      "female": 91
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 28,
+      "female": 55
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 7,
+      "female": 20
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 1,
+      "female": 4
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 0
+    }
+  ]
+}

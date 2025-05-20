@@ -1,0 +1,107 @@
+{
+  "country": "Cameroon",
+  "population": 26550000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1963276,
+      "female": 1928696
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1670608,
+      "female": 1679243
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1445640,
+      "female": 1437604
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1250914,
+      "female": 1230717
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1060407,
+      "female": 1075553
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 915301,
+      "female": 923136
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 799924,
+      "female": 782433
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 685469,
+      "female": 676478
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 593401,
+      "female": 578838
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 512658,
+      "female": 496297
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 437127,
+      "female": 431289
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 380425,
+      "female": 367027
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 322504,
+      "female": 320834
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 280723,
+      "female": 273003
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 238144,
+      "female": 238452
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 207554,
+      "female": 202656
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 174611,
+      "female": 178460
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 153535,
+      "female": 150356
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 128527,
+      "female": 133034
+    },
+    {
+      "ageGroup": "100+",
+      "male": 113537,
+      "female": 111591
+    }
+  ]
+}

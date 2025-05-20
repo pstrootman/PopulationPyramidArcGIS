@@ -1,0 +1,112 @@
+{
+  "country": "Sao Tome and Principe",
+  "population": 226722,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 13882,
+      "female": 13534
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 13439,
+      "female": 13023
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 13699,
+      "female": 13245
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 13457,
+      "female": 13087
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 11941,
+      "female": 11686
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 9623,
+      "female": 9507
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 7385,
+      "female": 7448
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 6567,
+      "female": 6780
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 5870,
+      "female": 6130
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 5201,
+      "female": 5390
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3870,
+      "female": 4042
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2720,
+      "female": 2863
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2211,
+      "female": 2542
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1449,
+      "female": 1788
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 875,
+      "female": 1184
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 465,
+      "female": 652
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 254,
+      "female": 381
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 168,
+      "female": 228
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 45,
+      "female": 69
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 7,
+      "female": 13
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 1
+    }
+  ]
+}

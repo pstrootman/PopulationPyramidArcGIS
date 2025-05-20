@@ -1,0 +1,112 @@
+{
+  "country": "American Samoa",
+  "population": 43268,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1741,
+      "female": 1644
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1872,
+      "female": 1754
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1920,
+      "female": 1791
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1884,
+      "female": 1796
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1894,
+      "female": 1861
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1460,
+      "female": 1587
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1645,
+      "female": 1856
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1240,
+      "female": 1326
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1094,
+      "female": 1179
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1246,
+      "female": 1145
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1248,
+      "female": 1233
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1323,
+      "female": 1318
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1062,
+      "female": 1192
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 818,
+      "female": 831
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 459,
+      "female": 555
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 298,
+      "female": 347
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 164,
+      "female": 193
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 79,
+      "female": 115
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 24,
+      "female": 47
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 6,
+      "female": 16
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 4
+    }
+  ]
+}

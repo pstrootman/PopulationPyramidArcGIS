@@ -1,0 +1,112 @@
+{
+  "country": "Gibraltar",
+  "population": 29733,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1037,
+      "female": 991
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1026,
+      "female": 978
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 991,
+      "female": 936
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 929,
+      "female": 881
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 920,
+      "female": 869
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 998,
+      "female": 954
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1235,
+      "female": 1179
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1117,
+      "female": 1070
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1070,
+      "female": 1022
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1053,
+      "female": 945
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 902,
+      "female": 884
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 718,
+      "female": 714
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 465,
+      "female": 653
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 527,
+      "female": 766
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 638,
+      "female": 689
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 625,
+      "female": 616
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 329,
+      "female": 304
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 230,
+      "female": 215
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 83,
+      "female": 101
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 24,
+      "female": 33
+    },
+    {
+      "ageGroup": "100+",
+      "male": 6,
+      "female": 10
+    }
+  ]
+}

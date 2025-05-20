@@ -1,0 +1,112 @@
+{
+  "country": "Guinea",
+  "population": 14374590,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1136992,
+      "female": 1114667
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 981067,
+      "female": 964918
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 842499,
+      "female": 830835
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 738145,
+      "female": 730896
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 649957,
+      "female": 646391
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 545247,
+      "female": 544619
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 457244,
+      "female": 458384
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 390782,
+      "female": 392962
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 333735,
+      "female": 329819
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 278482,
+      "female": 277495
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 228682,
+      "female": 232498
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 185739,
+      "female": 194485
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 147002,
+      "female": 158171
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 111182,
+      "female": 123027
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 74872,
+      "female": 90303
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 46204,
+      "female": 58972
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 22420,
+      "female": 31257
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 7638,
+      "female": 11966
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1587,
+      "female": 2872
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 176,
+      "female": 370
+    },
+    {
+      "ageGroup": "100+",
+      "male": 9,
+      "female": 22
+    }
+  ]
+}

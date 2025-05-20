@@ -1,0 +1,112 @@
+{
+  "country": "Mauritius",
+  "population": 1311375,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 32809,
+      "female": 30746
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 32796,
+      "female": 31212
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 34487,
+      "female": 33583
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 40909,
+      "female": 38986
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 47135,
+      "female": 45766
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 47185,
+      "female": 46706
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 51087,
+      "female": 50452
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 46901,
+      "female": 45669
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 50678,
+      "female": 50498
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 52296,
+      "female": 53498
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 41826,
+      "female": 43170
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 41726,
+      "female": 44522
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 40903,
+      "female": 45666
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 31883,
+      "female": 38385
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 23627,
+      "female": 30331
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 13974,
+      "female": 20435
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 6191,
+      "female": 11453
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 2555,
+      "female": 6666
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 646,
+      "female": 2907
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 88,
+      "female": 872
+    },
+    {
+      "ageGroup": "100+",
+      "male": 5,
+      "female": 145
+    }
+  ]
+}

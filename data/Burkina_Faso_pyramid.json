@@ -1,0 +1,112 @@
+{
+  "country": "Burkina Faso",
+  "population": 23490300,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1722093,
+      "female": 1672946
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1622986,
+      "female": 1572582
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1530955,
+      "female": 1483607
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1333347,
+      "female": 1299015
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1170166,
+      "female": 1144807
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 898158,
+      "female": 943865
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 744438,
+      "female": 832845
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 638060,
+      "female": 712983
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 552470,
+      "female": 573201
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 390982,
+      "female": 446796
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 237430,
+      "female": 333005
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 200737,
+      "female": 283187
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 165860,
+      "female": 223105
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 125735,
+      "female": 167555
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 90848,
+      "female": 120708
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 58106,
+      "female": 77176
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 31715,
+      "female": 48094
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 12033,
+      "female": 18059
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 3409,
+      "female": 5940
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 424,
+      "female": 783
+    },
+    {
+      "ageGroup": "100+",
+      "male": 27,
+      "female": 62
+    }
+  ]
+}

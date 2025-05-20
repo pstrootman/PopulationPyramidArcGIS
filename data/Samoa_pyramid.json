@@ -1,0 +1,112 @@
+{
+  "country": "Samoa",
+  "population": 210223,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 9737,
+      "female": 9263
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 9533,
+      "female": 8937
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 9467,
+      "female": 8781
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 10192,
+      "female": 9529
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 9995,
+      "female": 9568
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 9095,
+      "female": 8960
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 8438,
+      "female": 8555
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 7152,
+      "female": 7316
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 5685,
+      "female": 5515
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 5971,
+      "female": 5537
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 5360,
+      "female": 4892
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 4788,
+      "female": 4147
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 4036,
+      "female": 3982
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 3066,
+      "female": 3121
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1905,
+      "female": 2185
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1097,
+      "female": 1518
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 609,
+      "female": 992
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 312,
+      "female": 588
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 84,
+      "female": 220
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 19,
+      "female": 68
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 7
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Estonia",
+  "population": 1340478,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 30937,
+      "female": 29228
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 38441,
+      "female": 36297
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 38782,
+      "female": 37092
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 40457,
+      "female": 38454
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 33324,
+      "female": 32337
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 33176,
+      "female": 31550
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 42201,
+      "female": 39142
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 56217,
+      "female": 51974
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 52181,
+      "female": 49411
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 46738,
+      "female": 45395
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 44481,
+      "female": 45473
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 41325,
+      "female": 43279
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 38051,
+      "female": 46155
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 34561,
+      "female": 46900
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 26900,
+      "female": 42914
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 18484,
+      "female": 35564
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 10347,
+      "female": 24951
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 6336,
+      "female": 19900
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1699,
+      "female": 7649
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 318,
+      "female": 1684
+    },
+    {
+      "ageGroup": "100+",
+      "male": 32,
+      "female": 141
+    }
+  ]
+}

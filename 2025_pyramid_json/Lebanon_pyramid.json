@@ -1,0 +1,112 @@
+{
+  "country": "Lebanon",
+  "population": 5707137,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 244563,
+      "female": 234334
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 249712,
+      "female": 248093
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 241199,
+      "female": 245549
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 240752,
+      "female": 243524
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 257205,
+      "female": 242910
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 234180,
+      "female": 223496
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 188789,
+      "female": 196859
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 172024,
+      "female": 201100
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 171761,
+      "female": 189579
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 184615,
+      "female": 160477
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 190457,
+      "female": 154469
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 153474,
+      "female": 152934
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 114767,
+      "female": 131856
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 75470,
+      "female": 93351
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 48108,
+      "female": 67438
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 26842,
+      "female": 47247
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 16301,
+      "female": 31947
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 7951,
+      "female": 16095
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1891,
+      "female": 4775
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 237,
+      "female": 735
+    },
+    {
+      "ageGroup": "100+",
+      "male": 16,
+      "female": 55
+    }
+  ]
+}

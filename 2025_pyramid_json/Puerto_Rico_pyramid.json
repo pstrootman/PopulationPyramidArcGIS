@@ -1,0 +1,112 @@
+{
+  "country": "Puerto Rico",
+  "population": 2984841,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 58526,
+      "female": 55648
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 55808,
+      "female": 53969
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 69760,
+      "female": 67558
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 83043,
+      "female": 80392
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 88781,
+      "female": 86262
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 94657,
+      "female": 96246
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 94629,
+      "female": 99676
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 82791,
+      "female": 92278
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 77380,
+      "female": 91133
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 88253,
+      "female": 101051
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 90611,
+      "female": 102060
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 92991,
+      "female": 106631
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 95349,
+      "female": 113446
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 91359,
+      "female": 110162
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 81019,
+      "female": 101511
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 71737,
+      "female": 93308
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 47517,
+      "female": 66674
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 24899,
+      "female": 39964
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 9214,
+      "female": 19089
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 2134,
+      "female": 5869
+    },
+    {
+      "ageGroup": "100+",
+      "male": 313,
+      "female": 1143
+    }
+  ]
+}

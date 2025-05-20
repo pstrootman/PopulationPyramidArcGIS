@@ -1,0 +1,112 @@
+{
+  "country": "Bulgaria",
+  "population": 6737997,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 140126,
+      "female": 132233
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 154276,
+      "female": 145628
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 172847,
+      "female": 163515
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 191580,
+      "female": 181055
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 170465,
+      "female": 158529
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 167525,
+      "female": 154149
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 200257,
+      "female": 183961
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 250953,
+      "female": 235260
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 267935,
+      "female": 249007
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 290335,
+      "female": 272112
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 265118,
+      "female": 257690
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 229115,
+      "female": 234884
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 204474,
+      "female": 229868
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 185280,
+      "female": 233435
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 157373,
+      "female": 225661
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 123375,
+      "female": 201582
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 66009,
+      "female": 120534
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 31062,
+      "female": 58053
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 11134,
+      "female": 17417
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 1831,
+      "female": 2100
+    },
+    {
+      "ageGroup": "100+",
+      "male": 145,
+      "female": 109
+    }
+  ]
+}

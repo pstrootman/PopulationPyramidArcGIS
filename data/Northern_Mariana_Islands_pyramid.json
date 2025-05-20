@@ -1,0 +1,112 @@
+{
+  "country": "Northern Mariana Islands",
+  "population": 50946,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2057,
+      "female": 1771
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1857,
+      "female": 1607
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2032,
+      "female": 1748
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2679,
+      "female": 2274
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2312,
+      "female": 1904
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1862,
+      "female": 1676
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1648,
+      "female": 1445
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1045,
+      "female": 827
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1011,
+      "female": 944
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1401,
+      "female": 1558
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1897,
+      "female": 1870
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2201,
+      "female": 2047
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1943,
+      "female": 1677
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1504,
+      "female": 1298
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 839,
+      "female": 765
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 439,
+      "female": 382
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 135,
+      "female": 144
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 55,
+      "female": 53
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 12,
+      "female": 21
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 2,
+      "female": 4
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 0
+    }
+  ]
+}

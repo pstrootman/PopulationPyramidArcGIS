@@ -1,0 +1,107 @@
+{
+  "country": "Peru",
+  "population": 32970000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1586964,
+      "female": 1589132
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1461775,
+      "female": 1470131
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1371821,
+      "female": 1334670
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1244864,
+      "female": 1253542
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1150008,
+      "female": 1156311
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1085286,
+      "female": 1043715
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 975440,
+      "female": 989875
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 893422,
+      "female": 920792
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 843530,
+      "female": 831201
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 785646,
+      "female": 760325
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 724049,
+      "female": 703063
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 667964,
+      "female": 649425
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 618064,
+      "female": 598040
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 556330,
+      "female": 566276
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 515141,
+      "female": 521154
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 472544,
+      "female": 484077
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 446745,
+      "female": 436328
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 413059,
+      "female": 402119
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 375177,
+      "female": 377327
+    },
+    {
+      "ageGroup": "100+",
+      "male": 341150,
+      "female": 353499
+    }
+  ]
+}

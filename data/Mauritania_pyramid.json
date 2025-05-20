@@ -1,0 +1,112 @@
+{
+  "country": "Mauritania",
+  "population": 5202109,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 414552,
+      "female": 405210
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 371462,
+      "female": 362277
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 323131,
+      "female": 313023
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 283037,
+      "female": 272285
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 244168,
+      "female": 242568
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 194652,
+      "female": 201535
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 148332,
+      "female": 162171
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 124927,
+      "female": 137889
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 109746,
+      "female": 125371
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 90281,
+      "female": 102141
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 70266,
+      "female": 78468
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 58828,
+      "female": 66138
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 49494,
+      "female": 53883
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 37645,
+      "female": 40044
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 26686,
+      "female": 27693
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 16834,
+      "female": 17358
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 9042,
+      "female": 9938
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 3878,
+      "female": 4548
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1014,
+      "female": 1266
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 131,
+      "female": 176
+    },
+    {
+      "ageGroup": "100+",
+      "male": 8,
+      "female": 13
+    }
+  ]
+}

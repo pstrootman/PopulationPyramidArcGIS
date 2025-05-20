@@ -1,0 +1,112 @@
+{
+  "country": "Solomon Islands",
+  "population": 738774,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 39078,
+      "female": 37148
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 37903,
+      "female": 35760
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 37397,
+      "female": 35220
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 36727,
+      "female": 34648
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 35227,
+      "female": 33347
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 32683,
+      "female": 31004
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 29248,
+      "female": 27891
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 25578,
+      "female": 24597
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 22387,
+      "female": 21708
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 20684,
+      "female": 20139
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 17725,
+      "female": 17255
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 13599,
+      "female": 12768
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 9975,
+      "female": 9226
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 7254,
+      "female": 7077
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 4888,
+      "female": 5517
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 3351,
+      "female": 3968
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 2101,
+      "female": 2512
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 935,
+      "female": 1302
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 274,
+      "female": 486
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 48,
+      "female": 118
+    },
+    {
+      "ageGroup": "100+",
+      "male": 5,
+      "female": 16
+    }
+  ]
+}

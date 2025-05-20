@@ -1,0 +1,112 @@
+{
+  "country": "Marshall Islands",
+  "population": 83037,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 4232,
+      "female": 4066
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 4085,
+      "female": 3935
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 4118,
+      "female": 3972
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 4167,
+      "female": 4014
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3861,
+      "female": 3737
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3499,
+      "female": 3403
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2588,
+      "female": 2510
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 3327,
+      "female": 3207
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 3124,
+      "female": 3028
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2310,
+      "female": 2101
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1811,
+      "female": 1680
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1432,
+      "female": 1511
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1141,
+      "female": 1238
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 982,
+      "female": 1020
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 752,
+      "female": 763
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 407,
+      "female": 434
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 172,
+      "female": 212
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 61,
+      "female": 87
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 15,
+      "female": 27
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 2,
+      "female": 5
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 1
+    }
+  ]
+}

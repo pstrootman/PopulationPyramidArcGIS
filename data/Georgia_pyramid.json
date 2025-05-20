@@ -1,0 +1,112 @@
+{
+  "country": "Georgia",
+  "population": 4877662,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 153419,
+      "female": 144819
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 182007,
+      "female": 172069
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 176472,
+      "female": 166174
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 147373,
+      "female": 139757
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 128780,
+      "female": 116698
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 146914,
+      "female": 130744
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 181420,
+      "female": 176696
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 192411,
+      "female": 194077
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 165102,
+      "female": 176929
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 140844,
+      "female": 158064
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 133114,
+      "female": 148255
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 122228,
+      "female": 144379
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 129571,
+      "female": 176724
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 116202,
+      "female": 160428
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 89700,
+      "female": 126790
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 53946,
+      "female": 81465
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 29548,
+      "female": 51501
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 26532,
+      "female": 51689
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 9078,
+      "female": 21536
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 2911,
+      "female": 9226
+    },
+    {
+      "ageGroup": "100+",
+      "male": 310,
+      "female": 1760
+    }
+  ]
+}

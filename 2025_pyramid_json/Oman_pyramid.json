@@ -1,0 +1,112 @@
+{
+  "country": "Oman",
+  "population": 3969824,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 209567,
+      "female": 200090
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 206399,
+      "female": 196726
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 185742,
+      "female": 176338
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 158031,
+      "female": 148989
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 170347,
+      "female": 148499
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 210889,
+      "female": 165542
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 222146,
+      "female": 167991
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 203799,
+      "female": 154626
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 178226,
+      "female": 139595
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 132685,
+      "female": 105916
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 83759,
+      "female": 65911
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 55348,
+      "female": 46537
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 37925,
+      "female": 36085
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 27568,
+      "female": 29781
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 20142,
+      "female": 23636
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 14233,
+      "female": 16892
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 8461,
+      "female": 10310
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 3617,
+      "female": 4543
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1018,
+      "female": 1412
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 165,
+      "female": 291
+    },
+    {
+      "ageGroup": "100+",
+      "male": 13,
+      "female": 34
+    }
+  ]
+}

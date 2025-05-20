@@ -1,0 +1,112 @@
+{
+  "country": "Central African Republic",
+  "population": 5750570,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 406320,
+      "female": 396809
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 371598,
+      "female": 358002
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 345666,
+      "female": 321069
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 317981,
+      "female": 291885
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 287691,
+      "female": 265506
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 248077,
+      "female": 239025
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 196488,
+      "female": 212399
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 149691,
+      "female": 186265
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 116537,
+      "female": 149692
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 102736,
+      "female": 119899
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 91576,
+      "female": 95854
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 80310,
+      "female": 81087
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 59750,
+      "female": 56422
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 41322,
+      "female": 42512
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 23604,
+      "female": 30261
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 14170,
+      "female": 20638
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 7868,
+      "female": 12161
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 2785,
+      "female": 4855
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 625,
+      "female": 1194
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 71,
+      "female": 156
+    },
+    {
+      "ageGroup": "100+",
+      "male": 4,
+      "female": 9
+    }
+  ]
+}

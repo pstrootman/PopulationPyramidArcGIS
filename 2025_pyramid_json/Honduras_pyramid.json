@@ -1,0 +1,112 @@
+{
+  "country": "Honduras",
+  "population": 9652170,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 468470,
+      "female": 456518
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 448739,
+      "female": 441001
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 458131,
+      "female": 452298
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 467037,
+      "female": 473137
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 468897,
+      "female": 486467
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 426580,
+      "female": 455485
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 364811,
+      "female": 405520
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 309220,
+      "female": 353410
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 278660,
+      "female": 320431
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 244933,
+      "female": 281532
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 199245,
+      "female": 230553
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 155196,
+      "female": 185345
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 117653,
+      "female": 145512
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 93073,
+      "female": 116333
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 68249,
+      "female": 87595
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 44038,
+      "female": 58345
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 24125,
+      "female": 33178
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 9529,
+      "female": 15115
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 2367,
+      "female": 4388
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 319,
+      "female": 663
+    },
+    {
+      "ageGroup": "100+",
+      "male": 22,
+      "female": 50
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country": "Paraguay",
+  "population": 7133000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 346159,
+      "female": 340983
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 321153,
+      "female": 313159
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 289438,
+      "female": 296105
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 265292,
+      "female": 275233
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 246504,
+      "female": 252463
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 226479,
+      "female": 234126
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 213494,
+      "female": 211698
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 194682,
+      "female": 197819
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 184589,
+      "female": 177735
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 163917,
+      "female": 170550
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 156147,
+      "female": 152605
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 143773,
+      "female": 141242
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 130898,
+      "female": 132203
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 119068,
+      "female": 123805
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 111080,
+      "female": 113119
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 104377,
+      "female": 102585
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 96165,
+      "female": 94886
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 88381,
+      "female": 87981
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 80991,
+      "female": 81812
+    },
+    {
+      "ageGroup": "100+",
+      "male": 74354,
+      "female": 75932
+    }
+  ]
+}

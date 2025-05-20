@@ -1,0 +1,112 @@
+{
+  "country": "Saint Lucia",
+  "population": 168462,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 4902,
+      "female": 4633
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 5109,
+      "female": 4815
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 5262,
+      "female": 4942
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 5239,
+      "female": 4971
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 4924,
+      "female": 4766
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 5312,
+      "female": 5413
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 5719,
+      "female": 5824
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 5382,
+      "female": 5879
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 5813,
+      "female": 6346
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 5699,
+      "female": 6103
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 5679,
+      "female": 6302
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 5486,
+      "female": 6219
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 4857,
+      "female": 5726
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 3799,
+      "female": 4510
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 3142,
+      "female": 3618
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2118,
+      "female": 2507
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1595,
+      "female": 1904
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1043,
+      "female": 1301
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 437,
+      "female": 677
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 133,
+      "female": 262
+    },
+    {
+      "ageGroup": "100+",
+      "male": 28,
+      "female": 66
+    }
+  ]
+}

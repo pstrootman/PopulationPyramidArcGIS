@@ -1,0 +1,112 @@
+{
+  "country": "Trinidad and Tobago",
+  "population": 1410170,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 38384,
+      "female": 37049
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 43972,
+      "female": 42224
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 49905,
+      "female": 47781
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 48762,
+      "female": 46649
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 44959,
+      "female": 42848
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 43093,
+      "female": 40152
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 46745,
+      "female": 44470
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 56723,
+      "female": 55091
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 60339,
+      "female": 58322
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 50714,
+      "female": 48535
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 43397,
+      "female": 41294
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 40846,
+      "female": 40557
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 44931,
+      "female": 45838
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 36736,
+      "female": 38532
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 27047,
+      "female": 30020
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 18148,
+      "female": 21316
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 9164,
+      "female": 12519
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 3685,
+      "female": 5939
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 958,
+      "female": 1928
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 156,
+      "female": 390
+    },
+    {
+      "ageGroup": "100+",
+      "male": 13,
+      "female": 39
+    }
+  ]
+}

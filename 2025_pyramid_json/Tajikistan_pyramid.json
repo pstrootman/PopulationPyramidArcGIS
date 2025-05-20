@@ -1,0 +1,112 @@
+{
+  "country": "Tajikistan",
+  "population": 10593876,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 670796,
+      "female": 642832
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 673559,
+      "female": 647125
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 629660,
+      "female": 606264
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 490595,
+      "female": 473907
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 408119,
+      "female": 395850
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 377226,
+      "female": 368001
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 384184,
+      "female": 377212
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 392963,
+      "female": 387595
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 318758,
+      "female": 315154
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 252974,
+      "female": 251887
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 214771,
+      "female": 218398
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 170128,
+      "female": 185381
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 144091,
+      "female": 161524
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 97469,
+      "female": 112853
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 55055,
+      "female": 69445
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 23471,
+      "female": 30501
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 12711,
+      "female": 16018
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 5363,
+      "female": 8631
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 932,
+      "female": 2097
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 92,
+      "female": 268
+    },
+    {
+      "ageGroup": "100+",
+      "male": 3,
+      "female": 13
+    }
+  ]
+}

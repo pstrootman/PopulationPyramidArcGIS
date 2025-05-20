@@ -1,0 +1,112 @@
+{
+  "country": "C\u00f4te d\u2019Ivoire",
+  "population": 31855971,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2226619,
+      "female": 2192771
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2107013,
+      "female": 2085324
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1943186,
+      "female": 1931426
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1737376,
+      "female": 1732914
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1490610,
+      "female": 1492780
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1259581,
+      "female": 1259618
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1089013,
+      "female": 1075827
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 986248,
+      "female": 966814
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 822389,
+      "female": 800339
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 697531,
+      "female": 670437
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 573450,
+      "female": 546627
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 427868,
+      "female": 414853
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 229926,
+      "female": 224374
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 171348,
+      "female": 183037
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 120424,
+      "female": 141648
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 69792,
+      "female": 88272
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 29724,
+      "female": 39954
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 8998,
+      "female": 13195
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1668,
+      "female": 2586
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 138,
+      "female": 259
+    },
+    {
+      "ageGroup": "100+",
+      "male": 4,
+      "female": 10
+    }
+  ]
+}

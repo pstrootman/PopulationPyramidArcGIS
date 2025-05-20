@@ -1,0 +1,112 @@
+{
+  "country": "Bahrain",
+  "population": 1579544,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 48224,
+      "female": 47128
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 47988,
+      "female": 46949
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 47704,
+      "female": 46114
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 53152,
+      "female": 46422
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 72935,
+      "female": 52176
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 98351,
+      "female": 59911
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 110882,
+      "female": 63735
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 107614,
+      "female": 60305
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 101581,
+      "female": 52881
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 85132,
+      "female": 43290
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 60965,
+      "female": 33476
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 42582,
+      "female": 25810
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 31339,
+      "female": 21108
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 18057,
+      "female": 14781
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 9144,
+      "female": 8410
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 4838,
+      "female": 4905
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 2527,
+      "female": 3412
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1466,
+      "female": 2127
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 605,
+      "female": 994
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 158,
+      "female": 292
+    },
+    {
+      "ageGroup": "100+",
+      "male": 21,
+      "female": 53
+    }
+  ]
+}

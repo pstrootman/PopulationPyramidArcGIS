@@ -1,0 +1,112 @@
+{
+  "country": "Comoros",
+  "population": 911707,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 46127,
+      "female": 45831
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 47641,
+      "female": 47625
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 50779,
+      "female": 51213
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 51822,
+      "female": 53460
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 45834,
+      "female": 48751
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 35988,
+      "female": 39150
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 29857,
+      "female": 32789
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 27210,
+      "female": 30091
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 25034,
+      "female": 27805
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 20383,
+      "female": 23115
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 19526,
+      "female": 21438
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 12799,
+      "female": 13617
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 9556,
+      "female": 11229
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 6804,
+      "female": 8840
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 5095,
+      "female": 6831
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 3649,
+      "female": 4712
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 2018,
+      "female": 2595
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 846,
+      "female": 1057
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 217,
+      "female": 293
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 28,
+      "female": 46
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 4
+    }
+  ]
+}

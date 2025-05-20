@@ -1,0 +1,112 @@
+{
+  "country": "Haiti",
+  "population": 11898812,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 597268,
+      "female": 595973
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 596923,
+      "female": 598195
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 592896,
+      "female": 596189
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 578121,
+      "female": 587752
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 562695,
+      "female": 571933
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 553881,
+      "female": 559150
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 501334,
+      "female": 510295
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 431156,
+      "female": 440700
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 359902,
+      "female": 371008
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 294823,
+      "female": 306101
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 242032,
+      "female": 253353
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 190012,
+      "female": 202781
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 141002,
+      "female": 154916
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 97887,
+      "female": 115186
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 64975,
+      "female": 82519
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 37665,
+      "female": 53092
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 16110,
+      "female": 26155
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 4072,
+      "female": 8269
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 631,
+      "female": 1622
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 51,
+      "female": 176
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 9
+    }
+  ]
+}

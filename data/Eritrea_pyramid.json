@@ -1,0 +1,112 @@
+{
+  "country": "Eritrea",
+  "population": 6416435,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 389748,
+      "female": 383808
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 371264,
+      "female": 366751
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 371166,
+      "female": 367069
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 364342,
+      "female": 363144
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 318662,
+      "female": 323477
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 254531,
+      "female": 263418
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 206300,
+      "female": 215892
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 182753,
+      "female": 190116
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 169118,
+      "female": 178416
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 152187,
+      "female": 159165
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 126728,
+      "female": 134897
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 92388,
+      "female": 94297
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 55906,
+      "female": 61867
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 36441,
+      "female": 51783
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 28190,
+      "female": 44717
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 20453,
+      "female": 31992
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 12053,
+      "female": 17969
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 4812,
+      "female": 7365
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1096,
+      "female": 1776
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 136,
+      "female": 221
+    },
+    {
+      "ageGroup": "100+",
+      "male": 7,
+      "female": 14
+    }
+  ]
+}

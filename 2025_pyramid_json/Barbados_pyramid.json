@@ -1,0 +1,112 @@
+{
+  "country": "Barbados",
+  "population": 304794,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 8109,
+      "female": 8059
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 8366,
+      "female": 8368
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 8619,
+      "female": 8676
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 8834,
+      "female": 8956
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 9015,
+      "female": 9210
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 9006,
+      "female": 9256
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 10077,
+      "female": 10258
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 9961,
+      "female": 10064
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 10538,
+      "female": 10753
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 9943,
+      "female": 10261
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 10846,
+      "female": 11196
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 11293,
+      "female": 11856
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 10231,
+      "female": 11139
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 8724,
+      "female": 10261
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 6397,
+      "female": 8234
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 3605,
+      "female": 5127
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 2017,
+      "female": 3315
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 877,
+      "female": 1835
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 301,
+      "female": 821
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 72,
+      "female": 262
+    },
+    {
+      "ageGroup": "100+",
+      "male": 8,
+      "female": 48
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Maldives",
+  "population": 388010,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 14871,
+      "female": 14268
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 15150,
+      "female": 14574
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 14388,
+      "female": 13857
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 13914,
+      "female": 13137
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 14301,
+      "female": 13030
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 17466,
+      "female": 16009
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 20890,
+      "female": 19607
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 20393,
+      "female": 19359
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 16186,
+      "female": 15596
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 12161,
+      "female": 11690
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 9598,
+      "female": 10302
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 8166,
+      "female": 9188
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 6741,
+      "female": 7871
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 4637,
+      "female": 5843
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 2418,
+      "female": 3162
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1644,
+      "female": 2157
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1323,
+      "female": 1782
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 688,
+      "female": 958
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 229,
+      "female": 335
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 41,
+      "female": 70
+    },
+    {
+      "ageGroup": "100+",
+      "male": 3,
+      "female": 7
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country": "Senegal",
+  "population": 16740000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1249037,
+      "female": 1204885
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1065162,
+      "female": 1046947
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 915628,
+      "female": 902281
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 780155,
+      "female": 784534
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 671652,
+      "female": 675088
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 580450,
+      "female": 578700
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 506444,
+      "female": 491245
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 432229,
+      "female": 426490
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 367247,
+      "female": 371859
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 321483,
+      "female": 314671
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 270528,
+      "female": 277015
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 231543,
+      "female": 239732
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 200126,
+      "female": 205503
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 177533,
+      "female": 171596
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 149757,
+      "female": 150740
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 127150,
+      "female": 131491
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 109143,
+      "female": 113471
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 95680,
+      "female": 95925
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 82220,
+      "female": 82697
+    },
+    {
+      "ageGroup": "100+",
+      "male": 70786,
+      "female": 71158
+    }
+  ]
+}

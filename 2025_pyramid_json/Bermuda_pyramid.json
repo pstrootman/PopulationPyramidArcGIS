@@ -1,0 +1,112 @@
+{
+  "country": "Bermuda",
+  "population": 73007,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2039,
+      "female": 1940
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2057,
+      "female": 1949
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2038,
+      "female": 1929
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2069,
+      "female": 1957
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2205,
+      "female": 2075
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2249,
+      "female": 2108
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2288,
+      "female": 2176
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2126,
+      "female": 2106
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2058,
+      "female": 2001
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1869,
+      "female": 1862
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2022,
+      "female": 2001
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2377,
+      "female": 2459
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2828,
+      "female": 3116
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2479,
+      "female": 2994
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1914,
+      "female": 2339
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1368,
+      "female": 1797
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 861,
+      "female": 1303
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 413,
+      "female": 791
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 192,
+      "female": 423
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 44,
+      "female": 146
+    },
+    {
+      "ageGroup": "100+",
+      "male": 7,
+      "female": 32
+    }
+  ]
+}

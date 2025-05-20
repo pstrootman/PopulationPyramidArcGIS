@@ -1,0 +1,112 @@
+{
+  "country": "Guam",
+  "population": 169691,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 7738,
+      "female": 7249
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 7652,
+      "female": 7181
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 7560,
+      "female": 7037
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 7292,
+      "female": 6518
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 6925,
+      "female": 5948
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 6791,
+      "female": 5693
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 6287,
+      "female": 5602
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 5330,
+      "female": 4947
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 4382,
+      "female": 4196
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 4206,
+      "female": 4094
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 4654,
+      "female": 4613
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 4901,
+      "female": 4531
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 4744,
+      "female": 4454
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 3465,
+      "female": 3473
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 2580,
+      "female": 2794
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1744,
+      "female": 2073
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 742,
+      "female": 968
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 348,
+      "female": 624
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 92,
+      "female": 214
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 14,
+      "female": 30
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 4
+    }
+  ]
+}

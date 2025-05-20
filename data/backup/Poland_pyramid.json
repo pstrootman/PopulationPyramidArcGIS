@@ -1,0 +1,107 @@
+{
+  "country": "Poland",
+  "population": 37970000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 677445,
+      "female": 677249
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 881400,
+      "female": 852273
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1066053,
+      "female": 1065625
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1281380,
+      "female": 1236900
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1406186,
+      "female": 1452159
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1573787,
+      "female": 1543334
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1619007,
+      "female": 1647027
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1618911,
+      "female": 1668969
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1579488,
+      "female": 1600603
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1482335,
+      "female": 1472895
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1305034,
+      "female": 1333551
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1118224,
+      "female": 1145270
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 938037,
+      "female": 927551
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 744223,
+      "female": 733116
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 556774,
+      "female": 567243
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 412515,
+      "female": 409149
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 291290,
+      "female": 285799
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 190990,
+      "female": 198432
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 126893,
+      "female": 125586
+    },
+    {
+      "ageGroup": "100+",
+      "male": 79031,
+      "female": 78244
+    }
+  ]
+}

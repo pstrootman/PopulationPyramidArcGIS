@@ -1,0 +1,107 @@
+{
+  "country": "Portugal",
+  "population": 10280000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 182122,
+      "female": 184648
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 237788,
+      "female": 231586
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 290218,
+      "female": 286912
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 345466,
+      "female": 336333
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 383458,
+      "female": 390410
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 426613,
+      "female": 417316
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 435285,
+      "female": 448960
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 438391,
+      "female": 451769
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 434864,
+      "female": 426113
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 398653,
+      "female": 401446
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 355082,
+      "female": 359288
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 308056,
+      "female": 304762
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 251161,
+      "female": 253927
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 198113,
+      "female": 201861
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 152324,
+      "female": 151992
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 111078,
+      "female": 111378
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 77921,
+      "female": 78319
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 52242,
+      "female": 53189
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 34105,
+      "female": 34251
+    },
+    {
+      "ageGroup": "100+",
+      "male": 21168,
+      "female": 21412
+    }
+  ]
+}

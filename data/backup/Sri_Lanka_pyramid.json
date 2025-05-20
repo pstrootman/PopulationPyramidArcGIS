@@ -1,0 +1,107 @@
+{
+  "country": "Sri Lanka",
+  "population": 21410000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1028168,
+      "female": 1034319
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 938305,
+      "female": 965611
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 893090,
+      "female": 864445
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 810680,
+      "female": 811730
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 749413,
+      "female": 748259
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 693536,
+      "female": 688990
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 643775,
+      "female": 632458
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 590445,
+      "female": 587666
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 545634,
+      "female": 541900
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 503857,
+      "female": 500063
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 458153,
+      "female": 468581
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 419198,
+      "female": 436286
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 392903,
+      "female": 396808
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 363399,
+      "female": 365596
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 330118,
+      "female": 342829
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 314720,
+      "female": 306488
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 282533,
+      "female": 290914
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 264432,
+      "female": 264927
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 240667,
+      "female": 247993
+    },
+    {
+      "ageGroup": "100+",
+      "male": 226717,
+      "female": 224373
+    }
+  ]
+}

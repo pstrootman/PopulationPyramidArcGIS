@@ -1,0 +1,112 @@
+{
+  "country": "Congo (Kinshasa)",
+  "population": 119038825,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 10326567,
+      "female": 10148432
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 8967355,
+      "female": 8844468
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 7951793,
+      "female": 7860881
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 6459266,
+      "female": 6403692
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 5202351,
+      "female": 5182861
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 4516072,
+      "female": 4516088
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3814829,
+      "female": 3819227
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 3055627,
+      "female": 3055789
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2447676,
+      "female": 2443205
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1937669,
+      "female": 1940477
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1507983,
+      "female": 1517494
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1170178,
+      "female": 1208083
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 844329,
+      "female": 913330
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 585555,
+      "female": 678799
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 376659,
+      "female": 476305
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 215510,
+      "female": 301552
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 95545,
+      "female": 152095
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 28172,
+      "female": 53140
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 5373,
+      "female": 12224
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 540,
+      "female": 1513
+    },
+    {
+      "ageGroup": "100+",
+      "male": 27,
+      "female": 94
+    }
+  ]
+}

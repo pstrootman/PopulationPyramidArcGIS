@@ -1,0 +1,112 @@
+{
+  "country": "Gaza Strip",
+  "population": 2184652,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 144119,
+      "female": 136327
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 142105,
+      "female": 134086
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 140933,
+      "female": 133551
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 135715,
+      "female": 129951
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 115490,
+      "female": 110842
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 95370,
+      "female": 92751
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 82008,
+      "female": 82209
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 62395,
+      "female": 64135
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 45391,
+      "female": 47752
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 37929,
+      "female": 39954
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 28703,
+      "female": 30029
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 24364,
+      "female": 24363
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 20146,
+      "female": 18746
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 14290,
+      "female": 13199
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 9459,
+      "female": 8445
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 5729,
+      "female": 5219
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 2583,
+      "female": 2795
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1091,
+      "female": 1414
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 345,
+      "female": 542
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 53,
+      "female": 108
+    },
+    {
+      "ageGroup": "100+",
+      "male": 4,
+      "female": 12
+    }
+  ]
+}

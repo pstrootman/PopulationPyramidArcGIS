@@ -1,0 +1,112 @@
+{
+  "country": "Saint Martin",
+  "population": 33093,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1281,
+      "female": 1273
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1463,
+      "female": 1498
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1270,
+      "female": 1307
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 828,
+      "female": 849
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 850,
+      "female": 883
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1172,
+      "female": 1238
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1494,
+      "female": 1552
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1512,
+      "female": 1510
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1261,
+      "female": 1385
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 992,
+      "female": 1213
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 800,
+      "female": 977
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 679,
+      "female": 753
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 632,
+      "female": 712
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 566,
+      "female": 689
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 440,
+      "female": 565
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 307,
+      "female": 406
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 171,
+      "female": 250
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 76,
+      "female": 135
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 26,
+      "female": 54
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 5,
+      "female": 15
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 4
+    }
+  ]
+}

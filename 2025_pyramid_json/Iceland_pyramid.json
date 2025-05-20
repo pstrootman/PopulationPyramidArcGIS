@@ -1,0 +1,112 @@
+{
+  "country": "Iceland",
+  "population": 367086,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 11927,
+      "female": 11424
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 12260,
+      "female": 11788
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 12343,
+      "female": 11878
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 12377,
+      "female": 11963
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 11356,
+      "female": 11185
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 11842,
+      "female": 11687
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 12931,
+      "female": 12451
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 12580,
+      "female": 12011
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 12381,
+      "female": 11807
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 11627,
+      "female": 11364
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 11064,
+      "female": 10772
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 10280,
+      "female": 10398
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 10408,
+      "female": 10780
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 9829,
+      "female": 10008
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 8128,
+      "female": 8266
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 6042,
+      "female": 6419
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 3505,
+      "female": 4388
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1704,
+      "female": 2564
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 825,
+      "female": 1513
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 278,
+      "female": 561
+    },
+    {
+      "ageGroup": "100+",
+      "male": 59,
+      "female": 113
+    }
+  ]
+}

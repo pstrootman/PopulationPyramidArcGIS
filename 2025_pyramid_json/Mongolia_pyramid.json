@@ -1,0 +1,112 @@
+{
+  "country": "Mongolia",
+  "population": 3543677,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 175458,
+      "female": 167508
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 197951,
+      "female": 189176
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 193245,
+      "female": 185383
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 137181,
+      "female": 132241
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 112033,
+      "female": 108374
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 118592,
+      "female": 115203
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 128104,
+      "female": 127238
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 143557,
+      "female": 148622
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 115772,
+      "female": 126006
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 102485,
+      "female": 115281
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 90498,
+      "female": 101604
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 74709,
+      "female": 88305
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 60696,
+      "female": 77378
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 40778,
+      "female": 56006
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 21767,
+      "female": 32648
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 10888,
+      "female": 18523
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 6588,
+      "female": 11925
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 2813,
+      "female": 5911
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 672,
+      "female": 2047
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 90,
+      "female": 382
+    },
+    {
+      "ageGroup": "100+",
+      "male": 5,
+      "female": 34
+    }
+  ]
+}

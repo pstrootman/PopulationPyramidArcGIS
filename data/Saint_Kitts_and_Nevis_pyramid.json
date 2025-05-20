@@ -1,0 +1,112 @@
+{
+  "country": "Saint Kitts and Nevis",
+  "population": 55434,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1682,
+      "female": 1646
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1803,
+      "female": 1780
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1799,
+      "female": 1818
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1596,
+      "female": 1680
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1581,
+      "female": 1662
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1751,
+      "female": 1911
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1918,
+      "female": 1869
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2020,
+      "female": 1939
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2126,
+      "female": 2018
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2156,
+      "female": 2009
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1961,
+      "female": 1852
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1928,
+      "female": 1781
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1875,
+      "female": 1804
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1496,
+      "female": 1599
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 990,
+      "female": 1002
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 536,
+      "female": 570
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 299,
+      "female": 369
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 151,
+      "female": 221
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 60,
+      "female": 109
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 16,
+      "female": 39
+    },
+    {
+      "ageGroup": "100+",
+      "male": 4,
+      "female": 8
+    }
+  ]
+}

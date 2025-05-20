@@ -1,0 +1,107 @@
+{
+  "country": "Colombia",
+  "population": 50880000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2462625,
+      "female": 2438794
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2307522,
+      "female": 2217057
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2068332,
+      "female": 2108381
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1944665,
+      "female": 1910927
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1801803,
+      "female": 1757358
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1655309,
+      "female": 1630210
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1487751,
+      "female": 1545165
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1401631,
+      "female": 1398104
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1306440,
+      "female": 1278041
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1212019,
+      "female": 1173757
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1114841,
+      "female": 1087508
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1023576,
+      "female": 1009449
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 940896,
+      "female": 935822
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 876842,
+      "female": 855587
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 799603,
+      "female": 799630
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 741289,
+      "female": 734989
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 692313,
+      "female": 670463
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 631882,
+      "female": 626119
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 569170,
+      "female": 592111
+    },
+    {
+      "ageGroup": "100+",
+      "male": 544813,
+      "female": 527185
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Panama",
+  "population": 4536008,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 197404,
+      "female": 186176
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 194712,
+      "female": 183240
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 187273,
+      "female": 179165
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 173320,
+      "female": 167106
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 170938,
+      "female": 165953
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 175323,
+      "female": 171411
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 171113,
+      "female": 167793
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 167942,
+      "female": 162343
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 151841,
+      "female": 147542
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 143872,
+      "female": 140277
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 126783,
+      "female": 125369
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 111790,
+      "female": 111104
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 93166,
+      "female": 93571
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 70245,
+      "female": 72997
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 54477,
+      "female": 59624
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 40763,
+      "female": 47253
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 29019,
+      "female": 35661
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 16237,
+      "female": 21631
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 6457,
+      "female": 10402
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 1296,
+      "female": 2863
+    },
+    {
+      "ageGroup": "100+",
+      "male": 134,
+      "female": 422
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Afghanistan",
+  "population": 49474805,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 4301893,
+      "female": 4121153
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 3327401,
+      "female": 3180901
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 3050080,
+      "female": 2918775
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2834261,
+      "female": 2717662
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2408192,
+      "female": 2340015
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2113242,
+      "female": 2077217
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1657248,
+      "female": 1634263
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1299978,
+      "female": 1286424
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 942698,
+      "female": 940299
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 799078,
+      "female": 791062
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 687640,
+      "female": 684470
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 548893,
+      "female": 542861
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 418521,
+      "female": 425381
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 299387,
+      "female": 317939
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 193389,
+      "female": 221186
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 107950,
+      "female": 133400
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 46009,
+      "female": 63568
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 12790,
+      "female": 20402
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 2402,
+      "female": 4176
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 840,
+      "female": 1535
+    },
+    {
+      "ageGroup": "100+",
+      "male": 75,
+      "female": 149
+    }
+  ]
+}

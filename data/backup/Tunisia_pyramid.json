@@ -1,0 +1,107 @@
+{
+  "country": "Tunisia",
+  "population": 11820000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 558753,
+      "female": 579901
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 520443,
+      "female": 530667
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 479033,
+      "female": 491264
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 439299,
+      "female": 456398
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 411669,
+      "female": 415163
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 386557,
+      "female": 376705
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 346025,
+      "female": 358555
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 325892,
+      "female": 324517
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 302340,
+      "female": 298063
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 271840,
+      "female": 282402
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 256269,
+      "female": 255361
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 240175,
+      "female": 232118
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 215342,
+      "female": 220640
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 197208,
+      "female": 205254
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 184498,
+      "female": 187021
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 174515,
+      "female": 168441
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 156609,
+      "female": 159978
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 147322,
+      "female": 144925
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 132476,
+      "female": 137302
+    },
+    {
+      "ageGroup": "100+",
+      "male": 124498,
+      "female": 124539
+    }
+  ]
+}

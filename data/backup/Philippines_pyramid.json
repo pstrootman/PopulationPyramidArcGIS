@@ -1,0 +1,107 @@
+{
+  "country": "Philippines",
+  "population": 109600000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 5279397,
+      "female": 5278692
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 4920765,
+      "female": 4825579
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 4419219,
+      "female": 4577790
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 4087229,
+      "female": 4218058
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3799309,
+      "female": 3867437
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3490837,
+      "female": 3586461
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3319559,
+      "female": 3213610
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2968965,
+      "female": 3061911
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2819611,
+      "female": 2747588
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2550762,
+      "female": 2588411
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2403284,
+      "female": 2340771
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2149857,
+      "female": 2229458
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2017329,
+      "female": 2025287
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1871790,
+      "female": 1860015
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1727090,
+      "female": 1717801
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1575833,
+      "female": 1604202
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1446967,
+      "female": 1488575
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1375165,
+      "female": 1334681
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1271038,
+      "female": 1230466
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1165878,
+      "female": 1143301
+    }
+  ]
+}

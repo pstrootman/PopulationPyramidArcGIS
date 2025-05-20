@@ -1,0 +1,112 @@
+{
+  "country": "Lesotho",
+  "population": 2244643,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 120022,
+      "female": 117975
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 116431,
+      "female": 115013
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 119710,
+      "female": 118589
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 119092,
+      "female": 118200
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 107936,
+      "female": 106579
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 95526,
+      "female": 93456
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 88911,
+      "female": 85248
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 83233,
+      "female": 77578
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 73140,
+      "female": 67875
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 56212,
+      "female": 54526
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 36277,
+      "female": 38472
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 27140,
+      "female": 33078
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 22312,
+      "female": 31150
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 17720,
+      "female": 26998
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 12479,
+      "female": 19911
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 8208,
+      "female": 14101
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 4252,
+      "female": 8778
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1800,
+      "female": 4532
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 485,
+      "female": 1399
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 63,
+      "female": 217
+    },
+    {
+      "ageGroup": "100+",
+      "male": 4,
+      "female": 15
+    }
+  ]
+}

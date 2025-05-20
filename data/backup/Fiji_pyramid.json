@@ -1,0 +1,107 @@
+{
+  "country": "Fiji",
+  "population": 896000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 42431,
+      "female": 43882
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 39653,
+      "female": 40024
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 37120,
+      "female": 36431
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 34542,
+      "female": 33354
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 30956,
+      "female": 31720
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 28707,
+      "female": 29151
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 26283,
+      "female": 27126
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 24925,
+      "female": 24378
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 22723,
+      "female": 22789
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 20681,
+      "female": 21332
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 19244,
+      "female": 19538
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 18111,
+      "female": 17690
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 16371,
+      "female": 16677
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 15246,
+      "female": 15261
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 14353,
+      "female": 13809
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 12993,
+      "female": 13003
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 12233,
+      "female": 11765
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 11172,
+      "female": 10980
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 10392,
+      "female": 10058
+    },
+    {
+      "ageGroup": "100+",
+      "male": 9262,
+      "female": 9615
+    }
+  ]
+}

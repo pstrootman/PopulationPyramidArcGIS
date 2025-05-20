@@ -1,0 +1,107 @@
+{
+  "country": "Italy",
+  "population": 60460000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1069578,
+      "female": 1087516
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1364589,
+      "female": 1395957
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1718034,
+      "female": 1676258
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2003731,
+      "female": 2006152
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2264757,
+      "female": 2286615
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2457745,
+      "female": 2505677
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2562884,
+      "female": 2637655
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2587809,
+      "female": 2647515
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2495550,
+      "female": 2568140
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2308450,
+      "female": 2397191
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2116790,
+      "female": 2084656
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1819159,
+      "female": 1785025
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1476589,
+      "female": 1494005
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1185969,
+      "female": 1166413
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 896706,
+      "female": 893078
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 663768,
+      "female": 644575
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 467765,
+      "female": 451141
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 305776,
+      "female": 314304
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 198117,
+      "female": 203908
+    },
+    {
+      "ageGroup": "100+",
+      "male": 125781,
+      "female": 124650
+    }
+  ]
+}

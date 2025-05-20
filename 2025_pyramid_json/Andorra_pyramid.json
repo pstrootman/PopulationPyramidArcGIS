@@ -1,0 +1,112 @@
+{
+  "country": "Andorra",
+  "population": 85266,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1514,
+      "female": 1422
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1641,
+      "female": 1542
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1981,
+      "female": 1859
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2276,
+      "female": 2153
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2329,
+      "female": 2250
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2133,
+      "female": 1968
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2018,
+      "female": 1906
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1980,
+      "female": 1854
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2717,
+      "female": 2706
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3747,
+      "female": 3639
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 4162,
+      "female": 4092
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 4048,
+      "female": 3855
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 3819,
+      "female": 3537
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 3095,
+      "female": 2791
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 2316,
+      "female": 2130
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1759,
+      "female": 1678
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1103,
+      "female": 1149
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 548,
+      "female": 657
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 270,
+      "female": 348
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 84,
+      "female": 143
+    },
+    {
+      "ageGroup": "100+",
+      "male": 17,
+      "female": 30
+    }
+  ]
+}

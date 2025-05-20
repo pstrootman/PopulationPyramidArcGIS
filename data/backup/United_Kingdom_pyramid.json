@@ -1,0 +1,107 @@
+{
+  "country": "United Kingdom",
+  "population": 67800000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1232541,
+      "female": 1186430
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1527138,
+      "female": 1568546
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1892548,
+      "female": 1913820
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2275142,
+      "female": 2221552
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2510405,
+      "female": 2593516
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2729954,
+      "female": 2836040
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2902486,
+      "female": 2929411
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2956811,
+      "female": 2914096
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2865854,
+      "female": 2812581
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2629650,
+      "female": 2647269
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2364125,
+      "female": 2347387
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2014143,
+      "female": 2027599
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1684388,
+      "female": 1646844
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1294044,
+      "female": 1343924
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1011233,
+      "female": 995835
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 731414,
+      "female": 735765
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 505486,
+      "female": 524977
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 347860,
+      "female": 347500
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 223724,
+      "female": 227109
+    },
+    {
+      "ageGroup": "100+",
+      "male": 137733,
+      "female": 143100
+    }
+  ]
+}

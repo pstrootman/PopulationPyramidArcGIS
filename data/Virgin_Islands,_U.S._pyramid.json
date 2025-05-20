@@ -1,0 +1,112 @@
+{
+  "country": "Virgin Islands, U.S.",
+  "population": 103792,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 3046,
+      "female": 2889
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 3384,
+      "female": 3218
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 3322,
+      "female": 3220
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2952,
+      "female": 3081
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2131,
+      "female": 2453
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2145,
+      "female": 2572
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2777,
+      "female": 3243
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2982,
+      "female": 3403
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 3350,
+      "female": 3675
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2675,
+      "female": 2944
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3144,
+      "female": 3541
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3527,
+      "female": 3722
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 3531,
+      "female": 3932
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 3215,
+      "female": 3609
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 2463,
+      "female": 3125
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2195,
+      "female": 2687
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1496,
+      "female": 1880
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 637,
+      "female": 938
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 186,
+      "female": 374
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 34,
+      "female": 79
+    },
+    {
+      "ageGroup": "100+",
+      "male": 3,
+      "female": 12
+    }
+  ]
+}

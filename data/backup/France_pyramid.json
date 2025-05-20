@@ -1,0 +1,107 @@
+{
+  "country": "France",
+  "population": 67400000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1219107,
+      "female": 1185592
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1542723,
+      "female": 1534697
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1889009,
+      "female": 1894903
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2273226,
+      "female": 2196938
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2543553,
+      "female": 2530256
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2726494,
+      "female": 2806662
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2916700,
+      "female": 2880791
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2896796,
+      "female": 2939474
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2868079,
+      "female": 2776855
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2641149,
+      "female": 2604638
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2297154,
+      "female": 2386562
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1997813,
+      "female": 2020083
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1651414,
+      "female": 1660165
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1301508,
+      "female": 1320896
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 986134,
+      "female": 1009093
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 735992,
+      "female": 722532
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 506848,
+      "female": 517535
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 341900,
+      "female": 349358
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 225236,
+      "female": 222937
+    },
+    {
+      "ageGroup": "100+",
+      "male": 141995,
+      "female": 137181
+    }
+  ]
+}

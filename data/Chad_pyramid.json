@@ -1,0 +1,112 @@
+{
+  "country": "Chad",
+  "population": 19674004,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1706375,
+      "female": 1661090
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1492059,
+      "female": 1458205
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1322601,
+      "female": 1294900
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1135464,
+      "female": 1118355
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 926442,
+      "female": 922498
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 709250,
+      "female": 713804
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 576000,
+      "female": 587999
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 535375,
+      "female": 557785
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 392913,
+      "female": 403973
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 275000,
+      "female": 298528
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 204124,
+      "female": 252539
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 148408,
+      "female": 203667
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 119667,
+      "female": 159349
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 92241,
+      "female": 119151
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 61454,
+      "female": 82272
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 35780,
+      "female": 49784
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 16417,
+      "female": 23757
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 5305,
+      "female": 8132
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1112,
+      "female": 1835
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 133,
+      "female": 237
+    },
+    {
+      "ageGroup": "100+",
+      "male": 9,
+      "female": 15
+    }
+  ]
+}

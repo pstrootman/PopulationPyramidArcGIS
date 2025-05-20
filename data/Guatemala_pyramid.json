@@ -1,0 +1,112 @@
+{
+  "country": "Guatemala",
+  "population": 18525963,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 968725,
+      "female": 930144
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 979248,
+      "female": 943970
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 971795,
+      "female": 940407
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 909786,
+      "female": 892136
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 843931,
+      "female": 840061
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 818456,
+      "female": 820506
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 750880,
+      "female": 758247
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 637629,
+      "female": 650880
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 528703,
+      "female": 546378
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 449857,
+      "female": 475169
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 369910,
+      "female": 400593
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 272213,
+      "female": 310382
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 228108,
+      "female": 264923
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 178127,
+      "female": 214124
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 130321,
+      "female": 159709
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 82850,
+      "female": 103574
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 42803,
+      "female": 58168
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 15283,
+      "female": 24063
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 3996,
+      "female": 7564
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 635,
+      "female": 1524
+    },
+    {
+      "ageGroup": "100+",
+      "male": 47,
+      "female": 138
+    }
+  ]
+}

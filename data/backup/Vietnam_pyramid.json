@@ -1,0 +1,107 @@
+{
+  "country": "Vietnam",
+  "population": 97340000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 4725850,
+      "female": 4651197
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 4353664,
+      "female": 4302441
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 3976602,
+      "female": 4013990
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 3746997,
+      "female": 3629249
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3384183,
+      "female": 3424950
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3192580,
+      "female": 3093043
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2892170,
+      "female": 2910191
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2698528,
+      "female": 2657726
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2479637,
+      "female": 2464808
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2301475,
+      "female": 2262824
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2114312,
+      "female": 2099066
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1953963,
+      "female": 1935476
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1803119,
+      "female": 1787285
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1681159,
+      "female": 1633201
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1512482,
+      "female": 1547059
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1394002,
+      "female": 1430310
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1286137,
+      "female": 1321032
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1205895,
+      "female": 1200824
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1109565,
+      "female": 1112117
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1031659,
+      "female": 1019212
+    }
+  ]
+}

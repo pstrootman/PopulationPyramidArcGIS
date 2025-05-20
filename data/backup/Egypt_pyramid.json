@@ -1,0 +1,107 @@
+{
+  "country": "Egypt",
+  "population": 102300000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 7447957,
+      "female": 7548232
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 6567996,
+      "female": 6339343
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 5519651,
+      "female": 5589799
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 4809329,
+      "female": 4752664
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 4047651,
+      "female": 4182432
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3510705,
+      "female": 3572992
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3055228,
+      "female": 3041767
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2634803,
+      "female": 2612929
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2272176,
+      "female": 2244589
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1915769,
+      "female": 1971847
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1641068,
+      "female": 1705033
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1451331,
+      "female": 1428685
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1261353,
+      "female": 1217499
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1079179,
+      "female": 1054389
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 922514,
+      "female": 913865
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 804961,
+      "female": 775625
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 686084,
+      "female": 674339
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 593137,
+      "female": 577789
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 501867,
+      "female": 505959
+    },
+    {
+      "ageGroup": "100+",
+      "male": 437650,
+      "female": 429793
+    }
+  ]
+}

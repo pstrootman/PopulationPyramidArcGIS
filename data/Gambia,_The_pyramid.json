@@ -1,0 +1,112 @@
+{
+  "country": "Gambia, The",
+  "population": 2577553,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 166947,
+      "female": 163288
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 163526,
+      "female": 160420
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 157700,
+      "female": 155148
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 146744,
+      "female": 145019
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 128334,
+      "female": 127480
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 109342,
+      "female": 107784
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 93791,
+      "female": 91757
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 74488,
+      "female": 75559
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 58634,
+      "female": 62413
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 47897,
+      "female": 51254
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 37017,
+      "female": 40585
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 28248,
+      "female": 33742
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 22551,
+      "female": 29891
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 17297,
+      "female": 24018
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 12246,
+      "female": 16427
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 7599,
+      "female": 9418
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 3686,
+      "female": 4087
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1252,
+      "female": 1283
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 283,
+      "female": 304
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 39,
+      "female": 48
+    },
+    {
+      "ageGroup": "100+",
+      "male": 3,
+      "female": 4
+    }
+  ]
+}

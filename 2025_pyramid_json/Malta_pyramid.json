@@ -1,0 +1,112 @@
+{
+  "country": "Malta",
+  "population": 521828,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 11251,
+      "female": 10702
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 13214,
+      "female": 12123
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 13037,
+      "female": 11524
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 12166,
+      "female": 11000
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 12852,
+      "female": 11473
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 19514,
+      "female": 15759
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 25430,
+      "female": 19175
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 24008,
+      "female": 20035
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 21392,
+      "female": 19009
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 19675,
+      "female": 17756
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 17011,
+      "female": 15479
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 14286,
+      "female": 13169
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 15148,
+      "female": 14231
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 15063,
+      "female": 15075
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 13416,
+      "female": 13851
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 12361,
+      "female": 13835
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 6589,
+      "female": 8330
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 3198,
+      "female": 4793
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1190,
+      "female": 2353
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 321,
+      "female": 787
+    },
+    {
+      "ageGroup": "100+",
+      "male": 58,
+      "female": 189
+    }
+  ]
+}

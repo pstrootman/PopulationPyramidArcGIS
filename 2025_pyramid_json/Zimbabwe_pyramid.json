@@ -1,0 +1,112 @@
+{
+  "country": "Zimbabwe",
+  "population": 17472752,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1174907,
+      "female": 1150326
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1125094,
+      "female": 1101968
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1054284,
+      "female": 1037709
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 835880,
+      "female": 852534
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 766085,
+      "female": 790233
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 713062,
+      "female": 745905
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 560313,
+      "female": 638941
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 497384,
+      "female": 604731
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 477057,
+      "female": 552361
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 369557,
+      "female": 394206
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 310834,
+      "female": 301505
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 203718,
+      "female": 207409
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 137979,
+      "female": 179002
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 103460,
+      "female": 156962
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 77303,
+      "female": 113968
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 49264,
+      "female": 71467
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 28755,
+      "female": 42137
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 13639,
+      "female": 20651
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 3919,
+      "female": 6528
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 572,
+      "female": 1018
+    },
+    {
+      "ageGroup": "100+",
+      "male": 42,
+      "female": 83
+    }
+  ]
+}

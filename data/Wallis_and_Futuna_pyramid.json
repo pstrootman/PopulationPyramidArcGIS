@@ -1,0 +1,112 @@
+{
+  "country": "Wallis and Futuna",
+  "population": 15998,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 503,
+      "female": 473
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 555,
+      "female": 509
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 566,
+      "female": 514
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 528,
+      "female": 469
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 547,
+      "female": 487
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 580,
+      "female": 483
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 679,
+      "female": 614
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 701,
+      "female": 610
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 692,
+      "female": 551
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 528,
+      "female": 584
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 518,
+      "female": 520
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 418,
+      "female": 483
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 352,
+      "female": 418
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 345,
+      "female": 369
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 279,
+      "female": 278
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 216,
+      "female": 197
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 124,
+      "female": 112
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 59,
+      "female": 69
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 20,
+      "female": 28
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 5,
+      "female": 11
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 2
+    }
+  ]
+}

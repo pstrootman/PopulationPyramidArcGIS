@@ -1,0 +1,112 @@
+{
+  "country": "Luxembourg",
+  "population": 692454,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 17265,
+      "female": 16712
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 18567,
+      "female": 17867
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 19331,
+      "female": 18420
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 19260,
+      "female": 18145
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 20978,
+      "female": 19476
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 25457,
+      "female": 24118
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 27548,
+      "female": 26683
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 28202,
+      "female": 27103
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 26753,
+      "female": 25790
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 25061,
+      "female": 24001
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 23668,
+      "female": 22577
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 23551,
+      "female": 21991
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 21219,
+      "female": 20158
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 16497,
+      "female": 16858
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 12809,
+      "female": 13859
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 9874,
+      "female": 10962
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 6086,
+      "female": 8057
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 3610,
+      "female": 5705
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1478,
+      "female": 2898
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 718,
+      "female": 1558
+    },
+    {
+      "ageGroup": "100+",
+      "male": 335,
+      "female": 1249
+    }
+  ]
+}

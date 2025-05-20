@@ -1,0 +1,107 @@
+{
+  "country": "United States",
+  "population": 331900000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 16070203,
+      "female": 15902698
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 14785518,
+      "female": 14729190
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 13657989,
+      "female": 13587520
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 12365027,
+      "female": 12785748
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 11779738,
+      "female": 11437353
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 10639206,
+      "female": 10792870
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 9719131,
+      "female": 10065169
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 9250506,
+      "female": 9012704
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 8350697,
+      "female": 8508371
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 7630201,
+      "female": 7932680
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 7283739,
+      "female": 7082611
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 6521890,
+      "female": 6739922
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 6037271,
+      "female": 6204925
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 5594186,
+      "female": 5706785
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 5236146,
+      "female": 5195965
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 4732959,
+      "female": 4897093
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 4443500,
+      "female": 4446158
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 4148995,
+      "female": 4057194
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 3773232,
+      "female": 3802035
+    },
+    {
+      "ageGroup": "100+",
+      "male": 3510124,
+      "female": 3482729
+    }
+  ]
+}

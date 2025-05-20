@@ -1,0 +1,112 @@
+{
+  "country": "Tuvalu",
+  "population": 11824,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 629,
+      "female": 601
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 596,
+      "female": 568
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 541,
+      "female": 514
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 482,
+      "female": 455
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 473,
+      "female": 441
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 531,
+      "female": 494
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 558,
+      "female": 498
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 536,
+      "female": 417
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 374,
+      "female": 322
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 208,
+      "female": 296
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 148,
+      "female": 184
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 223,
+      "female": 246
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 224,
+      "female": 326
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 145,
+      "female": 240
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 105,
+      "female": 194
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 51,
+      "female": 93
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 28,
+      "female": 40
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 9,
+      "female": 23
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 3,
+      "female": 5
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 1,
+      "female": 2
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 0
+    }
+  ]
+}

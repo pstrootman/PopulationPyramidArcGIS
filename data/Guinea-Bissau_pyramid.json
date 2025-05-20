@@ -1,0 +1,112 @@
+{
+  "country": "Guinea-Bissau",
+  "population": 2187293,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 177008,
+      "female": 174043
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 153413,
+      "female": 151586
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 132976,
+      "female": 132476
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 120777,
+      "female": 122718
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 101659,
+      "female": 106547
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 82887,
+      "female": 90254
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 67597,
+      "female": 76393
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 55503,
+      "female": 64711
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 46045,
+      "female": 54075
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 36589,
+      "female": 42244
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 30895,
+      "female": 32053
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 21455,
+      "female": 18233
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 15267,
+      "female": 12481
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 10948,
+      "female": 14518
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 7904,
+      "female": 12090
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 5302,
+      "female": 6934
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 2798,
+      "female": 3631
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1038,
+      "female": 1527
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 237,
+      "female": 400
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 26,
+      "female": 50
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 3
+    }
+  ]
+}

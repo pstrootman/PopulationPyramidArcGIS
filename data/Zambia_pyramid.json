@@ -1,0 +1,112 @@
+{
+  "country": "Zambia",
+  "population": 21390969,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1672069,
+      "female": 1635494
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1494659,
+      "female": 1467164
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1338403,
+      "female": 1317802
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1218502,
+      "female": 1204499
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1016871,
+      "female": 1012501
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 829949,
+      "female": 833595
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 688036,
+      "female": 693577
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 572521,
+      "female": 577469
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 491388,
+      "female": 492850
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 418388,
+      "female": 411646
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 308831,
+      "female": 301392
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 220911,
+      "female": 227482
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 159958,
+      "female": 178831
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 115977,
+      "female": 138571
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 74162,
+      "female": 83796
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 47141,
+      "female": 60259
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 24249,
+      "female": 31973
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 9596,
+      "female": 14040
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 2175,
+      "female": 3474
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 261,
+      "female": 461
+    },
+    {
+      "ageGroup": "100+",
+      "male": 16,
+      "female": 30
+    }
+  ]
+}

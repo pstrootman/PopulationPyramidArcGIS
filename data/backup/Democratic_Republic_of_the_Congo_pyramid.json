@@ -1,0 +1,107 @@
+{
+  "country": "Democratic Republic of the Congo",
+  "population": 89560000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 6585066,
+      "female": 6543563
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 5622200,
+      "female": 5677715
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 4821729,
+      "female": 4904198
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 4210325,
+      "female": 4160857
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3559172,
+      "female": 3645972
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3108951,
+      "female": 3092574
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2703858,
+      "female": 2633844
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2278628,
+      "female": 2315574
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1973142,
+      "female": 1981124
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1717116,
+      "female": 1686352
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1467856,
+      "female": 1461537
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1285348,
+      "female": 1236003
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1080499,
+      "female": 1089648
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 923752,
+      "female": 944111
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 794296,
+      "female": 813388
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 699430,
+      "female": 684317
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 604182,
+      "female": 586819
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 503593,
+      "female": 521512
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 448601,
+      "female": 433714
+    },
+    {
+      "ageGroup": "100+",
+      "male": 375307,
+      "female": 384109
+    }
+  ]
+}

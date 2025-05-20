@@ -1,0 +1,112 @@
+{
+  "country": "Slovakia",
+  "population": 5559451,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 145999,
+      "female": 133637
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 149788,
+      "female": 135600
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 145528,
+      "female": 136798
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 144876,
+      "female": 140246
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 133153,
+      "female": 133438
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 144881,
+      "female": 148142
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 180492,
+      "female": 192288
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 216016,
+      "female": 214035
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 230937,
+      "female": 213621
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 229529,
+      "female": 225789
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 206610,
+      "female": 219006
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 174015,
+      "female": 188286
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 165970,
+      "female": 183572
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 150328,
+      "female": 177134
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 121882,
+      "female": 166776
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 74953,
+      "female": 121333
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 39149,
+      "female": 75587
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 18077,
+      "female": 44420
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 8180,
+      "female": 19838
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 2246,
+      "female": 5782
+    },
+    {
+      "ageGroup": "100+",
+      "male": 418,
+      "female": 1096
+    }
+  ]
+}

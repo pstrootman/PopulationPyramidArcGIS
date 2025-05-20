@@ -1,0 +1,112 @@
+{
+  "country": "Albania",
+  "population": 2551837,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 62005,
+      "female": 56792
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 73518,
+      "female": 66818
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 80160,
+      "female": 73375
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 69784,
+      "female": 62610
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 88171,
+      "female": 81357
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 104784,
+      "female": 103187
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 111772,
+      "female": 114370
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 101157,
+      "female": 112719
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 77262,
+      "female": 92270
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 56671,
+      "female": 78486
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 61927,
+      "female": 78569
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 67315,
+      "female": 80294
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 80122,
+      "female": 89787
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 75858,
+      "female": 83335
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 54403,
+      "female": 60810
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 32979,
+      "female": 38623
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 20864,
+      "female": 29094
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 8309,
+      "female": 14637
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1853,
+      "female": 4569
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 222,
+      "female": 888
+    },
+    {
+      "ageGroup": "100+",
+      "male": 15,
+      "female": 96
+    }
+  ]
+}

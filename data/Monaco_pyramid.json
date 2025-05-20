@@ -1,0 +1,112 @@
+{
+  "country": "Monaco",
+  "population": 32047,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 485,
+      "female": 452
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 432,
+      "female": 403
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 535,
+      "female": 515
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 720,
+      "female": 677
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 810,
+      "female": 722
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 753,
+      "female": 683
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 741,
+      "female": 625
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 764,
+      "female": 641
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 720,
+      "female": 712
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 746,
+      "female": 806
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 928,
+      "female": 1031
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1152,
+      "female": 1244
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1233,
+      "female": 1274
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1225,
+      "female": 1262
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1105,
+      "female": 1188
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1125,
+      "female": 1308
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 949,
+      "female": 1273
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 572,
+      "female": 817
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 305,
+      "female": 481
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 118,
+      "female": 257
+    },
+    {
+      "ageGroup": "100+",
+      "male": 49,
+      "female": 209
+    }
+  ]
+}

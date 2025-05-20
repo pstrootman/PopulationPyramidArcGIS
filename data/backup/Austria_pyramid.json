@@ -1,0 +1,107 @@
+{
+  "country": "Austria",
+  "population": 9006000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 157616,
+      "female": 163699
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 205589,
+      "female": 205615
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 256612,
+      "female": 248994
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 294891,
+      "female": 302413
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 334074,
+      "female": 343888
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 371229,
+      "female": 368112
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 386969,
+      "female": 387692
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 384769,
+      "female": 395074
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 372008,
+      "female": 382269
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 349749,
+      "female": 351193
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 312271,
+      "female": 313567
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 271809,
+      "female": 265062
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 219937,
+      "female": 222556
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 174515,
+      "female": 175891
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 131077,
+      "female": 135524
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 99374,
+      "female": 95513
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 68076,
+      "female": 68801
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 45597,
+      "female": 46768
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 30030,
+      "female": 29854
+    },
+    {
+      "ageGroup": "100+",
+      "male": 18973,
+      "female": 18330
+    }
+  ]
+}

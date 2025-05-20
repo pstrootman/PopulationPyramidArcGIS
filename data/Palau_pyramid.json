@@ -1,0 +1,112 @@
+{
+  "country": "Palau",
+  "population": 21947,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 638,
+      "female": 597
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 658,
+      "female": 607
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 692,
+      "female": 662
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 742,
+      "female": 762
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 835,
+      "female": 793
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 993,
+      "female": 758
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1240,
+      "female": 800
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1058,
+      "female": 621
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 952,
+      "female": 459
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 854,
+      "female": 466
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 816,
+      "female": 643
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 663,
+      "female": 796
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 472,
+      "female": 777
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 270,
+      "female": 652
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 172,
+      "female": 525
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 90,
+      "female": 344
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 65,
+      "female": 249
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 33,
+      "female": 128
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 12,
+      "female": 42
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 2,
+      "female": 9
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 0
+    }
+  ]
+}

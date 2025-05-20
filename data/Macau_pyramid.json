@@ -1,0 +1,112 @@
+{
+  "country": "Macau",
+  "population": 648666,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 14924,
+      "female": 14272
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 16437,
+      "female": 15723
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 16029,
+      "female": 15269
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 15561,
+      "female": 14433
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 16482,
+      "female": 15268
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 17652,
+      "female": 17405
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 23664,
+      "female": 24254
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 24542,
+      "female": 30108
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 20524,
+      "female": 32976
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 19885,
+      "female": 29100
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 22521,
+      "female": 24031
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 24698,
+      "female": 27900
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 23274,
+      "female": 24205
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 20412,
+      "female": 20765
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 14039,
+      "female": 14983
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 7924,
+      "female": 9111
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 4278,
+      "female": 5302
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 2303,
+      "female": 3484
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1118,
+      "female": 2235
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 369,
+      "female": 877
+    },
+    {
+      "ageGroup": "100+",
+      "male": 90,
+      "female": 239
+    }
+  ]
+}

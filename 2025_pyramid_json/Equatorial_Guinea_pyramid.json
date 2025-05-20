@@ -1,0 +1,112 @@
+{
+  "country": "Equatorial Guinea",
+  "population": 1853559,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 119113,
+      "female": 115741
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 110233,
+      "female": 104212
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 107734,
+      "female": 96198
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 104136,
+      "female": 87692
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 92833,
+      "female": 75320
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 78612,
+      "female": 63112
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 68714,
+      "female": 56119
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 62337,
+      "female": 52154
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 54140,
+      "female": 44857
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 46741,
+      "female": 37422
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 40838,
+      "female": 31953
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 34171,
+      "female": 27411
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 26365,
+      "female": 22257
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 19816,
+      "female": 17013
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 14219,
+      "female": 12366
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 8757,
+      "female": 8296
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 4197,
+      "female": 4562
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1413,
+      "female": 1753
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 275,
+      "female": 398
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 26,
+      "female": 49
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 2
+    }
+  ]
+}

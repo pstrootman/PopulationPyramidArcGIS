@@ -1,0 +1,112 @@
+{
+  "country": "Czechia",
+  "population": 10838703,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 281556,
+      "female": 266982
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 295966,
+      "female": 281129
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 287204,
+      "female": 272269
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 301703,
+      "female": 286862
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 268221,
+      "female": 255737
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 273508,
+      "female": 261132
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 345206,
+      "female": 324137
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 383951,
+      "female": 354097
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 401615,
+      "female": 367733
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 472376,
+      "female": 444580
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 442967,
+      "female": 423434
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 344559,
+      "female": 336522
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 315148,
+      "female": 322772
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 280713,
+      "female": 315129
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 265960,
+      "female": 337498
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 204781,
+      "female": 302027
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 108886,
+      "female": 195803
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 43212,
+      "female": 96888
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 14247,
+      "female": 40694
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 4182,
+      "female": 12875
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1167,
+      "female": 3275
+    }
+  ]
+}

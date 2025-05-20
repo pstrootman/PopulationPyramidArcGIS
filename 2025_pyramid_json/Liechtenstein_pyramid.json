@@ -1,0 +1,112 @@
+{
+  "country": "Liechtenstein",
+  "population": 40547,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1149,
+      "female": 917
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1129,
+      "female": 905
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1143,
+      "female": 918
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1086,
+      "female": 947
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1165,
+      "female": 1065
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1223,
+      "female": 1277
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1265,
+      "female": 1272
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1313,
+      "female": 1239
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1306,
+      "female": 1293
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1257,
+      "female": 1275
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1342,
+      "female": 1403
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1503,
+      "female": 1586
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1384,
+      "female": 1533
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1204,
+      "female": 1347
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1003,
+      "female": 1130
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 848,
+      "female": 932
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 542,
+      "female": 692
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 239,
+      "female": 346
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 88,
+      "female": 176
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 22,
+      "female": 63
+    },
+    {
+      "ageGroup": "100+",
+      "male": 4,
+      "female": 16
+    }
+  ]
+}

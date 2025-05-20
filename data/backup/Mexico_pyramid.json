@@ -1,0 +1,107 @@
+{
+  "country": "Mexico",
+  "population": 128900000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 6324931,
+      "female": 6092384
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 5719067,
+      "female": 5743560
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 5281892,
+      "female": 5299446
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 4873000,
+      "female": 4894805
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 4582751,
+      "female": 4434070
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 4211945,
+      "female": 4111630
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3799901,
+      "female": 3883726
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 3547842,
+      "female": 3545040
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 3215177,
+      "female": 3332378
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3055896,
+      "female": 2988259
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2826104,
+      "female": 2753354
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2597228,
+      "female": 2553262
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2363668,
+      "female": 2390833
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2217530,
+      "female": 2171427
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1990679,
+      "female": 2060839
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1868098,
+      "female": 1871925
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1751284,
+      "female": 1701192
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1584769,
+      "female": 1602268
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1453035,
+      "female": 1488971
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1354594,
+      "female": 1361220
+    }
+  ]
+}

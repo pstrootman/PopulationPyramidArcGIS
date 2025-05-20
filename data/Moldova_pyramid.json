@@ -1,0 +1,112 @@
+{
+  "country": "Moldova",
+  "population": 3578930,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 79301,
+      "female": 77411
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 84748,
+      "female": 86362
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 96412,
+      "female": 95836
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 105095,
+      "female": 103884
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 98932,
+      "female": 99012
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 104507,
+      "female": 106744
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 135902,
+      "female": 138122
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 174157,
+      "female": 177572
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 158816,
+      "female": 162561
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 130460,
+      "female": 137255
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 114192,
+      "female": 124789
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 92881,
+      "female": 108630
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 99793,
+      "female": 128973
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 92037,
+      "female": 128425
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 64666,
+      "female": 99861
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 33751,
+      "female": 58836
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 13577,
+      "female": 29769
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 6721,
+      "female": 19655
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1368,
+      "female": 6237
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 173,
+      "female": 1378
+    },
+    {
+      "ageGroup": "100+",
+      "male": 7,
+      "female": 122
+    }
+  ]
+}

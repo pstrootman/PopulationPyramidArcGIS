@@ -1,0 +1,112 @@
+{
+  "country": "Ukraine",
+  "population": 36529111,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 621242,
+      "female": 585287
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 802104,
+      "female": 753105
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 981667,
+      "female": 913406
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 979099,
+      "female": 900852
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 851959,
+      "female": 733044
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1036481,
+      "female": 830641
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1349311,
+      "female": 1083149
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1701266,
+      "female": 1357030
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1687704,
+      "female": 1356453
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1476673,
+      "female": 1356489
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1356764,
+      "female": 1398048
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1169392,
+      "female": 1327225
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1149234,
+      "female": 1500823
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 991386,
+      "female": 1505687
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 689573,
+      "female": 1247201
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 431497,
+      "female": 922354
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 180547,
+      "female": 497661
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 163349,
+      "female": 450994
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 36331,
+      "female": 96802
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 12601,
+      "female": 36238
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1561,
+      "female": 6881
+    }
+  ]
+}

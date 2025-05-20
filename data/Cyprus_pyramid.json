@@ -1,0 +1,112 @@
+{
+  "country": "Cyprus",
+  "population": 1332293,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 34791,
+      "female": 33205
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 35948,
+      "female": 34140
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 35166,
+      "female": 33143
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 36964,
+      "female": 32559
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 43062,
+      "female": 35127
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 51925,
+      "female": 42592
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 59757,
+      "female": 50436
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 59043,
+      "female": 50462
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 59070,
+      "female": 51955
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 52337,
+      "female": 47106
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 46512,
+      "female": 43884
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 42383,
+      "female": 43207
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 37753,
+      "female": 41410
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 31724,
+      "female": 36269
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 23252,
+      "female": 28636
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 16509,
+      "female": 22114
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 9614,
+      "female": 14141
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 3915,
+      "female": 7174
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1171,
+      "female": 2807
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 212,
+      "female": 707
+    },
+    {
+      "ageGroup": "100+",
+      "male": 20,
+      "female": 91
+    }
+  ]
+}

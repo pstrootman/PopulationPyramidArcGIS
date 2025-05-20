@@ -1,0 +1,112 @@
+{
+  "country": "Somalia",
+  "population": 20324160,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1980511,
+      "female": 1944301
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1608706,
+      "female": 1562134
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1411375,
+      "female": 1340255
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1021459,
+      "female": 1005421
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 839160,
+      "female": 859686
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 758703,
+      "female": 811694
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 638955,
+      "female": 683559
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 492384,
+      "female": 543495
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 359422,
+      "female": 439354
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 274218,
+      "female": 330464
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 238736,
+      "female": 229451
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 196919,
+      "female": 157295
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 146793,
+      "female": 110144
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 99825,
+      "female": 68680
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 49236,
+      "female": 32640
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 30391,
+      "female": 18715
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 17080,
+      "female": 11075
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 5805,
+      "female": 4048
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1083,
+      "female": 802
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 98,
+      "female": 80
+    },
+    {
+      "ageGroup": "100+",
+      "male": 4,
+      "female": 4
+    }
+  ]
+}

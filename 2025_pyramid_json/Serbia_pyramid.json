@@ -1,0 +1,112 @@
+{
+  "country": "Serbia",
+  "population": 6612318,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 152938,
+      "female": 144111
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 164889,
+      "female": 154797
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 169504,
+      "female": 159765
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 177536,
+      "female": 166882
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 193349,
+      "female": 183923
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 189105,
+      "female": 183167
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 209155,
+      "female": 204383
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 227721,
+      "female": 222390
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 246334,
+      "female": 243103
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 254678,
+      "female": 248088
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 243268,
+      "female": 240714
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 224254,
+      "female": 226471
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 215321,
+      "female": 229120
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 197685,
+      "female": 231524
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 178796,
+      "female": 231798
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 104225,
+      "female": 158883
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 45102,
+      "female": 84121
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 21403,
+      "female": 50242
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 6834,
+      "female": 19975
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 1319,
+      "female": 4720
+    },
+    {
+      "ageGroup": "100+",
+      "male": 132,
+      "female": 593
+    }
+  ]
+}

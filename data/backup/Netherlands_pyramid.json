@@ -1,0 +1,107 @@
+{
+  "country": "Netherlands",
+  "population": 17440000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 308234,
+      "female": 313991
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 396385,
+      "female": 399909
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 480330,
+      "female": 498771
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 589672,
+      "female": 566999
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 666428,
+      "female": 646438
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 710035,
+      "female": 721689
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 735590,
+      "female": 764531
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 760097,
+      "female": 750059
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 721400,
+      "female": 739247
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 681776,
+      "female": 675590
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 598192,
+      "female": 613736
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 515291,
+      "female": 524353
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 425299,
+      "female": 431584
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 343459,
+      "female": 335097
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 255662,
+      "female": 260610
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 189952,
+      "female": 187445
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 133071,
+      "female": 131992
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 90190,
+      "female": 88674
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 58895,
+      "female": 57071
+    },
+    {
+      "ageGroup": "100+",
+      "male": 36250,
+      "female": 35987
+    }
+  ]
+}

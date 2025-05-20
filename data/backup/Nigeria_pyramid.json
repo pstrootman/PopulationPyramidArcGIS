@@ -1,0 +1,107 @@
+{
+  "country": "Nigeria",
+  "population": 206100000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 15398722,
+      "female": 14813543
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 13255347,
+      "female": 12748590
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 11231444,
+      "female": 11150352
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 9479799,
+      "female": 9784392
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 8219858,
+      "female": 8360984
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 7176371,
+      "female": 7094893
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 6187238,
+      "female": 6096152
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 5345211,
+      "female": 5227200
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 4464870,
+      "female": 4634889
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3847517,
+      "female": 3984718
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3313474,
+      "female": 3427793
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2940405,
+      "female": 2861857
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2473291,
+      "female": 2520762
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2172764,
+      "female": 2125657
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1852319,
+      "female": 1847366
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1568270,
+      "female": 1616078
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1351899,
+      "female": 1388895
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1183665,
+      "female": 1175358
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1030302,
+      "female": 1000128
+    },
+    {
+      "ageGroup": "100+",
+      "male": 881911,
+      "female": 865696
+    }
+  ]
+}

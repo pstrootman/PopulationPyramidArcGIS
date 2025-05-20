@@ -1,0 +1,112 @@
+{
+  "country": "Jamaica",
+  "population": 2826742,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 111102,
+      "female": 106332
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 112665,
+      "female": 108525
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 115413,
+      "female": 111378
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 118066,
+      "female": 114066
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 118659,
+      "female": 115865
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 113826,
+      "female": 113457
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 96592,
+      "female": 99665
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 84639,
+      "female": 91671
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 76298,
+      "female": 84923
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 72888,
+      "female": 81156
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 78980,
+      "female": 84100
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 81930,
+      "female": 82619
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 72120,
+      "female": 73405
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 54716,
+      "female": 57012
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 38974,
+      "female": 40162
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 26893,
+      "female": 29220
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 15766,
+      "female": 19528
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 7030,
+      "female": 10304
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 2040,
+      "female": 3648
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 332,
+      "female": 697
+    },
+    {
+      "ageGroup": "100+",
+      "male": 23,
+      "female": 57
+    }
+  ]
+}

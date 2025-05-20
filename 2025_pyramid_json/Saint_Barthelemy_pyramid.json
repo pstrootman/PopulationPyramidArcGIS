@@ -1,0 +1,112 @@
+{
+  "country": "Saint Barthelemy",
+  "population": 7079,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 171,
+      "female": 160
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 169,
+      "female": 162
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 162,
+      "female": 151
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 88,
+      "female": 84
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 172,
+      "female": 152
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 283,
+      "female": 240
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 264,
+      "female": 222
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 225,
+      "female": 188
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 221,
+      "female": 186
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 249,
+      "female": 208
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 271,
+      "female": 236
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 301,
+      "female": 259
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 312,
+      "female": 261
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 283,
+      "female": 250
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 231,
+      "female": 219
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 173,
+      "female": 172
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 97,
+      "female": 111
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 43,
+      "female": 59
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 12,
+      "female": 21
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 2,
+      "female": 6
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 2
+    }
+  ]
+}

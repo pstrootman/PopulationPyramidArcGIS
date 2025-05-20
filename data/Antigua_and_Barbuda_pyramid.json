@@ -1,0 +1,112 @@
+{
+  "country": "Antigua and Barbuda",
+  "population": 103769,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 3882,
+      "female": 3723
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 3839,
+      "female": 3709
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 3722,
+      "female": 3657
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 3622,
+      "female": 3628
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3736,
+      "female": 3817
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 4032,
+      "female": 4213
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3586,
+      "female": 3967
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 3239,
+      "female": 3877
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 3072,
+      "female": 3785
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2984,
+      "female": 3655
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2858,
+      "female": 3554
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2909,
+      "female": 3635
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2480,
+      "female": 3186
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1948,
+      "female": 2502
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1330,
+      "female": 1752
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 847,
+      "female": 1164
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 445,
+      "female": 643
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 201,
+      "female": 314
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 67,
+      "female": 131
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 15,
+      "female": 35
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 6
+    }
+  ]
+}

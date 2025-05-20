@@ -1,0 +1,112 @@
+{
+  "country": "Turkmenistan",
+  "population": 5795896,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 238967,
+      "female": 231523
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 241811,
+      "female": 235439
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 231880,
+      "female": 226630
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 218266,
+      "female": 214309
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 213791,
+      "female": 211273
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 231893,
+      "female": 230656
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 262689,
+      "female": 262106
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 254951,
+      "female": 255894
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 210962,
+      "female": 213278
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 175354,
+      "female": 179747
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 152970,
+      "female": 157215
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 131384,
+      "female": 135855
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 116269,
+      "female": 134484
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 89661,
+      "female": 106632
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 53201,
+      "female": 67848
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 26111,
+      "female": 35427
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 9865,
+      "female": 14326
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 6248,
+      "female": 11538
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1338,
+      "female": 3115
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 212,
+      "female": 707
+    },
+    {
+      "ageGroup": "100+",
+      "male": 12,
+      "female": 59
+    }
+  ]
+}

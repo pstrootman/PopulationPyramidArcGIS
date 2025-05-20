@@ -1,0 +1,112 @@
+{
+  "country": "Djibouti",
+  "population": 1013703,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 51102,
+      "female": 50400
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 47476,
+      "female": 47075
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 44815,
+      "female": 44713
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 44086,
+      "female": 45987
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 45150,
+      "female": 52208
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 44188,
+      "female": 56073
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 41526,
+      "female": 55694
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 34458,
+      "female": 47175
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 26877,
+      "female": 38628
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 21290,
+      "female": 32057
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 16291,
+      "female": 25240
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 12636,
+      "female": 19998
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 10211,
+      "female": 14668
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 7608,
+      "female": 9824
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 5667,
+      "female": 7018
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 3418,
+      "female": 4469
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1568,
+      "female": 2335
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 500,
+      "female": 892
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 106,
+      "female": 226
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 15,
+      "female": 32
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 3
+    }
+  ]
+}

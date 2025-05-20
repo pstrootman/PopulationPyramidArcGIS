@@ -1,0 +1,112 @@
+{
+  "country": "North Macedonia",
+  "population": 2137556,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 56607,
+      "female": 53215
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 58506,
+      "female": 54953
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 60034,
+      "female": 55783
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 58950,
+      "female": 55195
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 63268,
+      "female": 59736
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 76262,
+      "female": 70632
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 79413,
+      "female": 74845
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 83438,
+      "female": 79588
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 84798,
+      "female": 82432
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 82118,
+      "female": 80144
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 75444,
+      "female": 75125
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 70018,
+      "female": 71032
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 64621,
+      "female": 67927
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 57184,
+      "female": 62187
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 45612,
+      "female": 54301
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 27974,
+      "female": 38770
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 14733,
+      "female": 22243
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 5707,
+      "female": 10455
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 912,
+      "female": 2933
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 34,
+      "female": 399
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 27
+    }
+  ]
+}

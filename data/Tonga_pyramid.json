@@ -1,0 +1,112 @@
+{
+  "country": "Tonga",
+  "population": 104519,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 5039,
+      "female": 4904
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 5058,
+      "female": 4923
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 5184,
+      "female": 4978
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 5238,
+      "female": 4958
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 4882,
+      "female": 4680
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 4316,
+      "female": 4278
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3507,
+      "female": 3601
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 3008,
+      "female": 3154
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2820,
+      "female": 2988
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2488,
+      "female": 2509
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2575,
+      "female": 2437
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2944,
+      "female": 2733
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1755,
+      "female": 1625
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1307,
+      "female": 1288
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 971,
+      "female": 1160
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 655,
+      "female": 876
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 401,
+      "female": 544
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 200,
+      "female": 325
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 61,
+      "female": 111
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 11,
+      "female": 24
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 2
+    }
+  ]
+}

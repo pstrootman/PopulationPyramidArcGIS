@@ -1,0 +1,107 @@
+{
+  "country": "United Arab Emirates",
+  "population": 9890000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 478302,
+      "female": 474430
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 438125,
+      "female": 441358
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 403710,
+      "female": 408154
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 376045,
+      "female": 373400
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 345958,
+      "female": 345867
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 317633,
+      "female": 321002
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 299111,
+      "female": 290423
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 273668,
+      "female": 270540
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 247919,
+      "female": 254448
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 233289,
+      "female": 230455
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 211077,
+      "female": 217012
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 195359,
+      "female": 199817
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 182951,
+      "female": 181843
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 171213,
+      "female": 165533
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 158235,
+      "female": 152621
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 140763,
+      "female": 146194
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 131025,
+      "female": 133869
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 122344,
+      "female": 122184
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 114558,
+      "female": 111170
+    },
+    {
+      "ageGroup": "100+",
+      "male": 102667,
+      "female": 105706
+    }
+  ]
+}

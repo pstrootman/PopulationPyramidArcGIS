@@ -1,0 +1,112 @@
+{
+  "country": "Cura\u00e7ao",
+  "population": 153693,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 5021,
+      "female": 4776
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 5070,
+      "female": 4813
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 4959,
+      "female": 4723
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 4995,
+      "female": 4808
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 4968,
+      "female": 4797
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 5293,
+      "female": 4861
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 5774,
+      "female": 5373
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 5501,
+      "female": 5283
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 4985,
+      "female": 4670
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3575,
+      "female": 3389
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3870,
+      "female": 4146
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3670,
+      "female": 4463
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 4524,
+      "female": 6016
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 4067,
+      "female": 5488
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 3179,
+      "female": 4621
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2371,
+      "female": 3474
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1323,
+      "female": 2165
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 605,
+      "female": 1217
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 201,
+      "female": 477
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 38,
+      "female": 123
+    },
+    {
+      "ageGroup": "100+",
+      "male": 3,
+      "female": 18
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Costa Rica",
+  "population": 5304932,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 142538,
+      "female": 135889
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 171359,
+      "female": 163432
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 184312,
+      "female": 175705
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 189059,
+      "female": 179916
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 193196,
+      "female": 184080
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 209894,
+      "female": 200846
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 218473,
+      "female": 211982
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 223095,
+      "female": 217750
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 207934,
+      "female": 198984
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 180719,
+      "female": 174981
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 163737,
+      "female": 163727
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 154404,
+      "female": 162929
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 134876,
+      "female": 147333
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 105397,
+      "female": 117570
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 76209,
+      "female": 86328
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 50456,
+      "female": 60272
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 29318,
+      "female": 37511
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 13715,
+      "female": 20060
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 4570,
+      "female": 8598
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 980,
+      "female": 2431
+    },
+    {
+      "ageGroup": "100+",
+      "male": 73,
+      "female": 294
+    }
+  ]
+}

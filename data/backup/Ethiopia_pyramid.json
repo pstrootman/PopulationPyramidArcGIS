@@ -1,0 +1,107 @@
+{
+  "country": "Ethiopia",
+  "population": 115000000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 8324213,
+      "female": 8533674
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 7231782,
+      "female": 7277935
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 6355476,
+      "female": 6133153
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 5375538,
+      "female": 5373524
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 4549937,
+      "female": 4701867
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3942326,
+      "female": 4020775
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3440677,
+      "female": 3413227
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2991242,
+      "female": 2907968
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2552201,
+      "female": 2525297
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2218342,
+      "female": 2151900
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1851854,
+      "female": 1909648
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1611789,
+      "female": 1625765
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1390186,
+      "female": 1396403
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1192554,
+      "female": 1205885
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1022027,
+      "female": 1042328
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 892344,
+      "female": 884463
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 773563,
+      "female": 755749
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 652637,
+      "female": 663654
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 575046,
+      "female": 557896
+    },
+    {
+      "ageGroup": "100+",
+      "male": 484185,
+      "female": 490947
+    }
+  ]
+}

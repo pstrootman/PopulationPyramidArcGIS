@@ -1,0 +1,112 @@
+{
+  "country": "Syria",
+  "population": 24261882,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1336513,
+      "female": 1264071
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1395203,
+      "female": 1318680
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1304279,
+      "female": 1242579
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1191510,
+      "female": 1136199
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1110786,
+      "female": 1062464
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1051766,
+      "female": 1081184
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 877658,
+      "female": 892427
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 840105,
+      "female": 849021
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 779552,
+      "female": 801175
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 596659,
+      "female": 618490
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 475618,
+      "female": 494075
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 409062,
+      "female": 422934
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 319609,
+      "female": 333970
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 208651,
+      "female": 221510
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 126814,
+      "female": 142386
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 89787,
+      "female": 103276
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 48205,
+      "female": 62910
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 16606,
+      "female": 23753
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 4141,
+      "female": 6568
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 564,
+      "female": 1005
+    },
+    {
+      "ageGroup": "100+",
+      "male": 40,
+      "female": 77
+    }
+  ]
+}

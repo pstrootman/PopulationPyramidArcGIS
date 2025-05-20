@@ -1,0 +1,107 @@
+{
+  "country": "Papua New Guinea",
+  "population": 8950000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 666225,
+      "female": 645757
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 568259,
+      "female": 560975
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 491782,
+      "female": 480158
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 411388,
+      "female": 425169
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 359040,
+      "female": 360991
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 313786,
+      "female": 305950
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 263359,
+      "female": 270052
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 227838,
+      "female": 231273
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 194536,
+      "female": 200625
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 170152,
+      "female": 169966
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 146763,
+      "female": 145979
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 128233,
+      "female": 123733
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 107812,
+      "female": 109056
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 93067,
+      "female": 93593
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 81448,
+      "female": 79212
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 68356,
+      "female": 69925
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 60178,
+      "female": 58842
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 50814,
+      "female": 51627
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 44585,
+      "female": 43586
+    },
+    {
+      "ageGroup": "100+",
+      "male": 37704,
+      "female": 38186
+    }
+  ]
+}

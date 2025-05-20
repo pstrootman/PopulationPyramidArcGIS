@@ -1,0 +1,112 @@
+{
+  "country": "Faroe Islands",
+  "population": 53264,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2007,
+      "female": 1872
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1873,
+      "female": 1747
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1686,
+      "female": 1575
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1676,
+      "female": 1580
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1839,
+      "female": 1695
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1848,
+      "female": 1758
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1974,
+      "female": 1893
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1912,
+      "female": 1638
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1412,
+      "female": 1021
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1519,
+      "female": 1266
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1607,
+      "female": 1397
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1765,
+      "female": 1585
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1632,
+      "female": 1503
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1438,
+      "female": 1443
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1228,
+      "female": 1227
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1035,
+      "female": 1076
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 663,
+      "female": 754
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 290,
+      "female": 401
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 113,
+      "female": 199
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 29,
+      "female": 70
+    },
+    {
+      "ageGroup": "100+",
+      "male": 5,
+      "female": 13
+    }
+  ]
+}

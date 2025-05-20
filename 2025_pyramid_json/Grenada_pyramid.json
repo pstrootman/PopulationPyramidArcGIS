@@ -1,0 +1,112 @@
+{
+  "country": "Grenada",
+  "population": 114915,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 4063,
+      "female": 3701
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 4384,
+      "female": 3987
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 4483,
+      "female": 4158
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 4324,
+      "female": 4044
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3713,
+      "female": 3651
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3638,
+      "female": 3600
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 4026,
+      "female": 4105
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 4735,
+      "female": 4764
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 4032,
+      "female": 3949
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3432,
+      "female": 3121
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3524,
+      "female": 3161
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3151,
+      "female": 2823
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 3551,
+      "female": 3462
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2953,
+      "female": 3022
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1978,
+      "female": 2016
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 1266,
+      "female": 1461
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 668,
+      "female": 890
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 301,
+      "female": 485
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 81,
+      "female": 161
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 14,
+      "female": 35
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 2
+    }
+  ]
+}

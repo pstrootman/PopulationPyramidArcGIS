@@ -1,0 +1,112 @@
+{
+  "country": "Slovenia",
+  "population": 2157163,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 45881,
+      "female": 43391
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 53291,
+      "female": 50156
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 58034,
+      "female": 54810
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 56883,
+      "female": 53741
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 53050,
+      "female": 48107
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 59245,
+      "female": 50118
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 63700,
+      "female": 54754
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 75614,
+      "female": 65785
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 84670,
+      "female": 73437
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 89206,
+      "female": 77614
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 80736,
+      "female": 73131
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 76059,
+      "female": 74400
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 72948,
+      "female": 75118
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 67009,
+      "female": 72006
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 60454,
+      "female": 69092
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 42385,
+      "female": 52794
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 26292,
+      "female": 38644
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 14405,
+      "female": 26042
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 5245,
+      "female": 12921
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 1188,
+      "female": 3977
+    },
+    {
+      "ageGroup": "100+",
+      "male": 132,
+      "female": 698
+    }
+  ]
+}

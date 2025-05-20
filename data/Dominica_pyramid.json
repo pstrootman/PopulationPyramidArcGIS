@@ -1,0 +1,112 @@
+{
+  "country": "Dominica",
+  "population": 74642,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2561,
+      "female": 2444
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2660,
+      "female": 2535
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2596,
+      "female": 2477
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2371,
+      "female": 2238
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2221,
+      "female": 2091
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2380,
+      "female": 2251
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2947,
+      "female": 2742
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2812,
+      "female": 2655
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2765,
+      "female": 2704
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2318,
+      "female": 2149
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2112,
+      "female": 2075
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2845,
+      "female": 2979
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2148,
+      "female": 2074
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1808,
+      "female": 1625
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1457,
+      "female": 1402
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 881,
+      "female": 1010
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 520,
+      "female": 729
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 240,
+      "female": 454
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 81,
+      "female": 204
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 18,
+      "female": 53
+    },
+    {
+      "ageGroup": "100+",
+      "male": 1,
+      "female": 9
+    }
+  ]
+}

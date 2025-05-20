@@ -1,0 +1,107 @@
+{
+  "country": "Uruguay",
+  "population": 3474000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 167493,
+      "female": 167167
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 154994,
+      "female": 153936
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 144891,
+      "female": 140287
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 129704,
+      "female": 133548
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 121877,
+      "female": 121135
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 112836,
+      "female": 111492
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 103647,
+      "female": 103435
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 94018,
+      "female": 97143
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 89706,
+      "female": 86757
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 81103,
+      "female": 81793
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 74459,
+      "female": 75912
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 69779,
+      "female": 69031
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 63028,
+      "female": 65110
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 60257,
+      "female": 58029
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 55271,
+      "female": 53921
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 51270,
+      "female": 49527
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 45846,
+      "female": 47201
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 43233,
+      "female": 42660
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 39785,
+      "female": 39504
+    },
+    {
+      "ageGroup": "100+",
+      "male": 36660,
+      "female": 36534
+    }
+  ]
+}

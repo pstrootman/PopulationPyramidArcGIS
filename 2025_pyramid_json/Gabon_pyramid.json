@@ -1,0 +1,112 @@
+{
+  "country": "Gabon",
+  "population": 2513738,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 152627,
+      "female": 149749
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 141100,
+      "female": 140066
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 140032,
+      "female": 137178
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 140908,
+      "female": 135471
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 133276,
+      "female": 124322
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 123907,
+      "female": 109741
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 111652,
+      "female": 91877
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 89419,
+      "female": 67475
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 64974,
+      "female": 51264
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 45292,
+      "female": 42243
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 35304,
+      "female": 40242
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 33688,
+      "female": 38566
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 30884,
+      "female": 31723
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 23546,
+      "female": 22003
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 15691,
+      "female": 13466
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 9532,
+      "female": 8920
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 4730,
+      "female": 6001
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1930,
+      "female": 3148
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 517,
+      "female": 1020
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 71,
+      "female": 164
+    },
+    {
+      "ageGroup": "100+",
+      "male": 5,
+      "female": 14
+    }
+  ]
+}

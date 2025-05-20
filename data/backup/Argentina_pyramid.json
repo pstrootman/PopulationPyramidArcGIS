@@ -1,0 +1,107 @@
+{
+  "country": "Argentina",
+  "population": 45380000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2208248,
+      "female": 2163340
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1989177,
+      "female": 2046307
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1856674,
+      "female": 1868547
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1703221,
+      "female": 1735592
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1597436,
+      "female": 1576988
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1456789,
+      "female": 1473573
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1342039,
+      "female": 1363027
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1249781,
+      "female": 1247309
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1148590,
+      "female": 1156515
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1063306,
+      "female": 1064574
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 989226,
+      "female": 975054
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 898847,
+      "female": 914412
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 848962,
+      "female": 824887
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 779428,
+      "female": 765730
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 707647,
+      "female": 718714
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 659804,
+      "female": 656892
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 602435,
+      "female": 613029
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 559606,
+      "female": 562408
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 519825,
+      "female": 515924
+    },
+    {
+      "ageGroup": "100+",
+      "male": 468590,
+      "female": 487528
+    }
+  ]
+}

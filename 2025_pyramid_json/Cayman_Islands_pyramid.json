@@ -1,0 +1,112 @@
+{
+  "country": "Cayman Islands",
+  "population": 67816,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2028,
+      "female": 1997
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1980,
+      "female": 1954
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1916,
+      "female": 1895
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1874,
+      "female": 1870
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1923,
+      "female": 1932
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2090,
+      "female": 2108
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2276,
+      "female": 2390
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2189,
+      "female": 2293
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2193,
+      "female": 2354
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2243,
+      "female": 2295
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2243,
+      "female": 2464
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2310,
+      "female": 2410
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2344,
+      "female": 2527
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1980,
+      "female": 2242
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1476,
+      "female": 1765
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 973,
+      "female": 1123
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 534,
+      "female": 683
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 257,
+      "female": 375
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 83,
+      "female": 159
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 16,
+      "female": 44
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 6
+    }
+  ]
+}

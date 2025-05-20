@@ -1,0 +1,112 @@
+{
+  "country": "Yemen",
+  "population": 34505496,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2402113,
+      "female": 2302793
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2221884,
+      "female": 2138478
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2071687,
+      "female": 1992853
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1906825,
+      "female": 1835957
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1650203,
+      "female": 1608874
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1419763,
+      "female": 1419132
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1263217,
+      "female": 1308018
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1093022,
+      "female": 1200936
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 951741,
+      "female": 942589
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 710647,
+      "female": 706764
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 460667,
+      "female": 488961
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 326253,
+      "female": 364269
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 283005,
+      "female": 331637
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 217606,
+      "female": 260243
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 143941,
+      "female": 161559
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 88177,
+      "female": 94931
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 43819,
+      "female": 47803
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 16378,
+      "female": 18630
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 4046,
+      "female": 4830
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 513,
+      "female": 657
+    },
+    {
+      "ageGroup": "100+",
+      "male": 32,
+      "female": 43
+    }
+  ]
+}

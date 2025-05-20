@@ -1,0 +1,112 @@
+{
+  "country": "Isle of Man",
+  "population": 92666,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2500,
+      "female": 2320
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2553,
+      "female": 2369
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2631,
+      "female": 2401
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2728,
+      "female": 2392
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2651,
+      "female": 2256
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2718,
+      "female": 2475
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2784,
+      "female": 2746
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2700,
+      "female": 2660
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2662,
+      "female": 2705
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2751,
+      "female": 2816
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 3233,
+      "female": 3284
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 3466,
+      "female": 3391
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 3351,
+      "female": 3285
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 2787,
+      "female": 2862
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 2414,
+      "female": 2460
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 2166,
+      "female": 2350
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1331,
+      "female": 1637
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 733,
+      "female": 1020
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 291,
+      "female": 485
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 80,
+      "female": 174
+    },
+    {
+      "ageGroup": "100+",
+      "male": 13,
+      "female": 35
+    }
+  ]
+}

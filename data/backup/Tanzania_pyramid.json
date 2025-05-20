@@ -1,0 +1,107 @@
+{
+  "country": "Tanzania",
+  "population": 59730000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 4463675,
+      "female": 4292164
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 3693978,
+      "female": 3842242
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 3206009,
+      "female": 3280476
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2843188,
+      "female": 2739781
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2449414,
+      "female": 2355892
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2093855,
+      "female": 2042110
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 1773754,
+      "female": 1786104
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 1524365,
+      "female": 1539633
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 1306145,
+      "female": 1331062
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1156253,
+      "female": 1113612
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 962660,
+      "female": 991031
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 856261,
+      "female": 825296
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 718399,
+      "female": 728930
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 625099,
+      "female": 620629
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 535873,
+      "female": 536335
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 464064,
+      "female": 458794
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 395121,
+      "female": 399190
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 341582,
+      "female": 342087
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 299576,
+      "female": 288864
+    },
+    {
+      "ageGroup": "100+",
+      "male": 248855,
+      "female": 257620
+    }
+  ]
+}

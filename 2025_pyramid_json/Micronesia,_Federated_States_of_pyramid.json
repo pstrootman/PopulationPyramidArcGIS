@@ -1,0 +1,112 @@
+{
+  "country": "Micronesia, Federated States of",
+  "population": 98860,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 4349,
+      "female": 4185
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 4421,
+      "female": 4290
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 4613,
+      "female": 4486
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 4609,
+      "female": 4547
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 4096,
+      "female": 4139
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3768,
+      "female": 4019
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3654,
+      "female": 3924
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 3671,
+      "female": 3819
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 3484,
+      "female": 3848
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3091,
+      "female": 3253
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2412,
+      "female": 2788
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1912,
+      "female": 2174
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1623,
+      "female": 1816
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1274,
+      "female": 1486
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 804,
+      "female": 984
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 359,
+      "female": 489
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 91,
+      "female": 191
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 37,
+      "female": 96
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 14,
+      "female": 36
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 1,
+      "female": 7
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 0
+    }
+  ]
+}

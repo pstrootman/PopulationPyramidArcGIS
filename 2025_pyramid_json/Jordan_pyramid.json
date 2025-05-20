@@ -1,0 +1,112 @@
+{
+  "country": "Jordan",
+  "population": 11312507,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 608955,
+      "female": 575766
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 569580,
+      "female": 538686
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 587109,
+      "female": 557144
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 560990,
+      "female": 541947
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 536161,
+      "female": 509107
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 515482,
+      "female": 458364
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 487115,
+      "female": 411794
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 430998,
+      "female": 365645
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 369144,
+      "female": 322168
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 320092,
+      "female": 280045
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 284526,
+      "female": 243801
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 235941,
+      "female": 198552
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 161770,
+      "female": 146072
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 102120,
+      "female": 99861
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 63775,
+      "female": 66163
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 39850,
+      "female": 47168
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 23561,
+      "female": 26569
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 9244,
+      "female": 11198
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 2142,
+      "female": 3124
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 281,
+      "female": 444
+    },
+    {
+      "ageGroup": "100+",
+      "male": 17,
+      "female": 36
+    }
+  ]
+}

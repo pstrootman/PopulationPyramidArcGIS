@@ -1,0 +1,112 @@
+{
+  "country": "Kyrgyzstan",
+  "population": 6219751,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 293184,
+      "female": 277201
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 308987,
+      "female": 292600
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 311772,
+      "female": 295667
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 289539,
+      "female": 276273
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 227369,
+      "female": 220910
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 229182,
+      "female": 222084
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 251270,
+      "female": 248011
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 248965,
+      "female": 253875
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 204995,
+      "female": 216381
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 156784,
+      "female": 167235
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 129729,
+      "female": 151369
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 113578,
+      "female": 137922
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 104278,
+      "female": 137561
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 81462,
+      "female": 117301
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 50272,
+      "female": 80272
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 24316,
+      "female": 43266
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 8468,
+      "female": 14894
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 7586,
+      "female": 16845
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1785,
+      "female": 4743
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 398,
+      "female": 1299
+    },
+    {
+      "ageGroup": "100+",
+      "male": 21,
+      "female": 102
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Bhutan",
+  "population": 892877,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 34140,
+      "female": 32533
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 34804,
+      "female": 33190
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 35293,
+      "female": 33732
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 36625,
+      "female": 35124
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 38309,
+      "female": 36925
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 39358,
+      "female": 38078
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 41428,
+      "female": 40029
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 42058,
+      "female": 40641
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 38402,
+      "female": 34203
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 31680,
+      "female": 26911
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 24700,
+      "female": 20912
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 19215,
+      "female": 16568
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 14393,
+      "female": 12868
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 10943,
+      "female": 9814
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 8158,
+      "female": 7546
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 5871,
+      "female": 5666
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 3764,
+      "female": 3725
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1842,
+      "female": 1913
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 583,
+      "female": 671
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 104,
+      "female": 135
+    },
+    {
+      "ageGroup": "100+",
+      "male": 9,
+      "female": 14
+    }
+  ]
+}

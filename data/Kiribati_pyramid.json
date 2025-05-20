@@ -1,0 +1,112 @@
+{
+  "country": "Kiribati",
+  "population": 117702,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 5526,
+      "female": 5290
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 5243,
+      "female": 5033
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 5135,
+      "female": 4990
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 5263,
+      "female": 5278
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 5232,
+      "female": 5462
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 5480,
+      "female": 5975
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 4875,
+      "female": 5245
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 4647,
+      "female": 4898
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 3768,
+      "female": 4004
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 2858,
+      "female": 3103
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2228,
+      "female": 2556
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2328,
+      "female": 2821
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1740,
+      "female": 2173
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1165,
+      "female": 1618
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 713,
+      "female": 1113
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 424,
+      "female": 698
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 171,
+      "female": 366
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 57,
+      "female": 161
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 11,
+      "female": 46
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 2,
+      "female": 6
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 0
+    }
+  ]
+}

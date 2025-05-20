@@ -1,0 +1,112 @@
+{
+  "country": "Malawi",
+  "population": 22244356,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1385600,
+      "female": 1389888
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1356670,
+      "female": 1376885
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1343080,
+      "female": 1368560
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1281611,
+      "female": 1312806
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1083400,
+      "female": 1115993
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 920811,
+      "female": 954191
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 778231,
+      "female": 813359
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 634494,
+      "female": 664017
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 529960,
+      "female": 552806
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 424025,
+      "female": 440298
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 326024,
+      "female": 348035
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 256929,
+      "female": 282991
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 199180,
+      "female": 225249
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 149958,
+      "female": 172913
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 109641,
+      "female": 129637
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 71792,
+      "female": 91790
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 38981,
+      "female": 56513
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 15771,
+      "female": 27434
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 3935,
+      "female": 8763
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 513,
+      "female": 1480
+    },
+    {
+      "ageGroup": "100+",
+      "male": 31,
+      "female": 111
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country": "Germany",
+  "population": 83200000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 1512250,
+      "female": 1456163
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1868524,
+      "female": 1930309
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2375885,
+      "female": 2295057
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2706248,
+      "female": 2811818
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 3190470,
+      "female": 3072749
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 3365917,
+      "female": 3464330
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 3551100,
+      "female": 3605447
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 3670378,
+      "female": 3534038
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 3478170,
+      "female": 3490058
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3263210,
+      "female": 3212301
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2935215,
+      "female": 2846464
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 2499346,
+      "female": 2460432
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 2054482,
+      "female": 2033402
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 1619622,
+      "female": 1617531
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 1250680,
+      "female": 1212272
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 886754,
+      "female": 913679
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 642552,
+      "female": 621969
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 435095,
+      "female": 418209
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 281650,
+      "female": 271584
+    },
+    {
+      "ageGroup": "100+",
+      "male": 175142,
+      "female": 169479
+    }
+  ]
+}

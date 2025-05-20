@@ -1,0 +1,112 @@
+{
+  "country": "Botswana",
+  "population": 2483419,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 119120,
+      "female": 116243
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 119683,
+      "female": 117086
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 116414,
+      "female": 115113
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 109645,
+      "female": 111990
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 103406,
+      "female": 109271
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 101649,
+      "female": 106177
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 101370,
+      "female": 102492
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 83406,
+      "female": 96969
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 74142,
+      "female": 94653
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 65664,
+      "female": 79126
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 55909,
+      "female": 60911
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 45146,
+      "female": 48946
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 32402,
+      "female": 41396
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 21987,
+      "female": 32690
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 16691,
+      "female": 25115
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 12105,
+      "female": 17556
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 6999,
+      "female": 11207
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 2785,
+      "female": 5304
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 685,
+      "female": 1579
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 103,
+      "female": 256
+    },
+    {
+      "ageGroup": "100+",
+      "male": 7,
+      "female": 21
+    }
+  ]
+}

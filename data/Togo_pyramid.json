@@ -1,0 +1,112 @@
+{
+  "country": "Togo",
+  "population": 9134446,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 644689,
+      "female": 626514
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 593228,
+      "female": 574747
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 539349,
+      "female": 523706
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 468072,
+      "female": 459877
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 393287,
+      "female": 393689
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 328424,
+      "female": 336509
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 310134,
+      "female": 321138
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 285481,
+      "female": 304600
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 229222,
+      "female": 248167
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 189987,
+      "female": 205601
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 150301,
+      "female": 163537
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 116606,
+      "female": 131276
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 89111,
+      "female": 106394
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 66996,
+      "female": 85136
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 47584,
+      "female": 64627
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 29738,
+      "female": 44524
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 14945,
+      "female": 25711
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 5372,
+      "female": 11133
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1203,
+      "female": 3158
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 143,
+      "female": 487
+    },
+    {
+      "ageGroup": "100+",
+      "male": 8,
+      "female": 35
+    }
+  ]
+}

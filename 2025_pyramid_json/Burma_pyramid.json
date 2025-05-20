@@ -1,0 +1,112 @@
+{
+  "country": "Burma",
+  "population": 57931718,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2276582,
+      "female": 2162393
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2371650,
+      "female": 2253716
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2485585,
+      "female": 2365258
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 2407305,
+      "female": 2324304
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 2309487,
+      "female": 2269018
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2327541,
+      "female": 2342206
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2272756,
+      "female": 2337974
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2085406,
+      "female": 2188953
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2093502,
+      "female": 2191694
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 1887014,
+      "female": 1967394
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 1637682,
+      "female": 1702090
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1451135,
+      "female": 1536095
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1133474,
+      "female": 1292606
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 823136,
+      "female": 1002331
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 521770,
+      "female": 664668
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 293434,
+      "female": 397831
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 147676,
+      "female": 222100
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 52878,
+      "female": 91672
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 11885,
+      "female": 24112
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 1481,
+      "female": 3579
+    },
+    {
+      "ageGroup": "100+",
+      "male": 88,
+      "female": 257
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Belarus",
+  "population": 9460972,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 213347,
+      "female": 200606
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 262675,
+      "female": 247088
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 296249,
+      "female": 278879
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 265916,
+      "female": 251218
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 230945,
+      "female": 219199
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 240201,
+      "female": 227483
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 310499,
+      "female": 295549
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 397883,
+      "female": 388040
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 394187,
+      "female": 393492
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 342494,
+      "female": 354026
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 316040,
+      "female": 342473
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 267596,
+      "female": 327543
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 285682,
+      "female": 372945
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 252118,
+      "female": 371498
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 164672,
+      "female": 289672
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 95316,
+      "female": 205770
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 41115,
+      "female": 116736
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 27940,
+      "female": 105757
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 8085,
+      "female": 42879
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 1691,
+      "female": 13527
+    },
+    {
+      "ageGroup": "100+",
+      "male": 120,
+      "female": 1821
+    }
+  ]
+}

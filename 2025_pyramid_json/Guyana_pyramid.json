@@ -1,0 +1,112 @@
+{
+  "country": "Guyana",
+  "population": 796742,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 32815,
+      "female": 31445
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 31329,
+      "female": 30060
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 30925,
+      "female": 29604
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 33536,
+      "female": 31930
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 44078,
+      "female": 41717
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 40673,
+      "female": 37969
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 25758,
+      "female": 23305
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 28320,
+      "female": 25721
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 24372,
+      "female": 21542
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 23863,
+      "female": 21155
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 22689,
+      "female": 20537
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 21322,
+      "female": 19735
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 17362,
+      "female": 17651
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 12516,
+      "female": 14805
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 9107,
+      "female": 11977
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 4718,
+      "female": 6305
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 2213,
+      "female": 3121
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 791,
+      "female": 1200
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 186,
+      "female": 311
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 24,
+      "female": 48
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 5
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Armenia",
+  "population": 2963837,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 81685,
+      "female": 76107
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 91358,
+      "female": 83138
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 95616,
+      "female": 86267
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 88421,
+      "female": 81466
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 82863,
+      "female": 75053
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 91004,
+      "female": 85317
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 112312,
+      "female": 113314
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 130562,
+      "female": 131832
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 119301,
+      "female": 118790
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 95946,
+      "female": 95524
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 84800,
+      "female": 86217
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 81755,
+      "female": 87822
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 95270,
+      "female": 113165
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 87807,
+      "female": 106264
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 55621,
+      "female": 75651
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 28538,
+      "female": 43622
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 12706,
+      "female": 22742
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 12106,
+      "female": 22591
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 3307,
+      "female": 5822
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 810,
+      "female": 1224
+    },
+    {
+      "ageGroup": "100+",
+      "male": 54,
+      "female": 67
+    }
+  ]
+}

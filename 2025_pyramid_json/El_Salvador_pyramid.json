@@ -1,0 +1,112 @@
+{
+  "country": "El Salvador",
+  "population": 6839027,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 258507,
+      "female": 246957
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 262005,
+      "female": 250596
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 293671,
+      "female": 280422
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 292148,
+      "female": 278555
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 305556,
+      "female": 294026
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 324567,
+      "female": 320606
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 300542,
+      "female": 310904
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 242959,
+      "female": 268261
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 201848,
+      "female": 234251
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 179843,
+      "female": 215580
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 147999,
+      "female": 193787
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 118654,
+      "female": 173489
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 101599,
+      "female": 145909
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 82808,
+      "female": 113783
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 64905,
+      "female": 87964
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 48539,
+      "female": 64315
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 33386,
+      "female": 43712
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 16541,
+      "female": 23220
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 5292,
+      "female": 8374
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 973,
+      "female": 1730
+    },
+    {
+      "ageGroup": "100+",
+      "male": 83,
+      "female": 161
+    }
+  ]
+}

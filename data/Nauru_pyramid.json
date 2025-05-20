@@ -1,0 +1,112 @@
+{
+  "country": "Nauru",
+  "population": 9930,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 487,
+      "female": 466
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 495,
+      "female": 473
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 488,
+      "female": 473
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 417,
+      "female": 411
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 367,
+      "female": 433
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 377,
+      "female": 364
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 371,
+      "female": 327
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 480,
+      "female": 465
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 414,
+      "female": 405
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 297,
+      "female": 285
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 212,
+      "female": 230
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 188,
+      "female": 219
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 129,
+      "female": 198
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 78,
+      "female": 147
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 52,
+      "female": 106
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 16,
+      "female": 39
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 4,
+      "female": 10
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 2,
+      "female": 4
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 0,
+      "female": 1
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 0,
+      "female": 0
+    },
+    {
+      "ageGroup": "100+",
+      "male": 0,
+      "female": 0
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country": "Ghana",
+  "population": 31070000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2245168,
+      "female": 2309392
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 1927477,
+      "female": 1992670
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 1685652,
+      "female": 1688450
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1424380,
+      "female": 1479735
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1227965,
+      "female": 1271630
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 1058155,
+      "female": 1093266
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 933593,
+      "female": 918153
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 794632,
+      "female": 799180
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 699550,
+      "female": 672256
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 596042,
+      "female": 584682
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 515239,
+      "female": 501020
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 445077,
+      "female": 429625
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 375193,
+      "female": 377670
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 324628,
+      "female": 323367
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 273401,
+      "female": 284334
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 237625,
+      "female": 242421
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 209054,
+      "female": 204126
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 177171,
+      "female": 178456
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 150199,
+      "female": 155892
+    },
+    {
+      "ageGroup": "100+",
+      "male": 133554,
+      "female": 129901
+    }
+  ]
+}

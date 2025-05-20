@@ -1,0 +1,112 @@
+{
+  "country": "Turks and Caicos Islands",
+  "population": 61504,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 2011,
+      "female": 1929
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 2111,
+      "female": 2031
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 2173,
+      "female": 2098
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 1980,
+      "female": 1946
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 1925,
+      "female": 1925
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 2138,
+      "female": 2178
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 2332,
+      "female": 2472
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 2407,
+      "female": 2583
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 2988,
+      "female": 2984
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 3018,
+      "female": 2918
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 2596,
+      "female": 2434
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 1843,
+      "female": 1689
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 1367,
+      "female": 1274
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 854,
+      "female": 785
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 559,
+      "female": 507
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 269,
+      "female": 321
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 194,
+      "female": 251
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 87,
+      "female": 160
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 45,
+      "female": 71
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 12,
+      "female": 30
+    },
+    {
+      "ageGroup": "100+",
+      "male": 2,
+      "female": 7
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Nicaragua",
+  "population": 6739380,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 276463,
+      "female": 264160
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 281790,
+      "female": 269503
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 289780,
+      "female": 277999
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 298074,
+      "female": 288928
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 294228,
+      "female": 289373
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 301489,
+      "female": 301099
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 317313,
+      "female": 322957
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 261319,
+      "female": 278139
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 226721,
+      "female": 249304
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 185578,
+      "female": 206519
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 152896,
+      "female": 175590
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 129790,
+      "female": 154503
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 103217,
+      "female": 123127
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 74942,
+      "female": 89862
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 53602,
+      "female": 66457
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 32415,
+      "female": 42326
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 16771,
+      "female": 23036
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 6135,
+      "female": 9278
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1423,
+      "female": 2652
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 178,
+      "female": 409
+    },
+    {
+      "ageGroup": "100+",
+      "male": 9,
+      "female": 26
+    }
+  ]
+}

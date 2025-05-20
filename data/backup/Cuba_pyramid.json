@@ -1,0 +1,107 @@
+{
+  "country": "Cuba",
+  "population": 11330000,
+  "year": 2023,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 205865,
+      "female": 198367
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 263513,
+      "female": 253803
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 323383,
+      "female": 312695
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 378507,
+      "female": 372931
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 429523,
+      "female": 423388
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 471842,
+      "female": 458286
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 492689,
+      "female": 481874
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 486740,
+      "female": 494341
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 468497,
+      "female": 480421
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 445993,
+      "female": 435827
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 392252,
+      "female": 395084
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 342965,
+      "female": 332446
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 273391,
+      "female": 283288
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 219195,
+      "female": 221632
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 168895,
+      "female": 166504
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 124014,
+      "female": 121164
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 85868,
+      "female": 86331
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 58344,
+      "female": 57857
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 38392,
+      "female": 36945
+    },
+    {
+      "ageGroup": "100+",
+      "male": 23219,
+      "female": 23710
+    }
+  ]
+}

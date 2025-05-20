@@ -1,0 +1,112 @@
+{
+  "country": "Croatia",
+  "population": 4071208,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 91502,
+      "female": 86087
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 94028,
+      "female": 89306
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 104027,
+      "female": 97043
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 107933,
+      "female": 101313
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 104678,
+      "female": 98591
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 129462,
+      "female": 122690
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 125702,
+      "female": 120221
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 135755,
+      "female": 131713
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 152577,
+      "female": 149166
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 150301,
+      "female": 150864
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 139088,
+      "female": 140884
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 131163,
+      "female": 139184
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 132128,
+      "female": 147819
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 132201,
+      "female": 154442
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 116235,
+      "female": 141540
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 74445,
+      "female": 102146
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 28215,
+      "female": 59072
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 13345,
+      "female": 43194
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 4444,
+      "female": 20318
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 979,
+      "female": 6065
+    },
+    {
+      "ageGroup": "100+",
+      "male": 126,
+      "female": 1216
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "country": "Liberia",
+  "population": 5563541,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 402259,
+      "female": 395142
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 358722,
+      "female": 354330
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 319632,
+      "female": 318885
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 307345,
+      "female": 310949
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 270860,
+      "female": 280791
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 241490,
+      "female": 254844
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 172169,
+      "female": 182661
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 168306,
+      "female": 173398
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 143446,
+      "female": 139028
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 110318,
+      "female": 97246
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 84451,
+      "female": 71701
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 64124,
+      "female": 61326
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 48010,
+      "female": 52383
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 35880,
+      "female": 40695
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 24497,
+      "female": 28242
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 14167,
+      "female": 16968
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 6143,
+      "female": 7787
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 1807,
+      "female": 2538
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 334,
+      "female": 545
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 40,
+      "female": 69
+    },
+    {
+      "ageGroup": "100+",
+      "male": 6,
+      "female": 7
+    }
+  ]
+}

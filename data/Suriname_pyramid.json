@@ -1,0 +1,112 @@
+{
+  "country": "Suriname",
+  "population": 653605,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 24140,
+      "female": 23027
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 24730,
+      "female": 23800
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 24974,
+      "female": 24597
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 26025,
+      "female": 24955
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 27364,
+      "female": 25959
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 28092,
+      "female": 26814
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 25169,
+      "female": 24350
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 25910,
+      "female": 25186
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 26535,
+      "female": 26442
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 18443,
+      "female": 19050
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 18540,
+      "female": 19556
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 18105,
+      "female": 19646
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 14553,
+      "female": 16467
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 9066,
+      "female": 10991
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 6003,
+      "female": 7934
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 3134,
+      "female": 5004
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 1743,
+      "female": 3180
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 889,
+      "female": 1935
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 275,
+      "female": 754
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 51,
+      "female": 184
+    },
+    {
+      "ageGroup": "100+",
+      "male": 6,
+      "female": 27
+    }
+  ]
+}

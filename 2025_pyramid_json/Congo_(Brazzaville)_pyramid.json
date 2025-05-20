@@ -1,0 +1,112 @@
+{
+  "country": "Congo (Brazzaville)",
+  "population": 6244005,
+  "year": 2025,
+  "data": [
+    {
+      "ageGroup": "0-4",
+      "male": 419069,
+      "female": 410607
+    },
+    {
+      "ageGroup": "5-9",
+      "male": 389451,
+      "female": 382943
+    },
+    {
+      "ageGroup": "10-14",
+      "male": 365418,
+      "female": 361710
+    },
+    {
+      "ageGroup": "15-19",
+      "male": 343214,
+      "female": 342735
+    },
+    {
+      "ageGroup": "20-24",
+      "male": 277615,
+      "female": 276328
+    },
+    {
+      "ageGroup": "25-29",
+      "male": 233919,
+      "female": 234706
+    },
+    {
+      "ageGroup": "30-34",
+      "male": 213101,
+      "female": 211558
+    },
+    {
+      "ageGroup": "35-39",
+      "male": 190799,
+      "female": 187705
+    },
+    {
+      "ageGroup": "40-44",
+      "male": 163037,
+      "female": 159309
+    },
+    {
+      "ageGroup": "45-49",
+      "male": 136143,
+      "female": 130520
+    },
+    {
+      "ageGroup": "50-54",
+      "male": 111409,
+      "female": 107283
+    },
+    {
+      "ageGroup": "55-59",
+      "male": 88911,
+      "female": 90097
+    },
+    {
+      "ageGroup": "60-64",
+      "male": 67793,
+      "female": 72353
+    },
+    {
+      "ageGroup": "65-69",
+      "male": 49102,
+      "female": 56747
+    },
+    {
+      "ageGroup": "70-74",
+      "male": 31894,
+      "female": 41013
+    },
+    {
+      "ageGroup": "75-79",
+      "male": 20296,
+      "female": 28772
+    },
+    {
+      "ageGroup": "80-84",
+      "male": 10987,
+      "female": 16971
+    },
+    {
+      "ageGroup": "85-89",
+      "male": 5061,
+      "female": 9744
+    },
+    {
+      "ageGroup": "90-94",
+      "male": 1319,
+      "female": 3474
+    },
+    {
+      "ageGroup": "95-99",
+      "male": 181,
+      "female": 641
+    },
+    {
+      "ageGroup": "100+",
+      "male": 12,
+      "female": 58
+    }
+  ]
+}
